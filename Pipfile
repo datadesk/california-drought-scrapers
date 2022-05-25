@@ -9,6 +9,7 @@ pandas = "*"
 altair = "*"
 tableauscraper = "*"
 altair-latimes = "*"
+playwright = "*"
 
 [dev-packages]
 
