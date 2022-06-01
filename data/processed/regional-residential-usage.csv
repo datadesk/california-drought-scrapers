@@ -1,0 +1,941 @@
+hydrologic_region,reporting_month,agencies_reporting,pop_weighted_rgpcd
+Central Coast,2014-06-15,30,100
+Colorado River,2014-06-15,13,222
+North Coast,2014-06-15,13,88
+North Lahontan,2014-06-15,5,162
+Sacramento River,2014-06-15,40,187
+San Francisco Bay,2014-06-15,43,94
+San Joaquin River,2014-06-15,25,195
+South Coast,2014-06-15,171,120
+South Lahontan,2014-06-15,16,188
+Tulare Lake,2014-06-15,28,201
+Central Coast,2014-07-15,32,95
+Colorado River,2014-07-15,13,241
+North Coast,2014-07-15,14,95
+North Lahontan,2014-07-15,5,148
+Sacramento River,2014-07-15,42,196
+San Francisco Bay,2014-07-15,47,95
+San Joaquin River,2014-07-15,28,194
+South Coast,2014-07-15,175,119
+South Lahontan,2014-07-15,17,190
+Tulare Lake,2014-07-15,30,211
+Central Coast,2014-08-15,31,91
+Colorado River,2014-08-15,15,222
+North Coast,2014-08-15,15,82
+North Lahontan,2014-08-15,5,131
+Sacramento River,2014-08-15,42,185
+San Francisco Bay,2014-08-15,47,91
+San Joaquin River,2014-08-15,27,171
+South Coast,2014-08-15,175,111
+South Lahontan,2014-08-15,17,179
+Tulare Lake,2014-08-15,31,189
+Central Coast,2014-09-15,32,89
+Colorado River,2014-09-15,15,185
+North Coast,2014-09-15,15,84
+North Lahontan,2014-09-15,5,127
+Sacramento River,2014-09-15,43,163
+San Francisco Bay,2014-09-15,47,84
+San Joaquin River,2014-09-15,28,156
+South Coast,2014-09-15,175,111
+South Lahontan,2014-09-15,17,158
+Tulare Lake,2014-09-15,31,179
+Central Coast,2014-10-15,32,83
+Colorado River,2014-10-15,15,173
+North Coast,2014-10-15,15,67
+North Lahontan,2014-10-15,5,94
+Sacramento River,2014-10-15,43,130
+San Francisco Bay,2014-10-15,47,76
+San Joaquin River,2014-10-15,27,128
+South Coast,2014-10-15,175,103
+South Lahontan,2014-10-15,17,132
+Tulare Lake,2014-10-15,30,148
+Central Coast,2014-11-15,32,66
+Colorado River,2014-11-15,15,169
+North Coast,2014-11-15,15,55
+North Lahontan,2014-11-15,5,68
+Sacramento River,2014-11-15,43,88
+San Francisco Bay,2014-11-15,47,59
+San Joaquin River,2014-11-15,27,90
+South Coast,2014-11-15,175,88
+South Lahontan,2014-11-15,17,107
+Tulare Lake,2014-11-15,30,105
+Central Coast,2014-12-15,32,54
+Colorado River,2014-12-15,15,118
+North Coast,2014-12-15,15,57
+North Lahontan,2014-12-15,5,73
+Sacramento River,2014-12-15,42,70
+San Francisco Bay,2014-12-15,47,53
+San Joaquin River,2014-12-15,27,71
+South Coast,2014-12-15,174,64
+South Lahontan,2014-12-15,17,72
+Tulare Lake,2014-12-15,30,80
+Central Coast,2015-01-15,32,60
+Colorado River,2015-01-15,15,118
+North Coast,2015-01-15,15,54
+North Lahontan,2015-01-15,5,70
+Sacramento River,2015-01-15,42,74
+San Francisco Bay,2015-01-15,47,57
+San Joaquin River,2015-01-15,27,68
+South Coast,2015-01-15,175,73
+South Lahontan,2015-01-15,17,71
+Tulare Lake,2015-01-15,30,75
+Central Coast,2015-02-15,31,62
+Colorado River,2015-02-15,15,135
+North Coast,2015-02-15,15,55
+North Lahontan,2015-02-15,5,64
+Sacramento River,2015-02-15,42,74
+San Francisco Bay,2015-02-15,47,57
+San Joaquin River,2015-02-15,27,71
+South Coast,2015-02-15,175,79
+South Lahontan,2015-02-15,17,78
+Tulare Lake,2015-02-15,30,78
+Central Coast,2015-03-15,31,65
+Colorado River,2015-03-15,15,124
+North Coast,2015-03-15,15,62
+North Lahontan,2015-03-15,5,61
+Sacramento River,2015-03-15,42,98
+San Francisco Bay,2015-03-15,47,65
+San Joaquin River,2015-03-15,27,92
+South Coast,2015-03-15,175,83
+South Lahontan,2015-03-15,17,96
+Tulare Lake,2015-03-15,29,101
+Central Coast,2015-04-15,32,71
+Colorado River,2015-04-15,15,163
+North Coast,2015-04-15,15,60
+North Lahontan,2015-04-15,5,66
+Sacramento River,2015-04-15,43,104
+San Francisco Bay,2015-04-15,47,67
+San Joaquin River,2015-04-15,27,104
+South Coast,2015-04-15,174,89
+South Lahontan,2015-04-15,17,113
+Tulare Lake,2015-04-15,30,127
+Central Coast,2015-05-15,32,70
+Colorado River,2015-05-15,15,163
+North Coast,2015-05-15,15,64
+North Lahontan,2015-05-15,5,83
+Sacramento River,2015-05-15,43,118
+San Francisco Bay,2015-05-15,47,69
+San Joaquin River,2015-05-15,27,111
+South Coast,2015-05-15,175,80
+South Lahontan,2015-05-15,17,121
+Tulare Lake,2015-05-15,30,131
+Central Coast,2015-06-15,32,74
+Colorado River,2015-06-15,15,170
+North Coast,2015-06-15,15,79
+North Lahontan,2015-06-15,5,115
+Sacramento River,2015-06-15,43,137
+San Francisco Bay,2015-06-15,47,73
+San Joaquin River,2015-06-15,28,127
+South Coast,2015-06-15,175,90
+South Lahontan,2015-06-15,17,133
+Tulare Lake,2015-06-15,31,154
+Central Coast,2015-07-15,32,75
+Colorado River,2015-07-15,15,154
+North Coast,2015-07-15,15,73
+North Lahontan,2015-07-15,5,113
+Sacramento River,2015-07-15,43,153
+San Francisco Bay,2015-07-15,47,77
+San Joaquin River,2015-07-15,28,131
+South Coast,2015-07-15,175,87
+South Lahontan,2015-07-15,17,131
+Tulare Lake,2015-07-15,31,162
+Central Coast,2015-08-15,32,75
+Colorado River,2015-08-15,15,172
+North Coast,2015-08-15,15,76
+North Lahontan,2015-08-15,5,118
+Sacramento River,2015-08-15,43,147
+San Francisco Bay,2015-08-15,47,71
+San Joaquin River,2015-08-15,28,132
+South Coast,2015-08-15,175,93
+South Lahontan,2015-08-15,17,148
+Tulare Lake,2015-08-15,31,163
+Central Coast,2015-09-15,32,75
+Colorado River,2015-09-15,15,162
+North Coast,2015-09-15,15,73
+North Lahontan,2015-09-15,5,113
+Sacramento River,2015-09-15,43,142
+San Francisco Bay,2015-09-15,47,71
+San Joaquin River,2015-09-15,28,123
+South Coast,2015-09-15,175,88
+South Lahontan,2015-09-15,17,130
+Tulare Lake,2015-09-15,31,149
+Central Coast,2015-10-15,32,70
+Colorado River,2015-10-15,15,132
+North Coast,2015-10-15,15,70
+North Lahontan,2015-10-15,5,81
+Sacramento River,2015-10-15,43,118
+San Francisco Bay,2015-10-15,47,66
+San Joaquin River,2015-10-15,28,103
+South Coast,2015-10-15,175,82
+South Lahontan,2015-10-15,17,107
+Tulare Lake,2015-10-15,31,123
+Central Coast,2015-11-15,32,59
+Colorado River,2015-11-15,15,138
+North Coast,2015-11-15,15,53
+North Lahontan,2015-11-15,5,56
+Sacramento River,2015-11-15,43,80
+San Francisco Bay,2015-11-15,47,54
+San Joaquin River,2015-11-15,28,77
+South Coast,2015-11-15,175,77
+South Lahontan,2015-11-15,17,91
+Tulare Lake,2015-11-15,31,88
+Central Coast,2015-12-15,32,53
+Colorado River,2015-12-15,15,112
+North Coast,2015-12-15,15,53
+North Lahontan,2015-12-15,5,62
+Sacramento River,2015-12-15,43,68
+San Francisco Bay,2015-12-15,47,50
+San Joaquin River,2015-12-15,28,66
+South Coast,2015-12-15,175,69
+South Lahontan,2015-12-15,17,74
+Tulare Lake,2015-12-15,31,76
+Central Coast,2016-01-15,32,49
+Colorado River,2016-01-15,15,99
+North Coast,2016-01-15,15,50
+North Lahontan,2016-01-15,5,54
+Sacramento River,2016-01-15,43,68
+San Francisco Bay,2016-01-15,47,48
+San Joaquin River,2016-01-15,28,62
+South Coast,2016-01-15,175,62
+South Lahontan,2016-01-15,17,68
+Tulare Lake,2016-01-15,31,69
+Central Coast,2016-02-15,32,53
+Colorado River,2016-02-15,15,110
+North Coast,2016-02-15,15,52
+North Lahontan,2016-02-15,5,55
+Sacramento River,2016-02-15,43,66
+San Francisco Bay,2016-02-15,47,50
+San Joaquin River,2016-02-15,28,67
+South Coast,2016-02-15,175,71
+South Lahontan,2016-02-15,17,69
+Tulare Lake,2016-02-15,31,70
+Central Coast,2016-03-15,32,52
+Colorado River,2016-03-15,15,116
+North Coast,2016-03-15,15,52
+North Lahontan,2016-03-15,5,54
+Sacramento River,2016-03-15,43,69
+San Francisco Bay,2016-03-15,47,50
+San Joaquin River,2016-03-15,28,67
+South Coast,2016-03-15,175,67
+South Lahontan,2016-03-15,17,78
+Tulare Lake,2016-03-15,31,79
+Central Coast,2016-04-15,32,62
+Colorado River,2016-04-15,15,133
+North Coast,2016-04-15,15,55
+North Lahontan,2016-04-15,5,57
+Sacramento River,2016-04-15,43,93
+San Francisco Bay,2016-04-15,47,56
+San Joaquin River,2016-04-15,28,84
+South Coast,2016-04-15,175,76
+South Lahontan,2016-04-15,17,98
+Tulare Lake,2016-04-15,31,99
+Central Coast,2016-05-15,32,70
+Colorado River,2016-05-15,15,148
+North Coast,2016-05-15,15,62
+North Lahontan,2016-05-15,5,79
+Sacramento River,2016-05-15,43,121
+San Francisco Bay,2016-05-15,47,65
+San Joaquin River,2016-05-15,28,108
+South Coast,2016-05-15,175,80
+South Lahontan,2016-05-15,17,115
+Tulare Lake,2016-05-15,31,128
+Central Coast,2016-06-15,32,78
+Colorado River,2016-06-15,15,178
+North Coast,2016-06-15,16,86
+North Lahontan,2016-06-15,5,134
+Sacramento River,2016-06-15,43,163
+San Francisco Bay,2016-06-15,47,78
+San Joaquin River,2016-06-15,28,138
+South Coast,2016-06-15,175,93
+South Lahontan,2016-06-15,17,145
+Tulare Lake,2016-06-15,31,167
+Central Coast,2016-07-15,32,80
+Colorado River,2016-07-15,15,188
+North Coast,2016-07-15,16,83
+North Lahontan,2016-07-15,5,143
+Sacramento River,2016-07-15,43,187
+San Francisco Bay,2016-07-15,47,81
+San Joaquin River,2016-07-15,28,149
+South Coast,2016-07-15,175,100
+South Lahontan,2016-07-15,17,160
+Tulare Lake,2016-07-15,31,190
+Central Coast,2016-08-15,32,78
+Colorado River,2016-08-15,14,205
+North Coast,2016-08-15,16,82
+North Lahontan,2016-08-15,5,144
+Sacramento River,2016-08-15,43,180
+San Francisco Bay,2016-08-15,47,81
+San Joaquin River,2016-08-15,28,149
+South Coast,2016-08-15,175,102
+South Lahontan,2016-08-15,17,147
+Tulare Lake,2016-08-15,31,188
+Central Coast,2016-09-15,32,77
+Colorado River,2016-09-15,15,190
+North Coast,2016-09-15,16,82
+North Lahontan,2016-09-15,5,128
+Sacramento River,2016-09-15,43,162
+San Francisco Bay,2016-09-15,47,78
+San Joaquin River,2016-09-15,28,131
+South Coast,2016-09-15,175,95
+South Lahontan,2016-09-15,17,147
+Tulare Lake,2016-09-15,31,176
+Central Coast,2016-10-15,32,69
+Colorado River,2016-10-15,15,169
+North Coast,2016-10-15,16,68
+North Lahontan,2016-10-15,5,77
+Sacramento River,2016-10-15,43,109
+San Francisco Bay,2016-10-15,47,65
+San Joaquin River,2016-10-15,28,103
+South Coast,2016-10-15,175,86
+South Lahontan,2016-10-15,17,109
+Tulare Lake,2016-10-15,31,144
+Central Coast,2016-11-15,32,58
+Colorado River,2016-11-15,15,155
+North Coast,2016-11-15,16,51
+North Lahontan,2016-11-15,5,54
+Sacramento River,2016-11-15,43,76
+San Francisco Bay,2016-11-15,47,54
+San Joaquin River,2016-11-15,28,76
+South Coast,2016-11-15,174,78
+South Lahontan,2016-11-15,17,94
+Tulare Lake,2016-11-15,31,112
+Central Coast,2016-12-15,32,50
+Colorado River,2016-12-15,15,120
+North Coast,2016-12-15,16,52
+North Lahontan,2016-12-15,5,59
+Sacramento River,2016-12-15,43,69
+San Francisco Bay,2016-12-15,47,50
+San Joaquin River,2016-12-15,28,65
+South Coast,2016-12-15,175,66
+South Lahontan,2016-12-15,17,74
+Tulare Lake,2016-12-15,31,82
+Central Coast,2017-01-15,32,48
+Colorado River,2017-01-15,15,93
+North Coast,2017-01-15,16,50
+North Lahontan,2017-01-15,5,60
+Sacramento River,2017-01-15,43,69
+San Francisco Bay,2017-01-15,47,49
+San Joaquin River,2017-01-15,28,63
+South Coast,2017-01-15,175,56
+South Lahontan,2017-01-15,17,60
+Tulare Lake,2017-01-15,31,72
+Central Coast,2017-02-15,32,48
+Colorado River,2017-02-15,15,109
+North Coast,2017-02-15,16,51
+North Lahontan,2017-02-15,5,58
+Sacramento River,2017-02-15,43,65
+San Francisco Bay,2017-02-15,47,49
+San Joaquin River,2017-02-15,28,60
+South Coast,2017-02-15,175,56
+South Lahontan,2017-02-15,17,63
+Tulare Lake,2017-02-15,31,69
+Central Coast,2017-03-15,32,50
+Colorado River,2017-03-15,15,112
+North Coast,2017-03-15,16,48
+North Lahontan,2017-03-15,5,60
+Sacramento River,2017-03-15,43,71
+San Francisco Bay,2017-03-15,47,50
+San Joaquin River,2017-03-15,28,68
+South Coast,2017-03-15,175,69
+South Lahontan,2017-03-15,17,79
+Tulare Lake,2017-03-15,31,89
+Central Coast,2017-04-15,32,60
+Colorado River,2017-04-15,15,165
+North Coast,2017-04-15,16,55
+North Lahontan,2017-04-15,5,66
+Sacramento River,2017-04-15,43,77
+San Francisco Bay,2017-04-15,47,55
+San Joaquin River,2017-04-15,28,79
+South Coast,2017-04-15,175,84
+South Lahontan,2017-04-15,17,102
+Tulare Lake,2017-04-15,31,105
+Central Coast,2017-05-15,32,73
+Colorado River,2017-05-15,15,171
+North Coast,2017-05-15,16,68
+North Lahontan,2017-05-15,5,92
+Sacramento River,2017-05-15,43,141
+San Francisco Bay,2017-05-15,47,73
+San Joaquin River,2017-05-15,28,122
+South Coast,2017-05-15,174,88
+South Lahontan,2017-05-15,17,117
+Tulare Lake,2017-05-15,31,149
+Central Coast,2017-06-15,32,84
+Colorado River,2017-06-15,15,207
+North Coast,2017-06-15,16,76
+North Lahontan,2017-06-15,5,140
+Sacramento River,2017-06-15,43,172
+San Francisco Bay,2017-06-15,47,83
+San Joaquin River,2017-06-15,28,143
+South Coast,2017-06-15,173,98
+South Lahontan,2017-06-15,17,138
+Tulare Lake,2017-06-15,31,182
+Central Coast,2017-07-15,32,85
+Colorado River,2017-07-15,15,217
+North Coast,2017-07-15,16,91
+North Lahontan,2017-07-15,5,151
+Sacramento River,2017-07-15,43,202
+San Francisco Bay,2017-07-15,47,87
+San Joaquin River,2017-07-15,28,159
+South Coast,2017-07-15,174,104
+South Lahontan,2017-07-15,17,170
+Tulare Lake,2017-07-15,30,199
+Central Coast,2017-08-15,32,83
+Colorado River,2017-08-15,15,206
+North Coast,2017-08-15,16,81
+North Lahontan,2017-08-15,5,138
+Sacramento River,2017-08-15,42,189
+San Francisco Bay,2017-08-15,47,87
+San Joaquin River,2017-08-15,28,154
+South Coast,2017-08-15,174,104
+South Lahontan,2017-08-15,17,151
+Tulare Lake,2017-08-15,30,194
+Central Coast,2017-09-15,32,81
+Colorado River,2017-09-15,15,195
+North Coast,2017-09-15,15,85
+North Lahontan,2017-09-15,5,115
+Sacramento River,2017-09-15,43,175
+San Francisco Bay,2017-09-15,47,86
+San Joaquin River,2017-09-15,27,141
+South Coast,2017-09-15,174,98
+South Lahontan,2017-09-15,17,148
+Tulare Lake,2017-09-15,30,177
+Central Coast,2017-10-15,32,78
+Colorado River,2017-10-15,15,177
+North Coast,2017-10-15,15,72
+North Lahontan,2017-10-15,5,80
+Sacramento River,2017-10-15,42,139
+San Francisco Bay,2017-10-15,47,76
+San Joaquin River,2017-10-15,28,123
+South Coast,2017-10-15,173,97
+South Lahontan,2017-10-15,17,119
+Tulare Lake,2017-10-15,30,145
+Central Coast,2017-11-15,31,67
+Colorado River,2017-11-15,15,168
+North Coast,2017-11-15,15,51
+North Lahontan,2017-11-15,5,56
+Sacramento River,2017-11-15,42,86
+San Francisco Bay,2017-11-15,46,60
+San Joaquin River,2017-11-15,28,86
+South Coast,2017-11-15,169,85
+South Lahontan,2017-11-15,17,96
+Tulare Lake,2017-11-15,30,118
+Central Coast,2017-12-15,30,63
+Colorado River,2017-12-15,15,129
+North Coast,2017-12-15,15,48
+North Lahontan,2017-12-15,5,60
+Sacramento River,2017-12-15,42,74
+San Francisco Bay,2017-12-15,47,56
+San Joaquin River,2017-12-15,27,78
+South Coast,2017-12-15,165,83
+South Lahontan,2017-12-15,16,84
+Tulare Lake,2017-12-15,29,94
+Central Coast,2018-01-15,30,56
+Colorado River,2018-01-15,15,120
+North Coast,2018-01-15,15,53
+North Lahontan,2018-01-15,5,59
+Sacramento River,2018-01-15,42,69
+San Francisco Bay,2018-01-15,47,52
+San Joaquin River,2018-01-15,27,71
+South Coast,2018-01-15,167,73
+South Lahontan,2018-01-15,16,77
+Tulare Lake,2018-01-15,29,82
+Central Coast,2018-02-15,30,62
+Colorado River,2018-02-15,15,136
+North Coast,2018-02-15,15,52
+North Lahontan,2018-02-15,5,57
+Sacramento River,2018-02-15,42,77
+San Francisco Bay,2018-02-15,47,56
+San Joaquin River,2018-02-15,27,78
+South Coast,2018-02-15,165,79
+South Lahontan,2018-02-15,17,83
+Tulare Lake,2018-02-15,28,89
+Central Coast,2018-03-15,28,52
+Colorado River,2018-03-15,15,122
+North Coast,2018-03-15,15,50
+North Lahontan,2018-03-15,5,58
+Sacramento River,2018-03-15,42,72
+San Francisco Bay,2018-03-15,47,52
+San Joaquin River,2018-03-15,26,73
+South Coast,2018-03-15,164,64
+South Lahontan,2018-03-15,17,73
+Tulare Lake,2018-03-15,28,81
+Central Coast,2018-04-15,29,61
+Colorado River,2018-04-15,14,163
+North Coast,2018-04-15,15,57
+North Lahontan,2018-04-15,5,58
+Sacramento River,2018-04-15,42,88
+San Francisco Bay,2018-04-15,47,57
+San Joaquin River,2018-04-15,26,90
+South Coast,2018-04-15,162,82
+South Lahontan,2018-04-15,17,95
+Tulare Lake,2018-04-15,27,111
+Central Coast,2018-05-15,30,72
+Colorado River,2018-05-15,15,175
+North Coast,2018-05-15,15,65
+North Lahontan,2018-05-15,5,91
+Sacramento River,2018-05-15,42,137
+San Francisco Bay,2018-05-15,47,71
+San Joaquin River,2018-05-15,26,127
+South Coast,2018-05-15,162,85
+South Lahontan,2018-05-15,17,117
+Tulare Lake,2018-05-15,26,158
+Central Coast,2018-06-15,30,84
+Colorado River,2018-06-15,15,201
+North Coast,2018-06-15,15,81
+North Lahontan,2018-06-15,4,140
+Sacramento River,2018-06-15,42,170
+San Francisco Bay,2018-06-15,47,82
+San Joaquin River,2018-06-15,26,153
+South Coast,2018-06-15,164,95
+South Lahontan,2018-06-15,16,152
+Tulare Lake,2018-06-15,27,184
+Central Coast,2018-07-15,29,83
+Colorado River,2018-07-15,15,208
+North Coast,2018-07-15,15,88
+North Lahontan,2018-07-15,4,158
+Sacramento River,2018-07-15,41,197
+San Francisco Bay,2018-07-15,47,86
+San Joaquin River,2018-07-15,26,163
+South Coast,2018-07-15,165,103
+South Lahontan,2018-07-15,16,163
+Tulare Lake,2018-07-15,27,197
+Central Coast,2018-08-15,30,83
+Colorado River,2018-08-15,15,210
+North Coast,2018-08-15,14,79
+North Lahontan,2018-08-15,4,147
+Sacramento River,2018-08-15,38,169
+San Francisco Bay,2018-08-15,47,85
+San Joaquin River,2018-08-15,26,154
+South Coast,2018-08-15,163,106
+South Lahontan,2018-08-15,17,160
+Tulare Lake,2018-08-15,27,192
+Central Coast,2018-09-15,29,81
+Colorado River,2018-09-15,15,207
+North Coast,2018-09-15,14,77
+North Lahontan,2018-09-15,4,132
+Sacramento River,2018-09-15,38,151
+San Francisco Bay,2018-09-15,47,81
+San Joaquin River,2018-09-15,26,144
+South Coast,2018-09-15,164,99
+South Lahontan,2018-09-15,16,142
+Tulare Lake,2018-09-15,27,175
+Central Coast,2018-10-15,29,72
+Colorado River,2018-10-15,15,165
+North Coast,2018-10-15,14,74
+North Lahontan,2018-10-15,4,83
+Sacramento River,2018-10-15,37,129
+San Francisco Bay,2018-10-15,47,74
+San Joaquin River,2018-10-15,26,117
+South Coast,2018-10-15,162,89
+South Lahontan,2018-10-15,16,110
+Tulare Lake,2018-10-15,27,143
+Central Coast,2018-11-15,29,66
+Colorado River,2018-11-15,15,163
+North Coast,2018-11-15,14,62
+North Lahontan,2018-11-15,4,55
+Sacramento River,2018-11-15,38,101
+San Francisco Bay,2018-11-15,47,65
+San Joaquin River,2018-11-15,26,95
+South Coast,2018-11-15,163,85
+South Lahontan,2018-11-15,15,101
+Tulare Lake,2018-11-15,26,121
+Central Coast,2018-12-15,29,52
+Colorado River,2018-12-15,15,120
+North Coast,2018-12-15,14,56
+North Lahontan,2018-12-15,4,62
+Sacramento River,2018-12-15,36,69
+San Francisco Bay,2018-12-15,46,52
+San Joaquin River,2018-12-15,26,69
+South Coast,2018-12-15,162,66
+South Lahontan,2018-12-15,15,72
+Tulare Lake,2018-12-15,25,81
+Central Coast,2019-01-15,29,50
+Colorado River,2019-01-15,15,116
+North Coast,2019-01-15,14,48
+North Lahontan,2019-01-15,4,60
+Sacramento River,2019-01-15,36,66
+San Francisco Bay,2019-01-15,45,48
+San Joaquin River,2019-01-15,26,66
+South Coast,2019-01-15,161,64
+South Lahontan,2019-01-15,16,67
+Tulare Lake,2019-01-15,25,75
+Central Coast,2019-02-15,29,50
+Colorado River,2019-02-15,14,106
+North Coast,2019-02-15,14,54
+North Lahontan,2019-02-15,4,54
+Sacramento River,2019-02-15,35,64
+San Francisco Bay,2019-02-15,45,49
+San Joaquin River,2019-02-15,26,66
+South Coast,2019-02-15,161,58
+South Lahontan,2019-02-15,16,65
+Tulare Lake,2019-02-15,25,72
+Central Coast,2019-03-15,29,48
+Colorado River,2019-03-15,15,114
+North Coast,2019-03-15,14,51
+North Lahontan,2019-03-15,4,57
+Sacramento River,2019-03-15,35,68
+San Francisco Bay,2019-03-15,45,49
+San Joaquin River,2019-03-15,26,67
+South Coast,2019-03-15,160,59
+South Lahontan,2019-03-15,16,71
+Tulare Lake,2019-03-15,25,76
+Central Coast,2019-04-15,29,62
+Colorado River,2019-04-15,15,158
+North Coast,2019-04-15,14,59
+North Lahontan,2019-04-15,4,65
+Sacramento River,2019-04-15,34,84
+San Francisco Bay,2019-04-15,44,58
+San Joaquin River,2019-04-15,25,97
+South Coast,2019-04-15,161,79
+South Lahontan,2019-04-15,16,95
+Tulare Lake,2019-04-15,25,116
+Central Coast,2019-05-15,29,67
+Colorado River,2019-05-15,14,161
+North Coast,2019-05-15,13,58
+North Lahontan,2019-05-15,4,88
+Sacramento River,2019-05-15,34,117
+San Francisco Bay,2019-05-15,45,68
+San Joaquin River,2019-05-15,25,113
+South Coast,2019-05-15,159,75
+South Lahontan,2019-05-15,16,104
+Tulare Lake,2019-05-15,25,132
+Central Coast,2019-06-15,28,77
+Colorado River,2019-06-15,14,193
+North Coast,2019-06-15,13,75
+North Lahontan,2019-06-15,4,125
+Sacramento River,2019-06-15,34,150
+San Francisco Bay,2019-06-15,45,79
+San Joaquin River,2019-06-15,24,145
+South Coast,2019-06-15,157,88
+South Lahontan,2019-06-15,16,141
+Tulare Lake,2019-06-15,25,170
+Central Coast,2019-07-15,29,81
+Colorado River,2019-07-15,14,206
+North Coast,2019-07-15,14,92
+North Lahontan,2019-07-15,4,146
+Sacramento River,2019-07-15,33,168
+San Francisco Bay,2019-07-15,45,84
+San Joaquin River,2019-07-15,24,158
+South Coast,2019-07-15,157,99
+South Lahontan,2019-07-15,16,147
+Tulare Lake,2019-07-15,24,195
+Central Coast,2019-08-15,29,83
+Colorado River,2019-08-15,14,209
+North Coast,2019-08-15,14,85
+North Lahontan,2019-08-15,4,145
+Sacramento River,2019-08-15,35,172
+San Francisco Bay,2019-08-15,45,86
+San Joaquin River,2019-08-15,24,155
+South Coast,2019-08-15,157,101
+South Lahontan,2019-08-15,16,159
+Tulare Lake,2019-08-15,25,195
+Central Coast,2019-09-15,29,84
+Colorado River,2019-09-15,14,202
+North Coast,2019-09-15,14,85
+North Lahontan,2019-09-15,4,119
+Sacramento River,2019-09-15,34,156
+San Francisco Bay,2019-09-15,44,83
+San Joaquin River,2019-09-15,24,143
+South Coast,2019-09-15,157,98
+South Lahontan,2019-09-15,16,141
+Tulare Lake,2019-09-15,25,178
+Central Coast,2019-10-15,30,77
+Colorado River,2019-10-15,13,159
+North Coast,2019-10-15,14,79
+North Lahontan,2019-10-15,4,71
+Sacramento River,2019-10-15,33,125
+San Francisco Bay,2019-10-15,44,75
+San Joaquin River,2019-10-15,24,121
+South Coast,2019-10-15,157,94
+South Lahontan,2019-10-15,16,112
+Tulare Lake,2019-10-15,25,147
+Central Coast,2019-11-15,29,69
+Colorado River,2019-11-15,13,166
+North Coast,2019-11-15,14,69
+North Lahontan,2019-11-15,4,57
+Sacramento River,2019-11-15,33,110
+San Francisco Bay,2019-11-15,43,67
+San Joaquin River,2019-11-15,24,100
+South Coast,2019-11-15,156,81
+South Lahontan,2019-11-15,16,95
+Tulare Lake,2019-11-15,25,122
+Central Coast,2019-12-15,29,51
+Colorado River,2019-12-15,12,113
+North Coast,2019-12-15,14,55
+North Lahontan,2019-12-15,4,61
+Sacramento River,2019-12-15,34,68
+San Francisco Bay,2019-12-15,43,52
+San Joaquin River,2019-12-15,24,72
+South Coast,2019-12-15,156,61
+South Lahontan,2019-12-15,16,65
+Tulare Lake,2019-12-15,25,87
+Central Coast,2020-01-15,28,49
+Colorado River,2020-01-15,12,113
+North Coast,2020-01-15,14,51
+North Lahontan,2020-01-15,5,55
+Sacramento River,2020-01-15,38,68
+San Francisco Bay,2020-01-15,45,52
+San Joaquin River,2020-01-15,25,65
+South Coast,2020-01-15,161,67
+South Lahontan,2020-01-15,16,67
+Tulare Lake,2020-01-15,24,75
+Central Coast,2020-02-15,27,59
+Colorado River,2020-02-15,13,133
+North Coast,2020-02-15,14,53
+North Lahontan,2020-02-15,5,52
+Sacramento River,2020-02-15,39,81
+San Francisco Bay,2020-02-15,45,58
+San Joaquin River,2020-02-15,25,82
+South Coast,2020-02-15,164,73
+South Lahontan,2020-02-15,16,81
+Tulare Lake,2020-02-15,25,82
+Central Coast,2020-03-15,28,55
+Colorado River,2020-03-15,13,113
+North Coast,2020-03-15,14,56
+North Lahontan,2020-03-15,5,54
+Sacramento River,2020-03-15,40,88
+San Francisco Bay,2020-03-15,45,59
+San Joaquin River,2020-03-15,25,85
+South Coast,2020-03-15,164,63
+South Lahontan,2020-03-15,16,73
+Tulare Lake,2020-03-15,25,89
+Central Coast,2020-04-15,26,61
+Colorado River,2020-04-15,13,133
+North Coast,2020-04-15,14,67
+North Lahontan,2020-04-15,5,65
+Sacramento River,2020-04-15,40,100
+San Francisco Bay,2020-04-15,46,64
+San Joaquin River,2020-04-15,25,96
+South Coast,2020-04-15,164,68
+South Lahontan,2020-04-15,16,79
+Tulare Lake,2020-04-15,25,98
+Central Coast,2020-05-15,27,78
+Colorado River,2020-05-15,14,176
+North Coast,2020-05-15,14,70
+North Lahontan,2020-05-15,5,107
+Sacramento River,2020-05-15,40,145
+San Francisco Bay,2020-05-15,45,77
+San Joaquin River,2020-05-15,25,138
+South Coast,2020-05-15,164,88
+South Lahontan,2020-05-15,16,129
+Tulare Lake,2020-05-15,25,152
+Central Coast,2020-06-15,28,87
+Colorado River,2020-06-15,13,226
+North Coast,2020-06-15,13,84
+North Lahontan,2020-06-15,5,136
+Sacramento River,2020-06-15,40,177
+San Francisco Bay,2020-06-15,45,89
+San Joaquin River,2020-06-15,25,155
+South Coast,2020-06-15,164,98
+South Lahontan,2020-06-15,16,140
+Tulare Lake,2020-06-15,25,183
+Central Coast,2020-07-15,28,93
+Colorado River,2020-07-15,15,217
+North Coast,2020-07-15,14,100
+North Lahontan,2020-07-15,5,136
+Sacramento River,2020-07-15,40,195
+San Francisco Bay,2020-07-15,45,91
+San Joaquin River,2020-07-15,26,162
+South Coast,2020-07-15,164,103
+South Lahontan,2020-07-15,16,157
+Tulare Lake,2020-07-15,24,200
+Central Coast,2020-08-15,28,92
+Colorado River,2020-08-15,15,230
+North Coast,2020-08-15,14,93
+North Lahontan,2020-08-15,5,141
+Sacramento River,2020-08-15,41,193
+San Francisco Bay,2020-08-15,45,90
+San Joaquin River,2020-08-15,26,162
+South Coast,2020-08-15,163,107
+South Lahontan,2020-08-15,16,161
+Tulare Lake,2020-08-15,25,192
+Central Coast,2020-09-15,31,87
+Colorado River,2020-09-15,15,216
+North Coast,2020-09-15,16,88
+North Lahontan,2020-09-15,5,134
+Sacramento River,2020-09-15,43,172
+San Francisco Bay,2020-09-15,46,84
+San Joaquin River,2020-09-15,29,147
+South Coast,2020-09-15,175,105
+South Lahontan,2020-09-15,17,156
+Tulare Lake,2020-09-15,29,174
+Central Coast,2020-10-15,32,83
+Colorado River,2020-10-15,15,183
+North Coast,2020-10-15,16,90
+North Lahontan,2020-10-15,5,104
+Sacramento River,2020-10-15,43,147
+San Francisco Bay,2020-10-15,45,77
+San Joaquin River,2020-10-15,29,128
+South Coast,2020-10-15,176,97
+South Lahontan,2020-10-15,17,127
+Tulare Lake,2020-10-15,31,147
+Central Coast,2020-11-15,32,71
+Colorado River,2020-11-15,15,182
+North Coast,2020-11-15,16,69
+North Lahontan,2020-11-15,5,64
+Sacramento River,2020-11-15,43,105
+San Francisco Bay,2020-11-15,47,63
+San Joaquin River,2020-11-15,29,102
+South Coast,2020-11-15,175,86
+South Lahontan,2020-11-15,16,98
+Tulare Lake,2020-11-15,32,114
+Central Coast,2020-12-15,32,65
+Colorado River,2020-12-15,14,138
+North Coast,2020-12-15,16,59
+North Lahontan,2020-12-15,5,61
+Sacramento River,2020-12-15,42,79
+San Francisco Bay,2020-12-15,47,56
+San Joaquin River,2020-12-15,29,81
+South Coast,2020-12-15,175,82
+South Lahontan,2020-12-15,17,84
+Tulare Lake,2020-12-15,31,91
+Central Coast,2021-01-15,32,60
+Colorado River,2021-01-15,14,132
+North Coast,2021-01-15,16,61
+North Lahontan,2021-01-15,5,61
+Sacramento River,2021-01-15,43,72
+San Francisco Bay,2021-01-15,47,53
+San Joaquin River,2021-01-15,29,75
+South Coast,2021-01-15,175,72
+South Lahontan,2021-01-15,17,76
+Tulare Lake,2021-01-15,32,85
+Central Coast,2021-02-15,32,61
+Colorado River,2021-02-15,15,124
+North Coast,2021-02-15,16,58
+North Lahontan,2021-02-15,5,61
+Sacramento River,2021-02-15,44,72
+San Francisco Bay,2021-02-15,47,54
+San Joaquin River,2021-02-15,29,78
+South Coast,2021-02-15,175,73
+South Lahontan,2021-02-15,15,77
+Tulare Lake,2021-02-15,32,84
+Central Coast,2021-03-15,30,65
+Colorado River,2021-03-15,15,130
+North Coast,2021-03-15,15,52
+North Lahontan,2021-03-15,5,56
+Sacramento River,2021-03-15,44,63
+San Francisco Bay,2021-03-15,47,59
+San Joaquin River,2021-03-15,29,87
+South Coast,2021-03-15,173,72
+South Lahontan,2021-03-15,16,85
+Tulare Lake,2021-03-15,32,95
+Central Coast,2021-04-15,31,75
+Colorado River,2021-04-15,15,172
+North Coast,2021-04-15,15,75
+North Lahontan,2021-04-15,5,70
+Sacramento River,2021-04-15,44,123
+San Francisco Bay,2021-04-15,47,71
+San Joaquin River,2021-04-15,29,118
+South Coast,2021-04-15,175,85
+South Lahontan,2021-04-15,17,111
+Tulare Lake,2021-04-15,29,128
+Central Coast,2021-05-15,32,81
+Colorado River,2021-05-15,15,192
+North Coast,2021-05-15,15,73
+North Lahontan,2021-05-15,5,107
+Sacramento River,2021-05-15,44,159
+San Francisco Bay,2021-05-15,46,75
+San Joaquin River,2021-05-15,29,134
+South Coast,2021-05-15,172,90
+South Lahontan,2021-05-15,16,125
+Tulare Lake,2021-05-15,32,156
+Central Coast,2021-06-15,32,88
+Colorado River,2021-06-15,15,211
+North Coast,2021-06-15,16,77
+North Lahontan,2021-06-15,5,145
+Sacramento River,2021-06-15,44,180
+San Francisco Bay,2021-06-15,47,80
+San Joaquin River,2021-06-15,29,155
+South Coast,2021-06-15,172,100
+South Lahontan,2021-06-15,17,146
+Tulare Lake,2021-06-15,32,183
+Central Coast,2021-07-15,32,86
+Colorado River,2021-07-15,15,216
+North Coast,2021-07-15,16,84
+North Lahontan,2021-07-15,5,136
+Sacramento River,2021-07-15,44,187
+San Francisco Bay,2021-07-15,47,81
+San Joaquin River,2021-07-15,29,156
+South Coast,2021-07-15,175,103
+South Lahontan,2021-07-15,16,159
+Tulare Lake,2021-07-15,32,196
+Central Coast,2021-08-15,32,86
+Colorado River,2021-08-15,14,215
+North Coast,2021-08-15,16,74
+North Lahontan,2021-08-15,5,139
+Sacramento River,2021-08-15,44,176
+San Francisco Bay,2021-08-15,47,77
+San Joaquin River,2021-08-15,29,153
+South Coast,2021-08-15,176,103
+South Lahontan,2021-08-15,16,158
+Tulare Lake,2021-08-15,32,186
+Central Coast,2021-09-15,31,85
+Colorado River,2021-09-15,14,209
+North Coast,2021-09-15,16,71
+North Lahontan,2021-09-15,5,125
+Sacramento River,2021-09-15,44,158
+San Francisco Bay,2021-09-15,46,76
+San Joaquin River,2021-09-15,29,140
+South Coast,2021-09-15,176,101
+South Lahontan,2021-09-15,17,149
+Tulare Lake,2021-09-15,32,173
+Central Coast,2021-10-15,31,73
+Colorado River,2021-10-15,14,172
+North Coast,2021-10-15,16,69
+North Lahontan,2021-10-15,5,80
+Sacramento River,2021-10-15,44,117
+San Francisco Bay,2021-10-15,47,62
+San Joaquin River,2021-10-15,29,109
+South Coast,2021-10-15,175,86
+South Lahontan,2021-10-15,15,113
+Tulare Lake,2021-10-15,32,137
+Central Coast,2021-11-15,32,64
+Colorado River,2021-11-15,15,175
+North Coast,2021-11-15,16,50
+North Lahontan,2021-11-15,5,56
+Sacramento River,2021-11-15,43,75
+San Francisco Bay,2021-11-15,47,50
+San Joaquin River,2021-11-15,29,78
+South Coast,2021-11-15,175,83
+South Lahontan,2021-11-15,16,99
+Tulare Lake,2021-11-15,32,99
+Central Coast,2021-12-15,32,56
+Colorado River,2021-12-15,15,133
+North Coast,2021-12-15,16,53
+North Lahontan,2021-12-15,5,58
+Sacramento River,2021-12-15,43,67
+San Francisco Bay,2021-12-15,47,48
+San Joaquin River,2021-12-15,29,69
+South Coast,2021-12-15,173,68
+South Lahontan,2021-12-15,15,76
+Tulare Lake,2021-12-15,32,78
+Central Coast,2022-01-15,30,56
+Colorado River,2022-01-15,14,134
+North Coast,2022-01-15,16,52
+North Lahontan,2022-01-15,5,57
+Sacramento River,2022-01-15,43,70
+San Francisco Bay,2022-01-15,46,48
+San Joaquin River,2022-01-15,29,72
+South Coast,2022-01-15,168,68
+South Lahontan,2022-01-15,16,74
+Tulare Lake,2022-01-15,30,73
+Central Coast,2022-02-15,28,65
+Colorado River,2022-02-15,14,148
+North Coast,2022-02-15,15,53
+North Lahontan,2022-02-15,4,49
+Sacramento River,2022-02-15,43,88
+San Francisco Bay,2022-02-15,46,55
+San Joaquin River,2022-02-15,28,85
+South Coast,2022-02-15,167,76
+South Lahontan,2022-02-15,16,76
+Tulare Lake,2022-02-15,31,85
+Central Coast,2022-03-15,27,65
+Colorado River,2022-03-15,10,149
+North Coast,2022-03-15,15,52
+North Lahontan,2022-03-15,5,51
+Sacramento River,2022-03-15,42,98
+San Francisco Bay,2022-03-15,43,59
+San Joaquin River,2022-03-15,22,93
+South Coast,2022-03-15,164,76
+South Lahontan,2022-03-15,16,90
+Tulare Lake,2022-03-15,29,94
