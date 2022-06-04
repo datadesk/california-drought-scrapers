@@ -7,6 +7,8 @@ name = "pypi"
 jupyterlab = "*"
 pandas = "*"
 numpy = "*"
+altair = "*"
+altair-latimes = "*"
 
 [dev-packages]
 
