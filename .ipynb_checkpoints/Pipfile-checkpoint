@@ -7,6 +7,13 @@ name = "pypi"
 jupyterlab = "*"
 pandas = "*"
 numpy = "*"
+altair = "*"
+altair-latimes = "*"
+regex = "*"
+openpyxl = "*"
+requests = "*"
+pytz = "*"
+DateTime = "*"
 
 [dev-packages]
 

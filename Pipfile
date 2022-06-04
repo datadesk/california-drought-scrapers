@@ -11,6 +11,9 @@ altair = "*"
 altair-latimes = "*"
 regex = "*"
 openpyxl = "*"
+requests = "*"
+pytz = "*"
+DateTime = "*"
 
 [dev-packages]
 
