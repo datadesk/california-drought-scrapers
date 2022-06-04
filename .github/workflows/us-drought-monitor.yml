@@ -1,4 +1,4 @@
-name: Scrape
+name: Scrape U.S. Drought Monitor
 
 on:
   schedule:
