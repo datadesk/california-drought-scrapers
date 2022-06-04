@@ -1,0 +1,32 @@
+name: Scrape U.S. Drought Monitor
+
+on:
+  schedule:
+    - cron: "0 13 * * 5" # set to run every Thursday at 6 a.m. PST (USDM publishes new data Thursdays at 5:30 a.m.)
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Install pipenv
+      run: pipx install pipenv
+    - uses: actions/setup-python@v2
+      with:
+        python-version: '3.9'
+        cache: 'pipenv'
+    - run: pipenv install
+    - name: Install requirements
+      run: pipenv install -r requirements.txt    
+    - name: Run total scraper
+      run: pipenv run jupyter execute downloaders/drought-monitor.ipynb  
+    - name: Add and commit
+      id: add_commit
+      uses: EndBug/add-and-commit@v8
+      with:
+        committer_name: Automated
+        committer_email: actions@users.noreply.github.com
+        message: "Latest U.S. Drought Monitor data"
+    - name: Push
+      run: git push
