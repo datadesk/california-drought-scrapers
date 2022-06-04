@@ -9,6 +9,8 @@ pandas = "*"
 numpy = "*"
 altair = "*"
 altair-latimes = "*"
+regex = "*"
+openpyxl = "*"
 
 [dev-packages]
 
