@@ -9,6 +9,9 @@ pandas = "*"
 numpy = "*"
 altair = "*"
 altair-latimes = "*"
+requests = "*"
+pytz = "*"
+DateTime = "*"
 
 [dev-packages]
 
