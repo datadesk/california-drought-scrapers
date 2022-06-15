@@ -1,227 +1,162 @@
-id,elevation,basin,county,hydrologic_region,nearby_city,lat,lon,operator,maintenance
-APN,654ft,COAST-MARIN,MARIN,SAN FRANCISCO BAY,STINSON BEACH,37.940000°,-122.637000°,Marin Municipal Water District,.None Specified
-ANT,4960ft,FEATHER R,PLUMAS,SACRAMENTO RIVER,SUSANVILLE,40.180000°,-120.607000°,CA Dept of Water Resources/O&M Oroville Field Division,CA Dept of Water Resources/O&M Oroville Field Division
-AST,1125ft,LOS GATOS CR (NEAR SAN JOSE),SANTA CLARA,SAN FRANCISCO BAY,SAN JOSE,37.132000°,-121.930000°,San Jose Water Company,.None Specified
-BRT,1607ft,SAN DIEGO R,SAN DIEGO,SOUTH COAST,CHULA VISTA,32.678000°,-116.669000°,San Diego County,.None Specified
-BAR,319ft,MERCED R,MARIPOSA,SAN JOAQUIN RIVER,PLANADA,37.367000°,-120.217000°,US Army Corps of Engineers,.None Specified
-BRV,6743ft,SANTA ANA R,SAN BERNARDINO,SOUTH COAST,SAN BERNARDINO,34.242000°,-116.978000°,Big Bear Municipal Water District,.None Specified
-BRD,3398ft,STANISLAUS R,TUOLUMNE,SAN JOAQUIN RIVER,STRAWBERRY,38.203000°,-120.075000°,Oakdale South San Joaquin Irrigation District,.None Specified
-BTH,250ft,DELTA,ALAMEDA,SACRAMENTO RIVER,BYRON,37.785000°,-121.617000°,CA Dept of Water Resources,.None Specified
-BLB,426ft,STONY CR,TEHAMA,SACRAMENTO RIVER,ORLAND,39.808000°,-122.329000°,US Army Corps of Engineers,.None Specified
-BOC,5521ft,TRUCKEE R,NEVADA,NORTH LAHONTAN,TRUCKEE,39.388000°,-120.095000°,US Bureau of Reclamation,US Bureau of Reclamation
-BMP,723ft,COAST-MARIN,MARIN,SAN FRANCISCO BAY,SAN RAFAEL,37.957000°,-122.610000°,Marin Municipal Water District,.None Specified
-BQC,3008ft,U SANTA CLARA R,LOS ANGELES,SOUTH COAST,LANCASTER,34.586714°,-118.395314°,Los Angeles County,.None Specified
-BWN,5566ft,YUBA R,NEVADA,SACRAMENTO RIVER,GRANITEVILLE,39.450000°,-120.652000°,Nevada County,Nevada County
-BWS,5390ft,YUBA R,NEVADA,SACRAMENTO RIVER,TRUCKEE,39.441000°,-120.658000°,Pacific Gas & Electric,.None Specified
-BDP,6466ft,WALKER R,MONO,NORTH LAHONTAN,BRIDGEPORT,38.325000°,-119.211000°,USGS/DWR,.None Specified
-BIO,588ft,EAST BAY,CONTRA COSTA,SAN FRANCISCO BAY,PLEASANT HILL,37.915100°,-122.207000°,East Bay Municipal Utility District,East Bay Municipal Utility District
-BHC,2923ft,AMERICAN R,EL DORADO,SACRAMENTO RIVER,OROVILLE,38.805000°,-120.620000°,Sacramento Municipal Utility District,Sacramento Municipal Utility District
-BUC,450ft,CHOWCHILLA R,MADERA,SAN JOAQUIN RIVER,RAYMOND,37.213000°,-119.970000°,US Army Corps of Engineers,.None Specified
-BIL,6400ft,AMERICAN R,EL DORADO,SACRAMENTO RIVER,SOUTH LAKE TAHOE,39.001000°,-120.250000°,Sacramento Municipal Utility District,Sacramento Municipal Utility District
-BCL,5168ft,FEATHER R,PLUMAS,SACRAMENTO RIVER,QUINCY,39.897000°,-121.202000°,Pacific Gas & Electric,.None Specified
-BTV,4144ft,FEATHER R,PLUMAS,SACRAMENTO RIVER,SENECA,40.148020°,-121.174174°,Pacific Gas & Electric,.None Specified
-CCH,781ft,SANTA YNEZ R,SANTA BARBARA,CENTRAL COAST,SANTA YNEZ,34.583000°,-119.980000°,US Bureau of Reclamation,US Bureau of Reclamation
-CVE,775ft,ALAMEDA CR,ALAMEDA,SAN FRANCISCO BAY,MILPITAS,37.492000°,-121.818000°,San Francisco PUC,.None Specified
-CRO,196ft,GUADALUPE R,SANTA CLARA,SAN FRANCISCO BAY,SAN JOSE,37.183000°,-121.792000°,Santa Clara Valley Water District,.None Specified
-CMN,236ft,MOKELUMNE R,SAN JOAQUIN,SAN JOAQUIN RIVER,CLEMENTS,38.225000°,-121.021000°,East Bay Municipal Utility District,.None Specified
-CMI,3000ft,AMERICAN R,EL DORADO,SACRAMENTO RIVER,POLLACK PINES,38.833000°,-120.533000°,Sacramento Municipal Utility District,.None Specified
-CFW,260ft,BEAR R,YUBA,SACRAMENTO RIVER,MARYSVILLE,39.049858°,-121.315941°,CA Dept of Water Resources/DFM-Hydro-SMN,CA Dept of Water Resources/DFM-Hydro-SMN
-ALM,4600ft,FEATHER R,PLUMAS,SACRAMENTO RIVER,CHESTER,40.218000°,-121.173000°,Pacific Gas & Electric,.None Specified
-CPL,7800ft,AMERICAN R,ALPINE,SACRAMENTO RIVER,KIRKWOOD,38.707000°,-120.048000°,El Dorado Irrigation District,.None Specified
-CSI,335ft,VENTURA R,VENTURA,SOUTH COAST,CASITAS SPRINGS,34.373000°,-119.332000°,US Bureau of Reclamation,.None Specified
-CAS,1535ft,SANTA CLARA R,LOS ANGELES,SOUTH COAST,CASTAIC,34.515200°,-118.610100°,CA Dept of Water Resources/O&M Southern Field Division,.None Specified
-SLW,3331ft,MOJAVE R,SAN BERNARDINO,SOUTH LAHONTAN,SAN BERNARDINO,34.304000°,-117.318000°,CA Dept of Water Resources/Operations and Maintenance,.None Specified
-CHB,250ft,ALAMEDA CR,ALAMEDA,SAN FRANCISCO BAY,SAN  LEANDRO,37.730000°,-122.122000°,East Bay Municipal Utility District,.None Specified
-CHV,4765ft,TUOLUMNE R,TUOLUMNE,SAN JOAQUIN RIVER,BUCK MEADOWS,37.967000°,-119.917000°,Hetch Hetchy Water and Power,.None Specified
-JNN,707ft,SAN DIEGO R,SAN DIEGO,SOUTH COAST,EL CAJON,32.854000°,-116.892000°,Helix Water District,Helix Water District
-CLK,4552ft,KLAMATH R,MODOC,NORTH COAST,TULELAKE,41.927000°,-121.075000°,US Bureau of Reclamation,.None Specified
-CLA,1336ft,CACHE CR,LAKE,SACRAMENTO RIVER,CLEAR LAKE,38.957000°,-122.642000°,Yolo County Flood Control and Water Consv Dist,.None Specified
-CLC,3ft,DELTA,CONTRA COSTA,SAN FRANCISCO BAY,BYRON,37.829800°,-121.557400°,CA Dept of Water Resources/Operations and Maintenance,.None Specified
-CGS,2405ft,SAN GABRIEL R,LOS ANGELES,SOUTH COAST,MONROVIA,34.245000°,-117.965000°,Los Angeles County,.None Specified
-CMB,1610ft,BEAR R,NEVADA,SACRAMENTO RIVER,GRASS VALLEY,39.017000°,-121.050000°,Nevada County,.None Specified
-CTG,8192ft,KINGS R,FRESNO,TULARE LAKE,SHAVER LAKE,37.072000°,-118.967000°,PG&E and Kings River Water Association,.None Specified
-CYC,755ft,SANTA CLARA VLY,SANTA CLARA,SAN FRANCISCO BAY,SAN MARTIN,37.118000°,-121.549000°,Santa Clara Valley Water District,.None Specified
-COY,720ft,RUSSIAN R,MENDOCINO,NORTH COAST,UKIAH,39.197000°,-123.186000°,US Army Corps of Engineers,.None Specified
-CNV,3380ft,SAN JOAQUIN R,MADERA,SAN JOAQUIN RIVER,OAKHURST,37.283000°,-119.517000°,Pacific Gas & Electric,.None Specified
-CUY,4641ft,SAN DIEGO R,SAN DIEGO,SOUTH COAST,SANTA YSABEL,32.990000°,-116.587000°,National Weather Service,.None Specified
-MHV,644ft,COLORADO R,State of Nevada,COLORADO RIVER,"LAUGHLIN, NV",35.197000°,-114.567000°,US Bureau of Reclamation,.None Specified
-DLV,703ft,ALAMEDA CR,ALAMEDA,SAN FRANCISCO BAY,LIVERMORE,37.614000°,-121.745000°,CA Dept of Water Resources/Operations and Maintenance,.None Specified
-DMV,1756ft,SANTA MARGARITA R,RIVERSIDE,SOUTH COAST,WINCHESTER,33.670000°,-117.066000°,Metropolitan Water District,.None Specified
-DNP,830ft,TUOLUMNE R,TUOLUMNE,SAN JOAQUIN RIVER,LA GRANGE,37.702000°,-120.421000°,USGS/USACE,.None Specified
-DON,4835ft,STANISLAUS R,TUOLUMNE,SAN JOAQUIN RIVER,PINECREST,38.329000°,-119.960000°,US Bureau of Reclamation,.None Specified
-DNN,5945ft,TRUCKEE R,NEVADA,NORTH LAHONTAN,TRUCKEE,39.322777°,-120.264400°,US Geological Survey,.None Specified
-DNL,5938ft,TRUCKEE R,NEVADA,NORTH LAHONTAN,TRUCKEE,39.324000°,-120.233000°,Sierra County,.None Specified
-DRE,2805ft,SHASTA R,SISKIYOU,NORTH COAST,EDGEWOOD,41.540894°,-122.374550°,Montague Water Conservation District,Eyasco Inc.
-EPK,1205ft,STONY CR,COLUSA,SACRAMENTO RIVER,STONEYFORD,39.367000°,-122.517000°,US Bureau of Reclamation,.None Specified
-ELC,600ft,SAN DIEGO R,SAN DIEGO,SOUTH COAST,EL CAJON,32.882000°,-116.808000°,San Diego County,San Diego County
-ENR,4660ft,TUOLUMNE R,TUOLUMNE,SAN JOAQUIN RIVER,HETCH HETCHY,37.974000°,-119.880000°,Hetch Hetchy Water and Power,.None Specified
-EJC,394ft,COYOTE WASH,SANTA CLARA,SAN FRANCISCO BAY,MORGAN HILL,37.117000°,-121.693500°,Santa Clara Valley Water District,.None Specified
-ENG,551ft,YUBA R,NEVADA,SACRAMENTO RIVER,MARYSVILLE,39.239000°,-121.267000°,US Army Corps of Engineers,.None Specified
-FRM,180ft,LITTLEJOHN CR,SAN JOAQUIN,SAN JOAQUIN RIVER,FARMINGTON,37.915000°,-120.935000°,US Army Corps of Engineers,.None Specified
-FLR,7325ft,SAN JOAQUIN R,FRESNO,SAN JOAQUIN RIVER,BIG CREEK,37.267000°,-118.967000°,"Southern California Edison Company, Big Creek",.None Specified
-FOL,466ft,AMERICAN R,SACRAMENTO,SACRAMENTO RIVER,FOLSOM,38.683000°,-121.183000°,US Bureau of Reclamation,.None Specified
-FRL,6664ft,YUBA R,NEVADA,SACRAMENTO RIVER,SIERRA CITY,39.440000°,-120.544000°,Nevada County,.None Specified
-FMD,5263ft,AMERICAN R,PLACER,SACRAMENTO RIVER,FORESTHILL,39.112000°,-120.468000°,Placer County Water Agency,.None Specified
-FRD,5517ft,FEATHER R,PLUMAS,SACRAMENTO RIVER,BECKWOURTH,39.883000°,-120.183000°,CA Dept of Water Resources/O&M Oroville Field Division,.None Specified
-MIL,581ft,SAN JOAQUIN R,FRESNO,SAN JOAQUIN RIVER,FRIANT,37.001000°,-119.705000°,US Bureau of Reclamation,.None Specified
-GLK,9054ft,MONO LAKE,MONO,SOUTH LAHONTAN,JUNE LAKE,37.752000°,-119.140000°,"Southern California Edison Company, Big Creek",.None Specified
-GBR,9999ft,KLAMATH R,SISKIYOU,NORTH COAST,KLAMATH FALLS,42.205000°,-121.130000°,US Bureau of Reclamation,.None Specified
-GLL,5860ft,AMERICAN R,EL DORADO,SACRAMENTO RIVER,SOUTH LAKE TAHOE,38.969167°,-120.393056°,Sacramento Municipal Utility District,.None Specified
-GBL,1399ft,SANTA YNEZ R,SANTA BARBARA,CENTRAL COAST,SANTA BARBARA,34.526000°,-119.686000°,City of Santa Barbara,.None Specified
-PWL,3700ft,COLORADO R,State of Arizona,COLORADO RIVER,"PAGE, AZ",36.937000°,-111.493000°,US Bureau of Reclamation,.None Specified
-GDW,359ft,STANISLAUS R,CALAVERAS,SAN JOAQUIN RIVER,SONORA,37.862800°,-120.629700°,US Bureau of Reclamation,.None Specified
-GNT,7140ft,MONO LAKE,MONO,SOUTH LAHONTAN,JUNE LAKE,37.862000°,-119.102000°,City of Los Angeles; Dept of Water and Power,.None Specified
-DAV,5768ft,FEATHER R,PLUMAS,SACRAMENTO RIVER,BECKWOURTH,39.883000°,-120.467000°,CA Dept of Water Resources/O&M Oroville Field Division,.None Specified
-GDR,488ft,GUADALUPE R,SANTA CLARA,SAN FRANCISCO BAY,ALAMITOS,37.199700°,-121.881400°,Santa Clara Valley Water District,Santa Clara Valley Water District
-HWE,3774ft,OWENS R,INYO,SOUTH LAHONTAN,OLANCHA,36.137000°,-117.948000°,City of Los Angeles; Dept of Water and Power,.None Specified
-HNS,2740ft,SAN DIEGO R,SAN DIEGO,SOUTH COAST,SANTA YSABEL,33.240000°,-116.762000°,Vista Irrigation District,.None Specified
-HID,561ft,FRESNO R,MADERA,SAN JOAQUIN RIVER,RAYMOND,37.200000°,-119.917000°,US Army Corps of Engineers,.None Specified
-MEA,3700ft,COLORADO R,State of Arizona,COLORADO RIVER,"LAS VEGAS, NV",36.016000°,-114.736000°,US Bureau of Reclamation,.None Specified
-HNT,7000ft,SAN JOAQUIN R,FRESNO,SAN JOAQUIN RIVER,LAKESHORE,37.227570°,-119.220482°,US Bureau of Reclamation,CA Dept of Water Resources/DFM-Hydro-SMN
-ICH,5454ft,AMERICAN R,EL DORADO,SACRAMENTO RIVER,KYBURZ,38.824000°,-120.359000°,Sacramento Municipal Utility District,.None Specified
-INP,6921ft,TRUCKEE R,SIERRA,NORTH LAHONTAN,TRUCKEE,39.452000°,-120.290000°,US Geological Survey,.None Specified
-INL,6952ft,TRUCKEE R,SIERRA,NORTH LAHONTAN,TRUCKEE,39.450000°,-120.283000°,Sierra County,.None Specified
-MMW,5046ft,FEATHER R,LASSEN,SACRAMENTO RIVER,WESTWOOD,40.283000°,-121.017000°,Pacific Gas & Electric,.None Specified
-INV,1502ft,CACHE CR,LAKE,SACRAMENTO RIVER,BARKERVILLE,39.083000°,-122.533000°,Yolo County Flood Control and Water Consv Dist,.None Specified
-IRC,2675ft,PIT R,SHASTA,SACRAMENTO RIVER,BIG BEND,41.045000°,-121.981000°,Pacific Gas & Electric,.None Specified
-ISB,2635ft,KERN R,KERN,TULARE LAKE,LAKE ISABELLA,35.646000°,-118.473000°,US Army Corps of Engineers,.None Specified
-JCK,6037ft,YUBA R,NEVADA,SACRAMENTO RIVER,SIERRA CITY,39.509000°,-120.552000°,Nevada County,.None Specified
-ATN,779ft,SALINAS R,MONTEREY,CENTRAL COAST,BRADLEY,35.798000°,-120.883000°,Monterey County,.None Specified
-LNG,659ft,SANTA CLARA VLY,SANTA CLARA,SAN FRANCISCO BAY,LOS GATOS,37.202000°,-121.988000°,Santa Clara County,.None Specified
-JML,610ft,SANTA YNEZ R,SANTA BARBARA,SOUTH COAST,CARPINTERIA,34.492000°,-119.507000°,Montecito Water District,Montecito Water District
-JNC,4468ft,AMERICAN R,EL DORADO,SACRAMENTO RIVER,POLLACK PINES,38.853000°,-120.453000°,Sacramento Municipal Utility District,.None Specified
-KNT,415ft,COAST-MARIN,MARIN,SAN FRANCISCO BAY,FOREST KNOLLS,37.997000°,-122.702000°,Marin Municipal Water District,.None Specified
-KKR,974ft,SAN JOAQUIN R,FRESNO,SAN JOAQUIN RIVER,NEW AUBERRY,37.128110°,-119.525530°,Pacific Gas & Electric,Pacific Gas & Electric
-KES,596ft,SACRAMENTO R,SHASTA,SACRAMENTO RIVER,REDDING,40.612104°,-122.445699°,US Bureau of Reclamation,.None Specified
-LGR,52ft,TUOLUMNE R,STANISLAUS,SAN JOAQUIN RIVER,TURLOCK,37.667000°,-120.462000°,US Army Corps of Engineers,.None Specified
-LFY,465ft,SF BAY,CONTRA COSTA,SAN FRANCISCO BAY,ORINDA,37.885000°,-122.138000°,East Bay Municipal Utility District,.None Specified
-LGT,799ft,COAST-MARIN,MARIN,SAN FRANCISCO BAY,PETALUMA,37.947000°,-122.597000°,Marin Municipal Water District,.None Specified
-LEA,7302ft,STANISLAUS R,ALPINE,SAN JOAQUIN RIVER,BEAR VALLEY,38.471390°,-120.002777°,Northern California Power Agency,Northern California Power Agency
-LKF,6290ft,YUBA R,NEVADA,SACRAMENTO RIVER,CISCO GROVE,39.378890°,-120.494440°,Pacific Gas & Electric,Pacific Gas & Electric
-HMT,4202ft,SAN JACINTO R,RIVERSIDE,SOUTH COAST,PALM SPRINGS,33.666000°,-116.705000°,Lake Hemet Muncipal Water District,.None Specified
-HNN,331ft,NAPA R,NAPA,SAN FRANCISCO BAY,RUTHERFORD,38.482000°,-122.372000°,Napa County,.None Specified
-HDG,315ft,SAN DIEGUITO R,SAN DIEGO,SOUTH COAST,ESCONDIDO,33.046000°,-117.128000°,San Diego County,.None Specified
-LVD,1366ft,SWEETWATER R,SAN DIEGO,SOUTH COAST,EL CAJON,32.779000°,-116.792000°,South Bay Irrigation District,.None Specified
-THC,6230ft,TRUCKEE R,PLACER,NORTH LAHONTAN,TAHOE CITY,39.182000°,-120.119000°,USGS/DWR,.None Specified
-LVY,5855ft,AMERICAN R,PLACER,SACRAMENTO RIVER,CISCO GROVE,39.300000°,-120.583000°,Pacific Gas & Electric,.None Specified
-LRA,640ft,SANTA CLARA VLY,SANTA CLARA,SAN FRANCISCO BAY,MADRONE,37.165000°,-121.632000°,Santa Clara Valley Water District,.None Specified
-LEW,1870ft,TRINITY R,TRINITY,NORTH COAST,LEWISTON,40.727000°,-122.793000°,US Bureau of Reclamation,.None Specified
-LGV,5047ft,FEATHER R,PLUMAS,SACRAMENTO RIVER,LA PORTE,39.724000°,-121.019000°,South Feather Water and Power Agency,.None Specified
-LRK,745ft,MOJAVE DESERT,LOS ANGELES,SOUTH LAHONTAN,PALMDALE,34.485000°,-118.022000°,.None Specified,.None Specified
-CRW,6797ft,OWENS R,MONO,SOUTH LAHONTAN,MAMMOTH LAKES,37.604000°,-118.707000°,City of Los Angeles; Dept of Water and Power,.None Specified
-LON,6410ft,AMERICAN R,EL DORADO,SACRAMENTO RIVER,MEEKS BAY,38.983000°,-120.323000°,Sacramento Municipal Utility District,.None Specified
-LOP,759ft,ARROYO GRANDE CREEK,SAN LUIS OBISPO,CENTRAL COAST,ARROYO GRANDE,35.188000°,-120.487000°,San Luis Obispo County,.None Specified
-LBS,350ft,SAN JOAQUIN R,MERCED,SAN JOAQUIN RIVER,LOS BANOS,36.994000°,-120.930000°,CA Dept of Water Resources/O&M San Joaquin Field Division,CA Dept of Water Resources/O&M San Joaquin Field Division
-LVQ,472ft,KELLOGG CREEK,CONTRA COSTA,SAN FRANCISCO BAY,BYRON,37.838000°,-121.726000°,Contra Costa Water District,.None Specified
-LWB,5824ft,MOKELUMNE R,AMADOR,SAN JOAQUIN RIVER,JACKSON,38.538000°,-120.257000°,Pacific Gas & Electric,.None Specified
-CRY,293ft,SAN MATEO CREEK,SAN MATEO,SAN FRANCISCO BAY,SAN MATEO,37.515278°,-122.355833°,San Francisco County,.None Specified
-HHL,4630ft,AMERICAN R,PLACER,SACRAMENTO RIVER,MEEKS BAY,39.058000°,-120.407000°,Placer County Water Agency,.None Specified
-LYS,4134ft,STANISLAUS R,TUOLUMNE,SAN JOAQUIN RIVER,SONORA,38.094000°,-120.166000°,Pacific Gas & Electric,.None Specified
-SWB,5620ft,STANISLAUS R,TUOLUMNE,SAN JOAQUIN RIVER,PINECREST,38.200000°,-119.983000°,Pacific Gas & Electric,.None Specified
-MPL,3330ft,SAN JOAQUIN R,FRESNO,SAN JOAQUIN RIVER,BIG CREEK,37.329000°,-119.328000°,Southern California Edison Company,.None Specified
-MAR,459ft,MERCED R,MARIPOSA,SAN JOAQUIN RIVER,PLANADA,37.292000°,-120.147000°,US Army Corps of Engineers,.None Specified
-EDN,4272ft,AMERICAN R,EL DORADO,SACRAMENTO RIVER,PLACERVILLE,38.903000°,-120.603000°,Georgetown Divide Public Utility District,.None Specified
-MRT,5745ft,TRUCKEE R,NEVADA,NORTH LAHONTAN,TRUCKEE,39.327000°,-120.113000°,US Army Corps of Engineers,.None Specified
-MAT,1138ft,VENTURA R,VENTURA,SOUTH COAST,MATILIJA HOT SPRINGS,34.486000°,-119.307000°,Ventura County Flood Control District,.None Specified
-MHW,1404ft,SANTA ANA AB NARROWS,RIVERSIDE,SOUTH COAST,CORONA,33.833000°,-117.460000°,Metropolitan Water District,.None Specified
-MCO,2700ft,MC CLOUD R,SHASTA,SACRAMENTO RIVER,MCCLOUD,41.135000°,-122.074000°,Pacific Gas & Electric,.None Specified
-MCS,425ft,MERCED R,MARIPOSA,SAN JOAQUIN RIVER,MERCED,37.520000°,-120.309000°,Merced County,Merced County
-MMR,720ft,SAN DIEGO R,SAN DIEGO,SOUTH COAST,MIRAMAR,32.900000°,-117.100000°,San Diego County,.None Specified
-MDO,210ft,TUOLUMNE R,STANISLAUS,SAN JOAQUIN RIVER,TURLOCK,37.657000°,-120.675000°,Modesto Irrigation District,.None Specified
-BER,456ft,PUTAH CR,NAPA,SACRAMENTO RIVER,WINTERS,38.513000°,-122.104000°,US Bureau of Reclamation,.None Specified
-MOR,3053ft,SAN DIEGO R,SAN DIEGO,SOUTH COAST,CHULA VISTA,32.683000°,-116.550000°,San Diego County,.None Specified
-MRR,542ft,SAN DIEGO R,SAN DIEGO,SOUTH COAST,LA MESA,32.782000°,-117.047000°,San Diego County,.None Specified
-NCM,784ft,NACIMIENTO R,SAN LUIS OBISPO,CENTRAL COAST,BRADLEY,35.758000°,-120.884000°,Monterey County,.None Specified
-NAT,132ft,AMERICAN R,SACRAMENTO,SACRAMENTO RIVER,NIMBUS,38.650000°,-121.183000°,US Bureau of Reclamation,.None Specified
-BUL,1965ft,YUBA R,YUBA,SACRAMENTO RIVER,DOBBINS,39.393000°,-121.140000°,Yuba County Water Agency,CA Dept of Water Resources
-EXC,879ft,MERCED R,MARIPOSA,SAN JOAQUIN RIVER,SNELLING,37.585000°,-120.270000°,Merced Irrigation District,.None Specified
-NHG,554ft,CALAVERAS R,CALAVERAS,SAN JOAQUIN RIVER,VALLEY SPRINGS,38.152000°,-120.812000°,US Army Corps of Engineers,.None Specified
-NML,1135ft,STANISLAUS R,CALAVERAS,SAN JOAQUIN RIVER,SONORA,37.948100°,-120.525000°,US Bureau of Reclamation,.None Specified
-SPM,6516ft,STANISLAUS R,TUOLUMNE,SAN JOAQUIN RIVER,BEAR VALLEY,38.393333°,-119.996900°,Calaveras County Water District,.None Specified
-NWL,925ft,SAN LORENZO R,SANTA CRUZ,CENTRAL COAST,BEN LOMOND,37.103000°,-122.072000°,City of Santa Cruz,.None Specified
-NCA,180ft,COAST-MARIN,MARIN,SAN FRANCISCO BAY,POINT REYES STATION,38.075000°,-122.757000°,Marin Municipal Water District,.None Specified
-ONF,225ft,SAN JOAQUIN VLY WEST,MERCED,SAN JOAQUIN RIVER,LOS BANOS,37.067000°,-121.067000°,CA Dept of Water Resources/O&M San Joaquin Field Division,.None Specified
-HTH,3870ft,TUOLUMNE R,TUOLUMNE,SAN JOAQUIN RIVER,YOSEMITE,37.950000°,-119.783000°,Hetch Hetchy Water and Power,.None Specified
-OLH,800ft,SAN DIEGUITO R,SAN DIEGO,SOUTH COAST,ESCONDIDO,33.074044°,-117.138333°,San Diego County,.None Specified
-ORO,900ft,FEATHER R,BUTTE,SACRAMENTO RIVER,OROVILLE,39.540000°,-121.493000°,CA Dept of Water Resources/O&M Oroville Field Division,.None Specified
-LOT,485ft,OTAY R,SAN DIEGO,SOUTH COAST,CHULA VISTA,32.609000°,-116.927000°,City of San Diego,.None Specified
-OWN,424ft,MERCED R,MARIPOSA,SAN JOAQUIN RIVER,PLANADA,37.282000°,-120.187000°,US Army Corps of Engineers,US Army Corps of Engineers
-PAR,568ft,MOKELUMNE R,CALAVERAS,SAN JOAQUIN RIVER,VALLEY SPRINGS,38.250000°,-120.850000°,East Bay Municipal Utility District,.None Specified
-HVS,451ft,COLORADO R,SAN BERNARDINO,COLORADO RIVER,NEEDLES,34.317000°,-114.156000°,US Bureau of Reclamation,.None Specified
-PRR,1600ft,SAN JACINTO R,RIVERSIDE,SOUTH COAST,RIVERSIDE,33.858000°,-117.183000°,CA Dept of Water Resources/O&M Southern Field Division,.None Specified
-LPY,1828ft,EEL R,LAKE,NORTH COAST,POTTER VALLEY,39.408300°,-122.958300°,Pacific Gas & Electric,Pacific Gas & Electric
-PNF,970ft,KINGS R,FRESNO,TULARE LAKE,FRESNO,36.833000°,-119.325000°,US Army Corps of Engineers,.None Specified
-PT6,32ft,PIT R,SHASTA,SACRAMENTO RIVER,MONTGOMERY CREEK,40.842000°,-122.001000°,Pacific Gas & Electric,.None Specified
-PT7,1036ft,PIT R,SHASTA,SACRAMENTO RIVER,HILLCREST,40.843000°,-122.015000°,Pacific Gas & Electric,.None Specified
-BIT,2744ft,PIT R,SHASTA,SACRAMENTO RIVER,BURNEY,41.022000°,-121.676000°,Pacific Gas & Electric,.None Specified
-PVP,1020ft,RUSSIAN R,MENDOCINO,NORTH COAST,UKIAH,39.367000°,-123.133000°,Pacific Gas & Electric,.None Specified
-PRA,566ft,SANTA ANA R,RIVERSIDE,SOUTH COAST,CORONA,33.890000°,-117.643000°,US Army Corps of Engineers,.None Specified
-PRS,5622ft,TRUCKEE R,NEVADA,NORTH LAHONTAN,TRUCKEE,39.379400°,-120.136700°,US Bureau of Reclamation,.None Specified
-PYM,2606ft,U SANTA CLARA R,LOS ANGELES,SOUTH COAST,PIRU,34.644153°,-118.764528°,CA Dept of Water Resources/O&M Southern Field Division,.None Specified
-QUL,9999ft,MOJAVE DESERT,none specified,SOUTH LAHONTAN,,99.999000°,-999.999000°,.None Specified,.None Specified
-RLC,1398ft,SANTA ANA R,RIVERSIDE,SOUTH COAST,LAKE ELSINORE,33.675000°,-117.272000°,Elsinore Valley Municipal Water District,.None Specified
-RDN,1403ft,SAN JOAQUIN R,MADERA,SAN JOAQUIN RIVER,FRIANT,37.145000°,-119.449000°,Southern California Edison Company,.None Specified
-RLF,7220ft,STANISLAUS R,TUOLUMNE,SAN JOAQUIN RIVER,DARDANELLE,38.267000°,-119.733000°,Pacific Gas & Electric,.None Specified
-RLL,2176ft,BEAR R,PLACER,SACRAMENTO RIVER,COLFAX,39.135000°,-120.948000°,Nevada County,.None Specified
-RBL,6800ft,AMERICAN R,EL DORADO,SACRAMENTO RIVER,SOUTH LAKE TAHOE,38.967000°,-120.217000°,Sacramento Municipal Utility District,.None Specified
-RTD,2675ft,MAD R,TRINITY,NORTH COAST,FOREST GLEN,40.367000°,-123.433000°,Humboldt Bay Muncipal Water District,.None Specified
-SDB,10090ft,MONO LAKE,MONO,SOUTH LAHONTAN,LEE VINING,37.966000°,-119.272000°,"Southern California Edison Company, Big Creek",.None Specified
-SLN,1325ft,SALINAS R,SAN LUIS OBISPO,CENTRAL COAST,SAN LUIS OBISPO,35.333000°,-120.502000°,US Army Corps of Engineers,.None Specified
-SLS,3700ft,MOKELUMNE R,AMADOR,SAN JOAQUIN RIVER,TAMARAK,38.497000°,-120.216000°,Pacific Gas & Electric,.None Specified
-SNN,456ft,SF BAY,SAN MATEO,SAN FRANCISCO BAY,MILLBRAE,37.580161°,-122.413281°,San Francisco County,San Francisco County
-SAT,468ft,ALAMEDA CR,ALAMEDA,SAN FRANCISCO BAY,BRADLEY,37.573000°,-121.848000°,San Francisco County,.None Specified
-SGB,1481ft,SAN GABRIEL R,LOS ANGELES,SOUTH COAST,MONROVIA,34.207000°,-117.858000°,Los Angeles County,.None Specified
-SNL,543ft,SAN LUIS CR,MERCED,SAN JOAQUIN RIVER,LOS BANOS,37.033000°,-121.133000°,CA Dept of Water Resources/O&M San Luis Field Division,CA Dept of Water Resources/O&M San Luis Field Division
-LUS,543ft,SAN JOAQUIN VLY WEST,MERCED,SAN JOAQUIN RIVER,LOS BANOS,37.001000°,-121.002000°,CA Dept of Water Resources,.None Specified
-SLF,543ft,SAN JOAQUIN VLY WEST,MERCED,SAN JOAQUIN RIVER,LOS BANOS,37.001000°,-121.002000°,CA Dept of Water Resources,.None Specified
-SPB,330ft,SF BAY,CONTRA COSTA,SAN FRANCISCO BAY,SAN PABLO,37.942300°,-122.258700°,East Bay Municipal Utility District,.None Specified
-SVT,560ft,SAN DIEGO R,SAN DIEGO,SOUTH COAST,SANTEE,32.912000°,-116.924000°,City of San Diego,.None Specified
-PRU,213ft,PIRU CR,VENTURA,SOUTH COAST,PIRU,34.461000°,-118.751000°,United Water Conservation District,.None Specified
-SGC,810ft,SANTA ANA R,ORANGE,SOUTH COAST,ORANGE,33.785000°,-117.723000°,Serrano Irrigation Dist and Irvine Ranch Water Dist,.None Specified
-SCD,1807ft,EEL R,LAKE,NORTH COAST,POTTER VALLEY,39.408300°,-122.958600°,Pacific Gas & Electric,.None Specified
-SFL,3085ft,YUBA R,NEVADA,SACRAMENTO RIVER,NEVADA CITY,39.274000°,-120.917000°,Nevada Irrigation District,.None Specified
-SVO,2610ft,SANTA ANA R,SAN BERNARDINO,SOUTH COAST,REDLANDS,34.117800°,-117.097800°,"Orange, Riverside and San Bernardino Counties",.None Specified
-SHA,1067ft,SACRAMENTO R,SHASTA,SACRAMENTO RIVER,REDDING,40.718000°,-122.420000°,US Bureau of Reclamation,.None Specified
-SHV,5370ft,SAN JOAQUIN R,FRESNO,SAN JOAQUIN RIVER,SHAVER LAKE,37.145000°,-119.302000°,US Bureau of Reclamation,.None Specified
-SIV,7134ft,AMERICAN R,AMADOR,SACRAMENTO RIVER,KIT CARSON,38.669000°,-120.121000°,El Dorado Irrigation District,El Dorado Irrigation District
-SKN,1479ft,SAN DIEGO R,RIVERSIDE,SOUTH COAST,HEMET,33.583000°,-117.072000°,Metropolitan Water District,.None Specified
-SLB,1850ft,AMERICAN R,EL DORADO,SACRAMENTO RIVER,PLACERVILLE,38.772500°,-120.699400°,Sacramento Municipal Utility District,.None Specified
-SLC,3536ft,FEATHER R,BUTTE,SACRAMENTO RIVER,STRAWBERRY VALLEY,39.584000°,-121.116000°,South Feather Water and Power Agency,.None Specified
-JNK,3482ft,COSUMNES R,EL DORADO,SAN JOAQUIN RIVER,POLLOCK PINES,38.713000°,-120.560000°,El Dorado Irrigation District,.None Specified
-SOL,150ft,PUTAH CR,SOLANO,SACRAMENTO RIVER,WINTERS,38.500000°,-122.000000°,Solano County Water Agency,.None Specified
-SLJ,344ft,COAST-MARIN,MARIN,SAN FRANCISCO BAY,NOVATO,38.153000°,-122.782000°,Marin Municipal Water District,.None Specified
-SKR,837ft,OWENS R,INYO,SOUTH LAHONTAN,SAN MARCOS,33.115040°,-117.165590°,"Southern California Edison Company, Bishop","Southern California Edison Company, Bishop"
-SLK,9600ft,OWENS R,INYO,SOUTH LAHONTAN,BISHOP,37.175903°,-118.562660°,CA Dept of Water Resources/DFM-Hydro-SMN,CA Dept of Water Resources/DFM-Hydro-SMN
-SPG,5013ft,YUBA R,NEVADA,SACRAMENTO RIVER,EMIGRANT GAP,39.329000°,-120.641000°,Pacific Gas & Electric,.None Specified
-SPC,816ft,SACRAMENTO R,SHASTA,SACRAMENTO RIVER,KESWICK,40.629000°,-122.474000°,US Bureau of Reclamation,.None Specified
-STP,5956ft,TRUCKEE R,SIERRA,NORTH LAHONTAN,TRUCKEE,39.471000°,-120.103000°,US Geological Survey,.None Specified
-SWV,25ft,NOT SPECIFIED,none specified,none specified,WHOLE STATE,38.582000°,-121.500000°,CA Dept of Water Resources/Flood Management,CA Dept of Water Resources/Flood Management
-SEC,1245ft,STEVENS CREEK,SANTA CLARA,SAN FRANCISCO BAY,CUPERTINO,37.298000°,-122.077000°,Santa Clara Valley Water District,Santa Clara Valley Water District
-STG,800ft,STONY CR,GLENN,SACRAMENTO RIVER,ELK CREEK,39.583000°,-122.533000°,US Bureau of Reclamation,.None Specified
-SCC,692ft,TULE R,TULARE,TULARE LAKE,PORTERVILLE,36.061000°,-118.922000°,US Army Corps of Engineers,.None Specified
-STD,2074ft,SAN DIEGUITO R,SAN DIEGO,SOUTH COAST,RAMONA,33.118000°,-116.787000°,San Diego County,.None Specified
-SW3,252ft,SWEETWATER R,SAN DIEGO,SOUTH COAST,SAN DIEGO,32.692000°,-117.007000°,South Bay Irrigation District,.None Specified
-TRM,752ft,KAWEAH R,TULARE,TULARE LAKE,VISALIA,36.415000°,-119.002000°,US Army Corps of Engineers,.None Specified
-TAB,140ft,FEATHER R,BUTTE,SACRAMENTO RIVER,OROVILLE,39.450000°,-121.633000°,CA Dept of Water Resources/Operations and Maintenance,.None Specified
-TMT,140ft,FEATHER R,BUTTE,SACRAMENTO RIVER,OROVILLE,39.458000°,-121.638000°,CA Dept of Water Resources,.None Specified
-THD,230ft,FEATHER R,BUTTE,SACRAMENTO RIVER,OROVILLE,39.528000°,-121.543000°,CA Dept of Water Resources/Operations and Maintenance,CA Dept of Water Resources/Operations and Maintenance
-TNM,3882ft,OWENS R,INYO,SOUTH LAHONTAN,POVERTY HILLS,37.058000°,-118.225000°,City of Los Angeles; Dept of Water and Power,.None Specified
-CLE,2370ft,TRINITY R,TRINITY,NORTH COAST,LEWISTON,40.801000°,-122.762000°,US Bureau of Reclamation,.None Specified
-TUL,515ft,STANISLAUS R,CALAVERAS,SAN JOAQUIN RIVER,SONORA,37.875000°,-120.603000°,US Bureau of Reclamation,.None Specified
-TLC,244ft,TUOLUMNE R,STANISLAUS,SAN JOAQUIN RIVER,TURLOCK,37.600000°,-120.583000°,Turlock Irrigation District,.None Specified
-TWT,692ft,SANTA MARIA R,SAN LUIS OBISPO,CENTRAL COAST,SANTA MARIA,34.983000°,-120.317000°,US Bureau of Reclamation,.None Specified
-UNV,4870ft,AMERICAN R,EL DORADO,SACRAMENTO RIVER,RIVERTON,38.864000°,-120.438000°,Sacramento Municipal Utility District,.None Specified
-KLM,4097ft,KLAMATH R,SISKIYOU,NORTH COAST,KLAMATH FALLS,42.250000°,-121.815000°,US Bureau of Reclamation,.None Specified
-SJT,9999ft,SAN JOAQUIN R,none specified,SAN JOAQUIN RIVER,,99.999000°,-999.999000°,.None Specified,.None Specified
-USL,477ft,ALAMEDA CR,ALAMEDA,SAN FRANCISCO BAY,OAKLAND,37.764400°,-122.101600°,East Bay Municipal Utility District,.None Specified
-UTI,6819ft,STANISLAUS R,ALPINE,SAN JOAQUIN RIVER,BIG MEADOW,38.440277°,-120.002220°,Northern California Power Agency,.None Specified
-UVA,1357ft,PAJARO R,SANTA CLARA,SAN FRANCISCO BAY,SAN MARTIN,37.067000°,-121.690000°,Santa Clara Valley Water District,Santa Clara Valley Water District
-VIL,1470ft,SANTA MARGARITA R,RIVERSIDE,SOUTH COAST,TEMECULA,33.496000°,-116.976000°,Rancho Calif Water District,.None Specified
-VAR,1494ft,EEL R,MENDOCINO,NORTH COAST,POTTER VALLEY,39.383900°,-123.102500°,Pacific Gas & Electric,.None Specified
-TAE,7642ft,SAN JOAQUIN R,FRESNO,SAN JOAQUIN RIVER,BIG CREEK,37.370000°,-118.987000°,"Southern California Edison Company, Big Creek",.None Specified
-EDN,4272ft,AMERICAN R,EL DORADO,SACRAMENTO RIVER,PLACERVILLE,38.903000°,-120.603000°,Georgetown Divide Public Utility District,.None Specified
-VLP,584ft,SANTA ANA R,ORANGE,SOUTH COAST,ORANGE,33.815000°,-117.832000°,Orange County,.None Specified
-WRS,440ft,RUSSIAN R,SONOMA,NORTH COAST,GEYSERVILLE,38.723000°,-123.010000°,US Army Corps of Engineers,.None Specified
-WHR,233ft,SALINAS R,SAN LUIS OBISPO,CENTRAL COAST,CAYUCOS,35.450000°,-120.883000°,San Luis Obispo County,.None Specified
-WHI,1210ft,SACRAMENTO R,SHASTA,SACRAMENTO RIVER,REDDING,40.598000°,-122.537000°,US Bureau of Reclamation,.None Specified
-WSN,6560ft,KINGS R,FRESNO,TULARE LAKE,PIEDRA,37.005000°,-118.969000°,PG&E and Kings River Water Association,.None Specified
+reservoir_id,dam_name,lake_name,stream_name,capacity,year_built,year_fill,start_year_avg,end_year_avg,capacity_value,capacity_unit,is_interstate,url
+ATN,James H Turner,Lake San Antonio              ,Salinas River Tributary,"331,060 af",N/A,1968,1991,2020,331060,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=ATN&type=res
+CCH,Cachuma,Cachuma Lake                  ,Santa Ynez,"193,305 af",N/A,1959,1991,2020,193305,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=CCH&type=res
+GBL,Gibraltar,Gibraltar Lake                ,Santa Ynez River,"9,998 af",N/A,1970,1991,2020,9998,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=GBL&type=res
+NCM,Nacimiento,Lake Nacimiento               ,Nacimiento River,"382,770 af",N/A,1958,1991,2020,382770,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=NCM&type=res
+SLN,Salinas,Santa Margarita Lake          ,Salinas River,"26,000 af",N/A,1946,1991,2020,26000,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=SLN&type=res
+WHR,Whale Rock,Whale Rock Lake               ,Old Creek,"38,967 af",N/A,1970,1991,2020,38967,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=WHR&type=res
+CLE,Trinity,Trinity Lake              ,Trinity River,"2,447,650 af",N/A,1963,1991,2020,2447650,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=CLE&type=res
+COY,Coyote Valley,Lake Mendocino                ,Russian River,"122,400 af",N/A,1960,1991,2020,122400,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=COY&type=res
+DRE,Dwinnell,Lake Shastina,Shasta River,"50,000 af",N/A,1956,1991,2020,50000,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=DRE&type=res
+LEW,Lewiston,Lewiston Lake                 ,Trinity River,"14,660 af",N/A,1966,1991,2020,14660,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=LEW&type=res
+LPY,Pillsbury,Lake Pillsbury                ,Eel River,"80,500 af",N/A,1956,1991,2020,80500,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=LPY&type=res
+WRS,Warm Springs,Warm Springs Reservoir        ,Russian River,"381,000 af",N/A,1987,1991,2020,381000,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=WRS&type=res
+BDP,Bridgeport,Bridgeport Reservoir          ,E Fork Walker River,"44,100 af",N/A,1957,1991,2020,44100,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=BDP&type=res
+BOC,Boca,Boca Reservoir                ,Little Truckee River,"40,870 af",N/A,1956,1991,2020,40870,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=BOC&type=res
+PRS,Prosser,Prosser Reservoir             ,Prosser Creek,"29,800 af",N/A,1965,1991,2020,29800,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=PRS&type=res
+STP,Stampede,Stampede Lake                 ,Little Truckee River,"226,500 af",N/A,1971,1991,2020,226500,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=STP&type=res
+THC,Lake Tahoe,Lake Tahoe                    ,Truckee River,"732,000 af",N/A,1956,1991,2020,732000,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=THC&type=res
+ALM,Canyon,Lake Almanor                  ,N Fork Feather River,"1,308,000 af",N/A,1964,1991,2020,1308000,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=ALM&type=res
+ANT,Antelope,Antelope,Indian Creek,"22,566 af",N/A,1966,1991,2020,22566,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=ANT&type=res
+BCL,Bucks,Bucks Lake                    ,Bucks Creek,"103,000 af",N/A,1951,1991,2020,103000,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=BCL&type=res
+BER,Montecello,Lake Berryessa                ,Putah Creek,"1,602,000 af",N/A,1964,1991,2020,1602000,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=BER&type=res
+BIT,Pit Number 3,Lake Britton                  ,Pit River,"40,620 af",N/A,1977,1991,2020,40620,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=BIT&type=res
+BLB,Black Butte Rereg,Black Butte                   ,Stony Creek,"143,700 af",N/A,1965,1991,2020,143700,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=BLB&type=res
+BTV,Butt Valley,Butt Valley Reservoir         ,Butt Creek,"49,930 af",N/A,1946,1991,2020,49930,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=BTV&type=res
+BUL,New Bullards Bar,Bullards Bar Reservoir        ,N Fork Yuba River,"966,000 af",N/A,1970,1991,2020,966000,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=BUL&type=res
+BWN,Bowman,Bowman Lake                   ,Canyon Creek,"68,510 af",N/A,1946,1991,2020,68510,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=BWN&type=res
+CFW,Camp Far West,Camp Far West                 ,Bear River,"104,500 af",N/A,1964,1991,2020,104500,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=CFW&type=res
+CLA,Clear Lake Imp,Clear Lake                    ,Cache Creek,"313,000 af",N/A,1953,1991,2020,313000,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=CLA&type=res
+CPL,Caples,Caples Lake                   ,Silver Fork American River,"22,340 af",N/A,1949,1991,2020,22340,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=CPL&type=res
+DAV,Grizzly Valley,Lake Davis                    ,Big Grizzly Creek,"83,000 af",N/A,1968,1991,2020,83000,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=DAV&type=res
+ENG,Englebright Narrows,Englebright Lake              ,Yuba River,"70,000 af",N/A,1955,1991,2020,70000,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=ENG&type=res
+EPK,East Park,East Park Reservoir           ,Stony Creek,"51,000 af",N/A,1956,1991,2020,51000,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=EPK&type=res
+FMD,French Meadows,French Meadows Reservoir      ,M Fork American,"136,400 af",N/A,1966,1991,2020,136400,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=FMD&type=res
+FOL,Folsom,Folsom Lake                   ,American River,"977,000 af",N/A,1956,1991,2020,977000,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=FOL&type=res
+FRD,Frenchman,Frenchman Lake                ,Little Last Chance Creek,"55,477 af",N/A,1964,1991,2020,55477,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=FRD&type=res
+FRL,French Lake,French Lake                   ,Canyon Creek,"13,940 af",N/A,1966,1991,2020,13940,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=FRL&type=res
+HHL,Lower Hell Hole,Hell Hole Reservoir           ,Rubicon River,"207,600 af",N/A,1967,1991,2020,207600,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=HHL&type=res
+ICH,Ice House,Ice House Reservoir           ,S Fork Silver Creek,"43,496 af",N/A,1961,1991,2020,43496,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=ICH&type=res
+INV,Indian Valley,Indian Valley Reservoir       ,Cache Creek Tributary,"300,000 af",N/A,1979,1991,2020,300000,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=INV&type=res
+IRC,Iron Canyon,Iron Canyon Reservoir         ,Pit River Tribuatary,"24,300 af",N/A,1966,1991,2020,24300,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=IRC&type=res
+JCK,Jackson Meadows,Jackson Meadows Res    ,M Fork Yuba River,"69,205 af",N/A,1966,1991,2020,69205,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=JCK&type=res
+KES,Keswick,Keswick Reservoir             ,Sacramento River,"23,772 af",N/A,1966,1991,2020,23772,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=KES&type=res
+LGV,Little Grass Valley,Little Grass Valley Reservoir ,S Fork Feather River,"93,010 af",N/A,1963,1991,2020,93010,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=LGV&type=res
+LON,Loon Lake,Loon Lake                     ,Rubicon River Tributary,"69,306 af",N/A,1964,1991,2020,69306,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=LON&type=res
+MCO,McCloud,McCloud Reservoir             ,McCloud River,"35,300 af",N/A,1966,1991,2020,35300,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=MCO&type=res
+MMW,Indian Ole,Mountain Meadows              ,N Fork Feather River Tributary,"24,800 af",N/A,1967,1991,2020,24800,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=MMW&type=res
+NAT,Natoma,Lake Natoma                   ,American River,"9,000 af",N/A,1966,1991,2020,9000,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=NAT&type=res
+ORO,Oroville,Lake Oroville                 ,Feather River,"3,537,577 af",1968,1969,1991,2020,3537577,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=ORO&type=res
+PT6,Pit No. 6,Pit No. 6                     ,Pit River,"15,890 af",N/A,1967,1991,2020,15890,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=PT6&type=res
+PT7,Pit No. 7,Pit No. 7                     ,Pit River,"34,610 af",N/A,1967,1991,2020,34610,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=PT7&type=res
+RLL,Rollins,Rollins Reservoir             ,Bear River,"66,000 af",N/A,1965,1991,2020,66000,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=RLL&type=res
+SFL,Scotts Flat,Scotts Flat Reservoir         ,Deer Creek,"49,000 af",N/A,1965,1991,2020,49000,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=SFL&type=res
+SHA,Shasta,Lake Shasta                   ,Sacramento River,"4,552,000 af",N/A,1954,1991,2020,4552000,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=SHA&type=res
+SLB,Slab Creek,Slab Creek Reservoir          ,S Fork American River,"16,600 af",N/A,1968,1991,2020,16600,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=SLB&type=res
+SLC,Sly Creek, ,Lost Creek,"65,050 af",N/A,1963,1991,2020,65050,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=SLC&type=res
+BWS,Bowman Spaulding Diversion,Lake Spaulding System,none,"144,591 af",N/A,1946,1991,2020,144591,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=BWS&type=res
+STG,Stony Gorge,Stony Gorge Reservoir         ,Stony Creek,"50,000 af",N/A,1956,1991,2020,50000,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=STG&type=res
+TMT,Thermalito,Thermalito System             ,Feather River,"81,264 af",N/A,1970,1991,2020,81264,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=TMT&type=res
+UNV,Union Valley,Union Valley Reservoir        ,S Fork American River,"266,369 af",N/A,1963,1991,2020,266369,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=UNV&type=res
+WHI,Whiskeytown,Whiskeytown Lake              ,Clear Creek,"241,100 af",N/A,1964,1991,2020,241100,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=WHI&type=res
+APN,Alpine,Alpine Lake                   ,Lagunitas Creek,"8,892 af",N/A,1980,1991,2020,8892,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=APN&type=res
+BIO,Briones,Briones Lake                  ,Bear Creek,"67,520 af",N/A,1971,1991,2020,67520,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=BIO&type=res
+CHB,Chabot,Lake Chabot                   ,San Leandro Creek,"10,281 af",N/A,1963,1991,2020,10281,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=CHB&type=res
+CRY,Lower Crystal Springs,Crystal Springs Reservoir     ,San Mateo Creek,"68,865 af",N/A,1960,1991,2020,68865,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=CRY&type=res
+CVE,Calaveras,Calaveras Reservoir           ,Calaveras Creek,"100,000 af",N/A,1956,1991,2020,100000,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=CVE&type=res
+CYC,Coyote Percolation,Coyote Reservoir              ,Coyote Creek,"22,541 af",N/A,1956,1991,2020,22541,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=CYC&type=res
+DLV,Del Valle,Lake Del Valle                ,Arroyo Valle,"77,100 af",N/A,1971,1991,2020,77100,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=DLV&type=res
+HNN,Lake Hennessey,Lake Hennessey                ,Conn Creek,"31,000 af",N/A,1960,1991,2020,31000,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=HNN&type=res
+KNT,Kent,Kent Lake                     ,Lagunitas Creek,"32,900 af",N/A,1983,1991,2020,32900,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=KNT&type=res
+LNG,James J Lenihan,Lexington Reservoir,Los Gatos Creek,"18,534 af",N/A,1956,1991,2020,18534,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=LNG&type=res
+LRA,Leroy Anderson,Anderson Reservoir,Coyote Creek,"89,278 af",N/A,1956,1991,2020,89278,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=LRA&type=res
+NCA,Nicasio,Nicasio Reservoir             ,Nicasio Creek,"22,400 af",N/A,1961,1991,2020,22400,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=NCA&type=res
+SAT,San Antonio,San Antonio Reservoir         ,Alameda Creek Tributary,"50,500 af",N/A,1968,1991,2020,50500,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=SAT&type=res
+SLJ,Soulajule,Soulajule                     ,San Francisco Bay,"10,700 af",N/A,1981,1991,2020,10700,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=SLJ&type=res
+SNN,San Andreas,San Andreas Lake              ,San Mateo Creek Tributary,"19,027 af",N/A,1960,1991,2020,19027,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=SNN&type=res
+SPB,San Pablo,San Pablo Reservoir           ,San Pablo,"43,193 af",N/A,1957,1991,2020,43193,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=SPB&type=res
+USL,Upper San Leandro,U San Leandro R,Alameda Creek,"37,960 af",N/A,1960,1991,2020,37960,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=USL&type=res
+BRD,Beardsley,Beardsley Lake                ,M Fork Stanislaus River,"97,800 af",N/A,1958,1991,2020,97800,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=BRD&type=res
+BUC,Buchanan,Eastman Lake                  ,Chowchilla River,"150,000 af",N/A,1978,1991,2020,150000,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=BUC&type=res
+CHV,Cherry Valley,Cherry Lake                   ,Cherry Creek,"273,500 af",N/A,1957,1991,2020,273500,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=CHV&type=res
+CMN,Camanche,Camanche Reservoir            ,Mokelumne River,"417,120 af",N/A,1966,1991,2020,417120,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=CMN&type=res
+CNV,Crane Valley Storage,Crane Valley Lake             ,N Fork San Joaquin River,"45,410 af",N/A,1956,1991,2020,45410,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=CNV&type=res
+DNP,Don Pedro,New Don Pedro Reservoir       ,Tuolumne River,"2,030,000 af",N/A,1974,1991,2020,2030000,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=DNP&type=res
+DON,Donnells,Donnells Reservoir            ,M Fork Stanislaus,"64,320 af",N/A,1958,1991,2020,64320,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=DON&type=res
+ENR,Eleanor,Lake Eleanor                  ,Tuolumne River,"28,600 af",N/A,1956,1991,2020,28600,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=ENR&type=res
+EXC,New Exchequer,Lake McClure                  ,Merced River,"1,024,600 af",N/A,1967,1991,2020,1024600,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=EXC&type=res
+FLR,Florence,Florence Lake                 ,S Fork San Joaquin River,"64,406 af",N/A,1951,1991,2020,64406,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=FLR&type=res
+HID,Hidden,Hensley Lake                  ,Fresno River,"90,000 af",N/A,1978,1991,2020,90000,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=HID&type=res
+HNT,Huntington,Huntington Lake               ,San Joaquin River,"89,800 af",N/A,1946,1991,2020,89800,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=HNT&type=res
+HTH,O Shanessey,Hetch-Hetchy Reservoir        ,Tuolumne River,"360,000 af",N/A,1952,1991,2020,360000,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=HTH&type=res
+JNK,Sly Park,Jenkinson Lake                ,Cosumnes River,"41,000 af",N/A,1956,1991,2020,41000,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=JNK&type=res
+LBS,Los Banos,Los Banos Reservoir,San Joaquin River,"34,600 af",N/A,1969,1991,2020,34600,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=LBS&type=res
+LVQ,Los Vaqueros,Los Vaqueros Reservoir,Kellogg Creek,"160,000 af",1999,1999,1991,2020,160000,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=LVQ&type=res
+LWB,Lower Bear River,Lower Bear Reservoir          ,Bear River,"48,750 af",N/A,1953,1991,2020,48750,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=LWB&type=res
+MDO,Modesto Reservoir, ,Tuolumne River,"29,000 af",N/A,1960,1991,2020,29000,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=MDO&type=res
+MIL,Friant,Millerton Lake                ,San Joaquin River,"520,500 af",N/A,1946,1991,2020,520500,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=MIL&type=res
+MPL,Mammoth Pool,Mammoth Pool Reservoir        ,San Joaquin River,"123,000 af",N/A,1960,1991,2020,123000,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=MPL&type=res
+NHG,New Hogan,New Hogan Lake                ,Calaveras River,"317,000 af",N/A,1965,1991,2020,317000,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=NHG&type=res
+NML,New Melones,New Melones Reservoir         ,Stanislaus River,"2,400,000 af",N/A,1983,1991,2020,2400000,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=NML&type=res
+ONF,O Neill Forebay, ,San Luis Creek,"56,400 af",N/A,1967,1991,2020,56400,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=ONF&type=res
+PAR,Pardee Reservoir,Pardee Res,Mokelumne River,"203,795 af",1929,1951,1991,2020,203795,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=PAR&type=res
+RDN,Redinger,Redinger Lake                 ,San Joaquin River,"35,000 af",N/A,1966,1991,2020,35000,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=RDN&type=res
+RLF,Relief,Relief Reservoir              ,M Fork Stanislaus River,"15,554 af",N/A,1960,1991,2020,15554,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=RLF&type=res
+SHV,Shaver,Shaver Lake                   ,San Joaquin River,"135,283 af",N/A,1951,1991,2020,135283,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=SHV&type=res
+SLS,Salt Springs, ,N Fork Mokelumne River,"141,900 af",N/A,1951,1991,2020,141900,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=SLS&type=res
+SNL,San Luis,San Luis Reservoir            ,San Luis Creek,"2,041,000 af",N/A,1970,1991,2020,2041000,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=SNL&type=res
+SPM,New Spicer Meadow,New Spicer Meadow Reservoir  ,N Fork Stanislaus River,"189,000 af",1989,1990,1991,2020,189000,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=SPM&type=res
+SWB,Main Strawberry,Pinecrest Lake                ,S Fork Stanislaus,"18,312 af",N/A,1959,1991,2020,18312,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=SWB&type=res
+TAE,Vermilion Valley,Thomas A. Edison              ,S Fork San Joaquin River,"125,000 af",N/A,1956,1991,2020,125000,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=TAE&type=res
+TLC,Turlock,Turlock Lake                  ,Tuolumne River,"45,600 af",N/A,1956,1991,2020,45600,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=TLC&type=res
+TUL,Tulloch,Tulloch Reservoir             ,Stanislaus River,"67,000 af",N/A,1982,1991,2020,67000,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=TUL&type=res
+BRT,Barrett,Barrett Lake                  ,Cottonwood Creek,"34,805 af",N/A,1979,1991,2020,34805,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=BRT&type=res
+BRV,Bear Valley,Big Bear Lake                 ,Bear Creek,"74,000 af",N/A,1968,1991,2020,74000,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=BRV&type=res
+CAS,Castaic,Castaic Lake                  ,Castaic Creek,"325,000 af",N/A,1975,1991,2020,325000,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=CAS&type=res
+CGS,Cogswell,Cogswell Reservoir            ,W Fork San Gabriel River,"10,438 af",N/A,1956,1991,2020,10438,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=CGS&type=res
+CSI,Casitas,Lake Casitas                  ,Casitas Creek,"254,000 af",N/A,1970,1991,2020,254000,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=CSI&type=res
+CUY,Cuyamaca,Cuyamaca Lake                 ,Boulder Creek,"11,740 af",N/A,1969,1991,2020,11740,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=CUY&type=res
+ELC,El Capitan,El Capitan                    ,San Diego River,"112,807 af",N/A,1959,1991,2020,112807,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=ELC&type=res
+HDG,Lake Hodges,Lake Hodges                   ,San Dieguito River,"30,251 af",N/A,1979,1991,2020,30251,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=HDG&type=res
+HMT,Lake Hemet,Lake Hemet                    ,San Jacinto River,"14,000 af",N/A,1961,1991,2020,14000,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=HMT&type=res
+HNS,Henshaw,Lake Henshaw                  ,San Luis Rey River,"50,000 af",N/A,1961,1991,2020,50000,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=HNS&type=res
+JNN,Chet Harrit,Lake Jennings                 ,Quail Canyon Creek,"9,790 af",N/A,1970,1991,2020,9790,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=JNN&type=res
+LOT,Otay,Lower Otay                    ,Otay River,"49,849 af",N/A,1981,1991,2020,49849,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=LOT&type=res
+LVD,Lake Loveland,Lake Loveland                 ,Sweetwater River,"25,400 af",N/A,1979,1991,2020,25400,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=LVD&type=res
+MAT,Matilija,Matilija Reservoir            ,Matilija Creek,"1,800 af",N/A,1968,1991,2020,1800,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=MAT&type=res
+MHW,Matthews,Lake Matthews                 ,De Luz Creek Tributary,"179,300 af",N/A,1962,1991,2020,179300,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=MHW&type=res
+MMR,Miramar,Miramar                       ,none,"6,682 af",N/A,1963,1991,2020,6682,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=MMR&type=res
+MOR,Morena,Morena Lake                   ,Cottonwood Creek,"50,694 af",N/A,1980,1991,2020,50694,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=MOR&type=res
+MRR,Murray,Murray Reservoir              ,Chaparral Canyon,"4,684 af",N/A,1956,1991,2020,4684,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=MRR&type=res
+PRR,Perris,Perris Lake                   ,none,"131,452 af",N/A,1975,1991,2020,131452,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=PRR&type=res
+PRU,Santa Felicia,Lake Piru                     ,Piru Creek,"83,244 af",N/A,1958,1991,2020,83244,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=PRU&type=res
+PYM,Pyramid,Pyramid Lake                  ,Piru Creek,"180,000 af",N/A,1975,1991,2020,180000,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=PYM&type=res
+RLC,Railroad Canyon,Railroad Canyon Reservoir     ,San Jacinto River,"11,847 af",N/A,1970,1991,2020,11847,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=RLC&type=res
+SGB,San Gabriel No. 1,San Gabriel Reservoir         ,San Gabriel,"44,440 af",N/A,1956,1991,2020,44440,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=SGB&type=res
+SGC,Santiago Creek, ,Santiago Creek,"25,000 af",N/A,1962,1991,2020,25000,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=SGC&type=res
+SKN,Skinner Clearwell,Skinner Lake                  ,none,"43,800 af",N/A,1975,1991,2020,43800,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=SKN&type=res
+STD,Sutherland,Sutherland Lake               ,Santa Ysabel Creek,"29,508 af",N/A,1978,1991,2020,29508,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=STD&type=res
+SVT,San Vicente,San Vicente Reservoir         ,San Vicente Creek,"249,358 af",N/A,1956,1991,2020,249358,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=SVT&type=res
+SW3,Sweetwater,Sweetwater Reservoir          ,Sweetwater Creek,"27,700 af",N/A,1979,1991,2020,27700,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=SW3&type=res
+VIL,Vail,Vail Reservoir                ,Temecula Creek,"51,000 af",N/A,1980,1991,2020,51000,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=VIL&type=res
+CRW,Long Valley,Lake Crowley                  ,Owens River,"183,465 af",N/A,1962,1991,2020,183465,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=CRW&type=res
+GLK,Gem Lake,Gem Lake                      ,Rush Creek,"17,228 af",N/A,1960,1991,2020,17228,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=GLK&type=res
+GNT,Grant Lake,Grant Lake                    ,Rush Creek,"47,525 af",N/A,1963,1991,2020,47525,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=GNT&type=res
+HWE,Haiwee,Haiwee Reservoir              ,Rose Valley,"46,600 af",N/A,1973,1991,2020,46600,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=HWE&type=res
+SDB,Saddlebag,Saddlebag Lake                ,Lee Vining Creek,"9,465 af",N/A,1961,1991,2020,9465,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=SDB&type=res
+SKR,South Lake,South Lake,Bishop Creek,"12,900 af",N/A,1962,1991,2020,12900,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=SKR&type=res
+SLW,Cedar Springs,Lake Silverwood               ,Mojave River,"78,000 af",N/A,1974,1991,2020,78000,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=SLW&type=res
+TNM,Tinemaha,Tinemaha Reservoir            ,Owens River,"16,405 af",N/A,1992,1991,2020,16405,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=TNM&type=res
+CTG,Courtright,Helms Creek                   ,Helms Creek,"123,300 af",N/A,1962,1991,2020,123300,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=CTG&type=res
+ISB,Isabella,Lake Isabella                 ,Kern River,"568,000 af",N/A,1953,1991,2020,568000,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=ISB&type=res
+PNF,Pine Flat,Pine Flat Dam                 ,Kings River,"1,000,000 af",N/A,1956,1991,2020,1000000,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=PNF&type=res
+SCC,Success,Lake Success                  ,Tule River,"82,300 af",N/A,1963,1991,2020,82300,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=SCC&type=res
+TRM,Terminus,Lake Kaweah                   ,Kaweah River,"185,600 af",N/A,1964,1991,2020,185600,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=TRM&type=res
+WSN,Wishon,Lake Wishon                   ,Helms Creek,"128,300 af",N/A,1959,1991,2020,128300,af,False,https://cdec.water.ca.gov/dynamicapp/profile?s=WSN&type=res
+HVS,Parker Dam,Lake Havasu                   ,Colorado River,"648,000 af",N/A,1959,1991,2020,648000,af,True,https://cdec.water.ca.gov/dynamicapp/profile?s=HVS&type=res
+MEA,Hoover,Lake Mead                     ,Colorado River,"26,159,008 af",N/A,1959,1991,2020,26159008,af,True,https://cdec.water.ca.gov/dynamicapp/profile?s=MEA&type=res
+MHV,Davis,Lake Mohave                   ,Colorado River,"1,810,000 af",N/A,1952,1991,2020,1810000,af,True,https://cdec.water.ca.gov/dynamicapp/profile?s=MHV&type=res
+PWL,Glen Canyon,Lake Powell                   ,Colorado River,"24,322,000 af",N/A,1974,1991,2020,24322000,af,True,https://cdec.water.ca.gov/dynamicapp/profile?s=PWL&type=res
+CLK,Clear Lake,Clear Lake      ,Lost Creek,"526,800 af",N/A,1953,1991,2020,526800,af,True,https://cdec.water.ca.gov/dynamicapp/profile?s=CLK&type=res
+GBR,Gerber,Gerber Lake                   ,Klamath River,"94,720 af",N/A,1952,1991,2020,94720,af,True,https://cdec.water.ca.gov/dynamicapp/profile?s=GBR&type=res
+KLM,Upper Klamath,Upper Klamath                 ,Klamath River,"515,615 af",N/A,1955,1991,2020,515615,af,True,https://cdec.water.ca.gov/dynamicapp/profile?s=KLM&type=res
