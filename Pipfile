@@ -16,6 +16,7 @@ pytz = "*"
 DateTime = "*"
 install = "*"
 vega-datasets = "*"
+imagecolor = "*"
 
 [dev-packages]
 
