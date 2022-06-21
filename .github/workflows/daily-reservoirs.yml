@@ -1,5 +1,5 @@
 
-name: Download latest water use and conservation data
+name: Download daily reservoir data
 
 on:
   workflow_dispatch:
