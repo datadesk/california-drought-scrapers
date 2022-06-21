@@ -4,4 +4,3 @@ datetime
 pandas
 lxml
 altair
-BeautifulSoup
