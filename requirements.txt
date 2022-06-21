@@ -2,3 +2,6 @@ requests
 pytz
 datetime
 pandas
+lxml
+altair
+BeautifulSoup
