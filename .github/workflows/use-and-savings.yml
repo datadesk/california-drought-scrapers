@@ -20,11 +20,11 @@ jobs:
     - name: Run scraper
       run: pipenv run jupyter execute downloaders/uw-monthly-reports.ipynb
     - name: Parse monthly reports
-      run: pipenv run jupyter execute downloaders/1-parse-uw-monthly-reports.ipynb      
+      run: pipenv run jupyter execute processors/1-parse-uw-monthly-reports.ipynb      
     - name: R-GPCD
-      run: pipenv run jupyter execute downloaders/2-r-gpcd.ipynb
+      run: pipenv run jupyter execute processors/2-r-gpcd.ipynb
     - name: Calculate monthly percent changes
-      run: pipenv run jupyter execute downloaders/3-conservation-progress.ipynb
+      run: pipenv run jupyter execute processors/3-conservation-progress.ipynb
     - name: Add and commit
       id: add_commit
       uses: EndBug/add-and-commit@v8
