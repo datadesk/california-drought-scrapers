@@ -1,4 +1,4 @@
-name: Download latest water use and conservation data
+name: Download daily reservoir data
 
 on:
   workflow_dispatch:
@@ -17,14 +17,14 @@ jobs:
     - run: pipenv install
     - name: Install requirements
       run: pipenv install -r requirements.txt    
-    - name: Run scraper
-      run: pipenv run jupyter execute downloaders/uw-monthly-reports.ipynb
-    - name: Parse monthly reports
-      run: pipenv run jupyter execute processors/1-parse-uw-monthly-reports.ipynb      
-    - name: R-GPCD
-      run: pipenv run jupyter execute processors/2-r-gpcd.ipynb
-    - name: Calculate monthly percent changes
-      run: pipenv run jupyter execute processors/3-conservation-progress.ipynb
+    - name: Run statewide scraper
+      run: pipenv run jupyter execute downloaders/reservoirs-statewide.ipynb
+    - name: Run DWR scraper
+      run: pipenv run jupyter execute downloaders/reservoirs-dwr.ipynb  
+    - name: Process statewide reservoirs
+      run: pipenv run jupyter execute processors/reservoirs-statewide.ipynb
+    - name: Process DWR data
+      run: pipenv run jupyter execute processors/reservoirs-dwr.ipynb
     - name: Add and commit
       id: add_commit
       uses: EndBug/add-and-commit@v8
