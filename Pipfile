@@ -17,6 +17,7 @@ DateTime = "*"
 install = "*"
 vega-datasets = "*"
 imagecolor = "*"
+python-slugify = "*"
 
 [dev-packages]
 
