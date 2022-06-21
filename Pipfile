@@ -18,6 +18,7 @@ install = "*"
 vega-datasets = "*"
 imagecolor = "*"
 python-slugify = "*"
+lxml = "*"
 
 [dev-packages]
 
