@@ -1,4 +1,3 @@
-
 name: Download daily reservoir data
 
 on:
@@ -23,9 +22,9 @@ jobs:
     - name: Run DWR scraper
       run: pipenv run jupyter execute downloaders/reservoirs-dwr.ipynb  
     - name: Process statewide reservoirs
-      run: pipenv run jupyter execute downloaders/reservoirs-statewide.ipynb
+      run: pipenv run jupyter execute processors/reservoirs-statewide.ipynb
     - name: Process DWR data
-      run: pipenv run jupyter execute downloaders/reservoirs-dwr.ipynb
+      run: pipenv run jupyter execute processors/reservoirs-dwr.ipynb
     - name: Add and commit
       id: add_commit
       uses: EndBug/add-and-commit@v8
