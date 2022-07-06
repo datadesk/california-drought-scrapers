@@ -1,6 +1,8 @@
 name: Download daily reservoir data
 
 on:
+  schedule:
+    - cron: "0 10 * * *" # run every day at 3 a.m. PST
   workflow_dispatch:
 
 jobs:
