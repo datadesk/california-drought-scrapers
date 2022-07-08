@@ -37,6 +37,6 @@ jobs:
       with:
         committer_name: Automated
         committer_email: actions@users.noreply.github.com
-        message: "Latest water conservation data"
+        message: "Latest reservoir data"
     - name: Push
       run: git push
