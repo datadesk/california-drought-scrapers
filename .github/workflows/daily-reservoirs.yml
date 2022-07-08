@@ -23,10 +23,14 @@ jobs:
       run: pipenv run jupyter execute downloaders/reservoirs-statewide.ipynb
     - name: Run DWR scraper
       run: pipenv run jupyter execute downloaders/reservoirs-dwr.ipynb  
+    - name: Run BoR scraper
+      run: pipenv run jupyter execute downloaders/reservoirs-colorado-bor.ipynb
     - name: Process statewide reservoirs
       run: pipenv run jupyter execute processors/reservoirs-statewide.ipynb
     - name: Process DWR data
       run: pipenv run jupyter execute processors/reservoirs-dwr.ipynb
+    - name: Process BoR data
+      run: pipenv run jupyter execute processors/reservoirs-colorado.ipynb      
     - name: Add and commit
       id: add_commit
       uses: EndBug/add-and-commit@v8
