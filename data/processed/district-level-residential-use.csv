@@ -178,7 +178,7 @@ San Bernardino County Service Area 70J,2021-06-15,San Bernardino County Service 
 San Bernardino County Service Area 64,2021-06-15,San Bernardino County Service Area 64,CA3610121,San Bernardino,South Lahontan,14741.0,,99466017.75,153.652,146.051831212711
 San Gabriel Valley Fontana Water Company,2021-06-15,San Gabriel Valley Fontana Water Company,CA3610041,San Bernardino,South Coast,237000.0,,1282380093.48,107.267,99.81000831402069
 Sunny Slope Water Company,2021-06-15,Sunny Slope Water Company,CA1910157,Los Angeles,South Coast,30700.0,,109891082.956,104.438,99.81000831402069
-Santa Clarita Valley Water Agency,2021-06-15,,"CA1910255,CA1910247,CA1910096,CA1910250,CA1910240,CA1910017",Los Angeles,South Coast,286868.0,,2279360330.1,163.167,99.81000831402069
+Santa Clarita Valley Water Agency,2021-06-15,Santa Clarita Valley Water Agency,"CA1910255,CA1910247,CA1910096,CA1910250,CA1910240,CA1910017",Los Angeles,South Coast,286868.0,,2279360330.1,163.167,99.81000831402069
 Santa Fe Irrigation District,2021-06-15,Santa Fe Irrigation District,CA3710023,San Diego,South Coast,19839.0,,0.0,0.0,99.81000831402069
 Suburban Water Systems San Jose Hills,2021-06-15,Suburban Water Systems San Jose Hills,"CA1910205,CA1910046,CA1910200",Los Angeles,South Coast,178500.0,,775984829.91,102.694,99.81000831402069
 Stockton City of,2021-06-15,City of Stockton,CA3910012,San Joaquin,San Joaquin River,184402.0,,1279310000.0,136.407,155.28994647128818
@@ -307,7 +307,7 @@ Brawley City of,2021-06-15,City of Brawley,CA1310001,Imperial,Colorado River,277
 Blythe City of,2021-06-15,City of Blythe,"CA3310003,CA3301428,CA3301630",Riverside,Colorado River,12171.0,,91386000.0,174.757,211.039697053086
 California Water Service Company Antelope Valley,2021-06-15,California Water Service Company Antelope Valley,"CA1500333,CA1910242,CA1910010,CA1910243","Kern,Los Angeles",South Lahontan,3451.0,,28511962.5,248.444,146.051831212711
 Desert Water Agency,2021-06-15,Desert Water Agency,CA3310005,Riverside,Colorado River,72960.0,,1318511966.888,308.303,211.039697053086
-Loma Linda City of *,2021-06-15,,CA3610013,San Bernardino,South Coast,24482.0,,176803494.09,165.263,99.81000831402069
+Loma Linda City of *,2021-06-15,City of Loma Linda,CA3610013,San Bernardino,South Coast,24482.0,,176803494.09,165.263,99.81000831402069
 Dinuba City of,2021-06-15,City of Dinuba,CA5410002,Tulare,Tulare Lake,26305.0,,183080000.0,134.267,183.362244016878
 "Imperial, City of",2021-06-15,City of Imperial,CA1310006,Imperial,Colorado River,19929.0,,103874000.0,150.581,211.039697053086
 Huntington Park City of,2021-06-15,City of Huntington Park,CA1910049,Los Angeles,South Coast,62500.0,,120564870.0,42.4968,99.81000831402069
@@ -589,7 +589,7 @@ San Bernardino County Service Area 70J,2021-07-15,San Bernardino County Service 
 San Bernardino County Service Area 64,2021-07-15,San Bernardino County Service Area 64,CA3610121,San Bernardino,South Lahontan,14719.0,,109831338.06,166.852,159.1423243166333
 San Gabriel Valley Fontana Water Company,2021-07-15,San Gabriel Valley Fontana Water Company,CA3610041,San Bernardino,South Coast,237000.0,,1387763565.39,112.939,102.68590580504363
 Sunny Slope Water Company,2021-07-15,Sunny Slope Water Company,CA1910157,Los Angeles,South Coast,30700.0,,117513732.836,107.389,102.68590580504363
-Santa Clarita Valley Water Agency,2021-07-15,,"CA1910255,CA1910247,CA1910096,CA1910250,CA1910240,CA1910017",Los Angeles,South Coast,286868.0,,2547460757.37,172.88,102.68590580504363
+Santa Clarita Valley Water Agency,2021-07-15,Santa Clarita Valley Water Agency,"CA1910255,CA1910247,CA1910096,CA1910250,CA1910240,CA1910017",Los Angeles,South Coast,286868.0,,2547460757.37,172.88,102.68590580504363
 Santa Fe Irrigation District,2021-07-15,Santa Fe Irrigation District,CA3710023,San Diego,South Coast,19839.0,,343121103.0,468.647,102.68590580504363
 Suburban Water Systems San Jose Hills,2021-07-15,Suburban Water Systems San Jose Hills,"CA1910205,CA1910046,CA1910200",Los Angeles,South Coast,178500.0,,838613392.11,107.164,102.68590580504363
 Stockton City of,2021-07-15,City of Stockton,CA3910012,San Joaquin,San Joaquin River,184402.0,,1312080000.0,135.412,155.750144126329
@@ -689,7 +689,7 @@ Alhambra City of,2021-07-15,City of Alhambra,CA1910001,Los Angeles,South Coast,8
 Alco Water Service,2021-07-15,Alco Water Service,CA2710001,Monterey,Central Coast,30509.0,,131292000.0,110.088,85.90811191463195
 Alameda County Water District,2021-07-15,Alameda County Water District,CA0110001,Alameda,San Francisco Bay,356823.0,,1455800000.0,89.6384,80.5932698787554
 Adelanto City of,2021-07-15,City of Adelanto,CA3610001,San Bernardino,South Lahontan,30743.0,,150480384.476,105.791,159.1423243166333
-Loma Linda City of *,2021-07-15,,CA3610013,San Bernardino,South Coast,24482.0,,185269103.07,165.391,102.68590580504363
+Loma Linda City of *,2021-07-15,City of Loma Linda,CA3610013,San Bernardino,South Coast,24482.0,,185269103.07,165.391,102.68590580504363
 Apple Valley Ranchos Water Company,2021-07-15,Apple Valley Ranchos Water Company,"CA3610003,CA3600010",San Bernardino,South Lahontan,62602.0,,379847340.664,135.054,159.1423243166333
 Delano City of,2021-07-15,City of Delano,CA1510005,"Kern,Tulare",Tulare Lake,50151.0,,328900000.0,110.042,196.42022028790197
 Bellflower-Somerset Mutual Water Company,2021-07-15,Bellflower-Somerset Mutual Water Company,CA1910013,Los Angeles,South Coast,46300.0,,146294064.96,84.606,102.68590580504363
@@ -986,7 +986,7 @@ San Juan Water District,2021-08-15,San Juan Water District,CA3410021,"Placer,Sac
 San Juan Capistrano City of,2021-08-15,City of San Juan Capistrano,CA3010030,Orange,South Coast,38918.0,,270202166.22,116.43,103.14328470186834
 San Jose Water Company,2021-08-15,San Jose Water Company,"CA4310011,CA4310018",Santa Clara,San Francisco Bay,1042326.0,,3866300000.0,74.1204,76.76682096694365
 San Jose City of,2021-08-15,City of San Jose,"CA4310019,CA4310020",Santa Clara,San Francisco Bay,136189.0,,569000000.0,79.5171,76.76682096694365
-Santa Clarita Valley Water Agency,2021-08-15,,"CA1910255,CA1910247,CA1910096,CA1910250,CA1910240,CA1910017",Los Angeles,South Coast,286868.0,,2546958946.83,169.575,103.14328470186834
+Santa Clarita Valley Water Agency,2021-08-15,Santa Clarita Valley Water Agency,"CA1910255,CA1910247,CA1910096,CA1910250,CA1910240,CA1910017",Los Angeles,South Coast,286868.0,,2546958946.83,169.575,103.14328470186834
 San Jacinto City of,2021-08-15,City of San Jacinto,CA3310032,Riverside,South Coast,17961.0,,90195556.8,92.3373,103.14328470186834
 San Gabriel Valley Fontana Water Company,2021-08-15,San Gabriel Valley Fontana Water Company,CA3610041,San Bernardino,South Coast,237000.0,,1395346118.16,112.828,103.14328470186834
 San Gabriel County Water District,2021-08-15,San Gabriel County Water District,CA1910144,Los Angeles,South Coast,45000.0,,164434190.13,88.4704,103.14328470186834
@@ -1027,7 +1027,7 @@ Santa Margarita Water District,2021-08-15,Santa Margarita Water District,CA30101
 Signal Hill City of,2021-08-15,City of Signal Hill,CA1910149,Los Angeles,South Coast,11712.0,,63312849.3,79.5692,103.14328470186834
 Lompoc City of,2021-08-15,City of Lompoc,CA4210006,Santa Barbara,Central Coast,40415.0,,131700000.0,75.8581,85.8242146725384
 Lomita City of,2021-08-15,City of Lomita,CA1910073,Los Angeles,South Coast,20707.0,,61259988.0,85.8897,103.14328470186834
-Loma Linda City of *,2021-08-15,,CA3610013,San Bernardino,South Coast,24482.0,,185787206.16,161.521,103.14328470186834
+Loma Linda City of *,2021-08-15,City of Loma Linda,CA3610013,San Bernardino,South Coast,24482.0,,185787206.16,161.521,103.14328470186834
 Cerritos City of,2021-08-15,City of Cerritos,CA1910019,Los Angeles,South Coast,49994.0,,256513165.71,143.957,103.14328470186834
 Ceres City of,2021-08-15,City of Ceres,CA5010028,Stanislaus,San Joaquin River,49038.0,,238281000.0,115.949,152.75827859346234
 Casitas Municipal Water District,2021-08-15,Casitas Municipal Water District,"CA5610024,CA5610014",Ventura,South Coast,17754.0,,177588795.0,161.335,103.14328470186834
@@ -1411,7 +1411,7 @@ San Bernardino County Service Area 70J,2021-09-15,San Bernardino County Service 
 San Bernardino County Service Area 64,2021-09-15,San Bernardino County Service Area 64,CA3610121,San Bernardino,South Lahontan,14733.0,,96624597.03,177.27,149.11551012147925
 San Gabriel Valley Fontana Water Company,2021-09-15,San Gabriel Valley Fontana Water Company,CA3610041,San Bernardino,South Coast,237000.0,,1265654161.65,103.064,100.8263060461948
 Sunny Slope Water Company,2021-09-15,Sunny Slope Water Company,CA1910157,Los Angeles,South Coast,30700.0,,108709908.848,102.301,100.8263060461948
-Santa Clarita Valley Water Agency,2021-09-15,,"CA1910255,CA1910247,CA1910096,CA1910250,CA1910240,CA1910017",Los Angeles,South Coast,286868.0,,2282094219.99,158.389,100.8263060461948
+Santa Clarita Valley Water Agency,2021-09-15,Santa Clarita Valley Water Agency,"CA1910255,CA1910247,CA1910096,CA1910250,CA1910240,CA1910017",Los Angeles,South Coast,286868.0,,2282094219.99,158.389,100.8263060461948
 Santa Fe Irrigation District,2021-09-15,Santa Fe Irrigation District,CA3710023,San Diego,South Coast,19839.0,,317053023.0,447.477,100.8263060461948
 Suburban Water Systems San Jose Hills,2021-09-15,Suburban Water Systems San Jose Hills,"CA1910205,CA1910046,CA1910200",Los Angeles,South Coast,178500.0,,760946806.2600001,100.34,100.8263060461948
 Stockton City of,2021-09-15,City of Stockton,CA3910012,San Joaquin,San Joaquin River,184402.0,,1087970000.0,116.036,139.4733932221845
@@ -1540,7 +1540,7 @@ Brawley City of,2021-09-15,City of Brawley,CA1310001,Imperial,Colorado River,277
 Blythe City of,2021-09-15,City of Blythe,"CA3310003,CA3301428,CA3301630",Riverside,Colorado River,12171.0,,92720000.0,178.063,206.87824877695653
 California Water Service Company Antelope Valley,2021-09-15,California Water Service Company Antelope Valley,"CA1500333,CA1910242,CA1910010,CA1910243","Kern,Los Angeles",South Lahontan,3457.0,,24210729.3,210.649,149.11551012147925
 Desert Water Agency,2021-09-15,Desert Water Agency,CA3310005,Riverside,Colorado River,73225.0,,1007453139.26072,335.29,206.87824877695653
-Loma Linda City of *,2021-09-15,,CA3610013,San Bernardino,South Coast,24482.0,,171537741.93,151.688,100.8263060461948
+Loma Linda City of *,2021-09-15,City of Loma Linda,CA3610013,San Bernardino,South Coast,24482.0,,171537741.93,151.688,100.8263060461948
 Dinuba City of,2021-09-15,City of Dinuba,CA5410002,Tulare,Tulare Lake,26305.0,,167030000.0,148.134,173.07828040901205
 "Imperial, City of",2021-09-15,City of Imperial,CA1310006,Imperial,Colorado River,19929.0,,91194000.0,132.718,206.87824877695653
 Huntington Park City of,2021-09-15,City of Huntington Park,CA1910049,Los Angeles,South Coast,62500.0,,120239019.0,51.2379,100.8263060461948
@@ -1822,7 +1822,7 @@ San Bernardino County Service Area 70J,2021-10-15,San Bernardino County Service 
 San Bernardino County Service Area 64,2021-10-15,San Bernardino County Service Area 64,CA3610121,San Bernardino,South Lahontan,14741.0,,78934146.24000001,154.047,111.43536561345591
 San Gabriel Valley Fontana Water Company,2021-10-15,San Gabriel Valley Fontana Water Company,CA3610041,San Bernardino,South Coast,237000.0,,1111103032.35,88.8529,85.727916510198
 Sunny Slope Water Company,2021-10-15,Sunny Slope Water Company,CA1910157,Los Angeles,South Coast,30700.0,,97116598.952,88.7999,85.727916510198
-Santa Clarita Valley Water Agency,2021-10-15,,"CA1910255,CA1910247,CA1910096,CA1910250,CA1910240,CA1910017",Los Angeles,South Coast,286868.0,,1796990060.76,120.959,85.727916510198
+Santa Clarita Valley Water Agency,2021-10-15,Santa Clarita Valley Water Agency,"CA1910255,CA1910247,CA1910096,CA1910250,CA1910240,CA1910017",Los Angeles,South Coast,286868.0,,1796990060.76,120.959,85.727916510198
 Santa Fe Irrigation District,2021-10-15,Santa Fe Irrigation District,CA3710023,San Diego,South Coast,19839.0,,229399104.0,313.321,85.727916510198
 Suburban Water Systems San Jose Hills,2021-10-15,Suburban Water Systems San Jose Hills,"CA1910205,CA1910046,CA1910200",Los Angeles,South Coast,175529.0,,662777675.49,82.729,85.727916510198
 Stockton City of,2021-10-15,City of Stockton,CA3910012,San Joaquin,San Joaquin River,184402.0,,821930000.0,84.8392,109.06739583948216
@@ -1922,7 +1922,7 @@ Alhambra City of,2021-10-15,City of Alhambra,CA1910001,Los Angeles,South Coast,8
 Alco Water Service,2021-10-15,Alco Water Service,CA2710001,Monterey,Central Coast,30165.0,,115735000.0,98.7181,73.32646236416936
 Alameda County Water District,2021-10-15,Alameda County Water District,CA0110001,Alameda,San Francisco Bay,356823.0,,1167200000.0,70.6856,62.16569839272452
 Adelanto City of,2021-10-15,City of Adelanto,CA3610001,San Bernardino,South Lahontan,30643.0,,140585152.62,96.1966,111.43536561345591
-Loma Linda City of *,2021-10-15,,CA3610013,San Bernardino,South Coast,24482.0,,141660463.74,121.399,85.727916510198
+Loma Linda City of *,2021-10-15,City of Loma Linda,CA3610013,San Bernardino,South Coast,24482.0,,141660463.74,121.399,85.727916510198
 Apple Valley Ranchos Water Company,2021-10-15,Apple Valley Ranchos Water Company,"CA3610003,CA3600010",San Bernardino,South Lahontan,62602.0,,271512205.868,87.0222,111.43536561345591
 Delano City of,2021-10-15,City of Delano,CA1510005,"Kern,Tulare",Tulare Lake,50151.0,,206800000.0,87.8765,137.38075044069143
 Bellflower-Somerset Mutual Water Company,2021-10-15,Bellflower-Somerset Mutual Water Company,CA1910013,Los Angeles,South Coast,46300.0,,127368638.88,18.6412,85.727916510198
@@ -2233,7 +2233,7 @@ San Bernardino County Service Area 70J,2021-11-15,San Bernardino County Service 
 San Bernardino County Service Area 64,2021-11-15,San Bernardino County Service Area 64,CA3610121,San Bernardino,South Lahontan,14741.0,,64036238.52,145.157,99.26559512368861
 San Gabriel Valley Fontana Water Company,2021-11-15,San Gabriel Valley Fontana Water Company,CA3610041,San Bernardino,South Coast,237000.0,,1044916177.23,81.9984,83.27763787154777
 Suisun-Solano Water Authority,2021-11-15,Suisun-Solano Water Authority,CA4810005,Solano,San Francisco Bay,29917.0,,72060000.0,67.3062,50.264411528764
-Santa Clarita Valley Water Agency,2021-11-15,,"CA1910255,CA1910247,CA1910096,CA1910250,CA1910240,CA1910017",Los Angeles,South Coast,286868.0,,1653772029.24,120.382,83.27763787154777
+Santa Clarita Valley Water Agency,2021-11-15,Santa Clarita Valley Water Agency,"CA1910255,CA1910247,CA1910096,CA1910250,CA1910240,CA1910017",Los Angeles,South Coast,286868.0,,1653772029.24,120.382,83.27763787154777
 Santa Fe Irrigation District,2021-11-15,Santa Fe Irrigation District,CA3710023,San Diego,South Coast,19839.0,,247874855.7,349.979,83.27763787154777
 Suburban Water Systems San Jose Hills,2021-11-15,Suburban Water Systems San Jose Hills,"CA1910205,CA1910046,CA1910200",Los Angeles,South Coast,175529.0,,619341737.19,79.9438,83.27763787154777
 Stockton City of,2021-11-15,City of Stockton,CA3910012,San Joaquin,San Joaquin River,184402.0,,632330000.0,67.4035,78.46799180085956
@@ -2362,7 +2362,7 @@ Brawley City of,2021-11-15,City of Brawley,CA1310001,Imperial,Colorado River,277
 Blythe City of,2021-11-15,City of Blythe,"CA3310003,CA3301428,CA3301630",Riverside,Colorado River,12171.0,,64738000.0,124.4,174.3554917177977
 California Water Service Company Antelope Valley,2021-11-15,California Water Service Company Antelope Valley,"CA1500333,CA1910242,CA1910010,CA1910243","Kern,Los Angeles",South Lahontan,3453.0,,15901528.8,138.72,99.26559512368861
 Desert Water Agency,2021-11-15,Desert Water Agency,CA3310005,Riverside,Colorado River,73428.0,,935183005.203,258.245,174.3554917177977
-Loma Linda City of *,2021-11-15,,CA3610013,San Bernardino,South Coast,24482.0,,133520705.76,118.236,83.27763787154777
+Loma Linda City of *,2021-11-15,City of Loma Linda,CA3610013,San Bernardino,South Coast,24482.0,,133520705.76,118.236,83.27763787154777
 Dinuba City of,2021-11-15,City of Dinuba,CA5410002,Tulare,Tulare Lake,26305.0,,92800000.0,80.8439,98.57176068456204
 "Imperial, City of",2021-11-15,City of Imperial,CA1310006,Imperial,Colorado River,19929.0,,75181000.0,108.998,174.3554917177977
 Huntington Park City of,2021-11-15,City of Huntington Park,CA1910049,Los Angeles,South Coast,62500.0,,112092744.0,46.9893,83.27763787154777
@@ -2644,7 +2644,7 @@ San Bernardino County Service Area 70J,2021-12-15,San Bernardino County Service 
 San Bernardino County Service Area 64,2021-12-15,San Bernardino County Service Area 64,CA3610121,San Bernardino,South Lahontan,14741.0,,47812117.23,99.4856,77.4041941835794
 San Gabriel Valley Fontana Water Company,2021-12-15,San Gabriel Valley Fontana Water Company,CA3610041,San Bernardino,South Coast,237000.0,,786268687.4699999,66.4276,68.24237091968061
 Sunny Slope Water Company,2021-12-15,Sunny Slope Water Company,CA1910157,Los Angeles,South Coast,30700.0,,75834519.552,69.0933,68.24237091968061
-Santa Clarita Valley Water Agency,2021-12-15,,"CA1910255,CA1910247,CA1910096,CA1910250,CA1910240,CA1910017",Los Angeles,South Coast,286868.0,,1059038559.57,76.7666,68.24237091968061
+Santa Clarita Valley Water Agency,2021-12-15,Santa Clarita Valley Water Agency,"CA1910255,CA1910247,CA1910096,CA1910250,CA1910240,CA1910017",Los Angeles,South Coast,286868.0,,1059038559.57,76.7666,68.24237091968061
 Santa Fe Irrigation District,2021-12-15,Santa Fe Irrigation District,CA3710023,San Diego,South Coast,19839.0,,134902314.0,184.254,68.24237091968061
 Suburban Water Systems San Jose Hills,2021-12-15,Suburban Water Systems San Jose Hills,"CA1910205,CA1910046,CA1910200",Los Angeles,South Coast,175529.0,,512384404.95,65.0677,68.24237091968061
 Stockton City of,2021-12-15,City of Stockton,CA3910012,San Joaquin,San Joaquin River,184402.0,,552950000.0,57.0755,69.24352738313506
@@ -2773,7 +2773,7 @@ Brawley City of,2021-12-15,City of Brawley,CA1310001,Imperial,Colorado River,277
 Blythe City of,2021-12-15,City of Blythe,"CA3310003,CA3301428,CA3301630",Riverside,Colorado River,12171.0,,51844000.0,98.4042,132.68731545324127
 California Water Service Company Antelope Valley,2021-12-15,California Water Service Company Antelope Valley,"CA1500333,CA1910242,CA1910010,CA1910243","Kern,Los Angeles",South Lahontan,3455.0,,11404785.0,96.686,77.4041941835794
 Desert Water Agency,2021-12-15,Desert Water Agency,CA3310005,Riverside,Colorado River,73464.0,,642916283.608,210.515,132.68731545324127
-Loma Linda City of *,2021-12-15,,CA3610013,San Bernardino,South Coast,24482.0,,90798381.15,81.4562,68.24237091968061
+Loma Linda City of *,2021-12-15,City of Loma Linda,CA3610013,San Bernardino,South Coast,24482.0,,90798381.15,81.4562,68.24237091968061
 Dinuba City of,2021-12-15,City of Dinuba,CA5410002,Tulare,Tulare Lake,26731.0,,76200000.0,65.1171,77.97793360311817
 "Imperial, City of",2021-12-15,City of Imperial,CA1310006,Imperial,Colorado River,19929.0,,63752000.0,89.2922,132.68731545324127
 Huntington Park City of,2021-12-15,City of Huntington Park,CA1910049,Los Angeles,South Coast,62500.0,,104598171.0,37.0453,68.24237091968061
@@ -3055,7 +3055,7 @@ San Bernardino County Service Area 70J,2022-01-15,San Bernardino County Service 
 San Bernardino County Service Area 64,2022-01-15,San Bernardino County Service Area 64,CA3610121,San Bernardino,South Lahontan,14745.0,,45426887.91,83.7505,74.08840825989996
 San Gabriel Valley Fontana Water Company,2022-01-15,San Gabriel Valley Fontana Water Company,CA3610041,San Bernardino,South Coast,237000.0,,845814699.21,71.2121,68.51737023662542
 Sunny Slope Water Company,2022-01-15,Sunny Slope Water Company,CA1910157,Los Angeles,South Coast,30700.0,,78329272.972,72.6256,68.51737023662542
-Santa Clarita Valley Water Agency,2022-01-15,,"CA1910255,CA1910247,CA1910096,CA1910250,CA1910240,CA1910017",Los Angeles,South Coast,295639.0,,1106866969.35,87.3516,68.51737023662542
+Santa Clarita Valley Water Agency,2022-01-15,Santa Clarita Valley Water Agency,"CA1910255,CA1910247,CA1910096,CA1910250,CA1910240,CA1910017",Los Angeles,South Coast,295639.0,,1106866969.35,87.3516,68.51737023662542
 Santa Fe Irrigation District,2022-01-15,Santa Fe Irrigation District,CA3710023,San Diego,South Coast,19839.0,,147936354.0,202.057,68.51737023662542
 Suburban Water Systems San Jose Hills,2022-01-15,Suburban Water Systems San Jose Hills,"CA1910205,CA1910046,CA1910200",Los Angeles,South Coast,175529.0,,504410830.98,61.9514,68.51737023662542
 Stockton City of,2022-01-15,City of Stockton,CA3910012,San Joaquin,San Joaquin River,184402.0,,532700000.0000001,55.0113,72.15388637659352
@@ -3155,7 +3155,7 @@ Alhambra City of,2022-01-15,City of Alhambra,CA1910001,Los Angeles,South Coast,8
 Alco Water Service,2022-01-15,Alco Water Service,CA2710001,Monterey,Central Coast,30165.0,,93507000.0,90.9828,55.90565650764397
 Alameda County Water District,2022-01-15,Alameda County Water District,CA0110001,Alameda,San Francisco Bay,355877.0,,859100000.0,56.2171,48.26554025611741
 Adelanto City of,2022-01-15,City of Adelanto,CA3610001,San Bernardino,South Lahontan,30680.0,,88294821.716,58.4869,74.08840825989996
-Loma Linda City of *,2022-01-15,,CA3610013,San Bernardino,South Coast,24791.0,,102483398.01,92.156,68.51737023662542
+Loma Linda City of *,2022-01-15,City of Loma Linda,CA3610013,San Bernardino,South Coast,24791.0,,102483398.01,92.156,68.51737023662542
 Apple Valley Ranchos Water Company,2022-01-15,Apple Valley Ranchos Water Company,"CA3610003,CA3600010",San Bernardino,South Lahontan,62602.0,,189517478.096,73.2421,74.08840825989996
 Delano City of,2022-01-15,City of Delano,CA1510005,"Kern,Tulare",Tulare Lake,50903.0,,143900000.0,57.4907,72.84513429115324
 Bellflower-Somerset Mutual Water Company,2022-01-15,Bellflower-Somerset Mutual Water Company,CA1910013,Los Angeles,South Coast,46300.0,,126716936.88,75.9495,68.51737023662542
@@ -3466,7 +3466,7 @@ San Bernardino County Service Area 70J,2022-02-15,San Bernardino County Service 
 San Bernardino County Service Area 64,2022-02-15,San Bernardino County Service Area 64,CA3610121,San Bernardino,South Lahontan,14752.0,,44455851.93,77.923,77.13554084717737
 San Gabriel Valley Fontana Water Company,2022-02-15,San Gabriel Valley Fontana Water Company,CA3610041,San Bernardino,South Coast,237000.0,,896015304.27,78.3337,76.62726134430623
 Suisun-Solano Water Authority,2022-02-15,Suisun-Solano Water Authority,CA4810005,Solano,San Francisco Bay,29917.0,,0.0,0.0,55.41822627300885
-Santa Clarita Valley Water Agency,2022-02-15,,"CA1910255,CA1910247,CA1910096,CA1910250,CA1910240,CA1910017",Los Angeles,South Coast,295639.0,,1361669417.31,119.049,76.62726134430623
+Santa Clarita Valley Water Agency,2022-02-15,Santa Clarita Valley Water Agency,"CA1910255,CA1910247,CA1910096,CA1910250,CA1910240,CA1910017",Los Angeles,South Coast,295639.0,,1361669417.31,119.049,76.62726134430623
 Santa Fe Irrigation District,2022-02-15,Santa Fe Irrigation District,CA3710023,San Diego,South Coast,19839.0,,190948686.0,288.748,76.62726134430623
 Suburban Water Systems San Jose Hills,2022-02-15,Suburban Water Systems San Jose Hills,"CA1910205,CA1910046,CA1910200",Los Angeles,South Coast,175529.0,,534646545.27,78.8677,76.62726134430623
 Stockton City of,2022-02-15,City of Stockton,CA3910012,San Joaquin,San Joaquin River,184402.0,,618490000.0,70.6182,85.31031780154441
@@ -3595,7 +3595,7 @@ Brawley City of,2022-02-15,City of Brawley,CA1310001,Imperial,Colorado River,277
 Blythe City of,2022-02-15,City of Blythe,"CA3310003,CA3301428,CA3301630",Riverside,Colorado River,12171.0,,50019000.0,101.999,147.694090341042
 California Water Service Company Antelope Valley,2022-02-15,California Water Service Company Antelope Valley,"CA1500333,CA1910242,CA1910010,CA1910243","Kern,Los Angeles",South Lahontan,3465.0,,10231721.4,96.9326,77.13554084717737
 Desert Water Agency,2022-02-15,Desert Water Agency,CA3310005,Riverside,Colorado River,73576.0,,631809207.512,203.025,147.694090341042
-Loma Linda City of *,2022-02-15,,CA3610013,San Bernardino,South Coast,24791.0,,100505482.44,106.992,76.62726134430623
+Loma Linda City of *,2022-02-15,City of Loma Linda,CA3610013,San Bernardino,South Coast,24791.0,,100505482.44,106.992,76.62726134430623
 Dinuba City of,2022-02-15,City of Dinuba,CA5410002,Tulare,Tulare Lake,26731.0,,82650000.0,78.2906,84.56219911814858
 "Imperial, City of",2022-02-15,City of Imperial,CA1310006,Imperial,Colorado River,19929.0,,0.0,0.0,147.694090341042
 Huntington Park City of,2022-02-15,City of Huntington Park,CA1910049,Los Angeles,South Coast,62500.0,,99710406.0,35.4571,76.62726134430623
@@ -3863,7 +3863,7 @@ San Juan Water District,2022-03-15,San Juan Water District,CA3410021,"Placer,Sac
 San Juan Capistrano City of,2022-03-15,City of San Juan Capistrano,CA3010030,Orange,South Coast,39020.0,2.0,188664470.49,82.0418,76.70038465332274
 San Jose Water Company,2022-03-15,San Jose Water Company,"CA4310011,CA4310018",Santa Clara,San Francisco Bay,1042326.0,3.0,2725600000.0,55.7229,58.412686846111434
 San Jose City of,2022-03-15,City of San Jose,"CA4310019,CA4310020",Santa Clara,San Francisco Bay,139734.0,2.0,410000000.0,62.4689,58.412686846111434
-Santa Clarita Valley Water Agency,2022-03-15,,"CA1910255,CA1910247,CA1910096,CA1910250,CA1910240,CA1910017",Los Angeles,South Coast,295639.0,,0.0,0.0,76.70038465332274
+Santa Clarita Valley Water Agency,2022-03-15,Santa Clarita Valley Water Agency,"CA1910255,CA1910247,CA1910096,CA1910250,CA1910240,CA1910017",Los Angeles,South Coast,295639.0,,0.0,0.0,76.70038465332274
 San Jacinto City of,2022-03-15,City of San Jacinto,CA3310032,Riverside,South Coast,17961.0,2.0,64120959.78,76.7604,76.70038465332274
 San Gabriel Valley Fontana Water Company,2022-03-15,San Gabriel Valley Fontana Water Company,CA3610041,San Bernardino,South Coast,237800.0,2.0,1039696044.21,79.9894,76.70038465332274
 San Gabriel County Water District,2022-03-15,San Gabriel County Water District,CA1910144,Los Angeles,South Coast,45000.0,1.0,129428017.2,69.55,76.70038465332274
@@ -3904,7 +3904,7 @@ Santa Margarita Water District,2022-03-15,Santa Margarita Water District,CA30101
 Signal Hill City of,2022-03-15,City of Signal Hill,CA1910149,Los Angeles,South Coast,11712.0,0.0,39981917.7,55.3057,76.70038465332274
 Lompoc City of,2022-03-15,City of Lompoc,CA4210006,Santa Barbara,Central Coast,40415.0,,0.0,0.0,65.17362102519951
 Lomita City of,2022-03-15,City of Lomita,CA1910073,Los Angeles,South Coast,20256.0,1.0,53765415.0,81.3414,76.70038465332274
-Loma Linda City of *,2022-03-15,,CA3610013,San Bernardino,South Coast,24791.0,0.0,122813241.9,121.484,76.70038465332274
+Loma Linda City of *,2022-03-15,City of Loma Linda,CA3610013,San Bernardino,South Coast,24791.0,0.0,122813241.9,121.484,76.70038465332274
 Cerritos City of,2022-03-15,City of Cerritos,CA1910019,Los Angeles,South Coast,50143.0,0.0,180886407.12,101.218,76.70038465332274
 Ceres City of,2022-03-15,City of Ceres,CA5010028,Stanislaus,San Joaquin River,49038.0,2.0,159281000.0,75.035,92.69167174928529
 Casitas Municipal Water District,2022-03-15,Casitas Municipal Water District,"CA5610024,CA5610014",Ventura,South Coast,17806.0,4.0,113721999.0,104.495,76.70038465332274
@@ -4288,7 +4288,7 @@ San Bernardino County Service Area 70J,2022-04-15,San Bernardino County Service 
 San Bernardino County Service Area 64,2022-04-15,San Bernardino County Service Area 64,CA3610121,San Bernardino,South Lahontan,14759.0,0.0,67793300.55,114.072,106.78195859389368
 San Gabriel Valley Fontana Water Company,2022-04-15,San Gabriel Valley Fontana Water Company,CA3610041,San Bernardino,South Coast,237800.0,2.0,1038799953.96,81.0345,79.9379142615713
 Sunny Slope Water Company,2022-04-15,Sunny Slope Water Company,CA1910157,Los Angeles,South Coast,25252.0,2.0,88778063.308,100.431,79.9379142615713
-Santa Clarita Valley Water Agency,2022-04-15,,"CA1910255,CA1910247,CA1910096,CA1910250,CA1910240,CA1910017",Los Angeles,South Coast,295639.0,,0.0,0.0,79.9379142615713
+Santa Clarita Valley Water Agency,2022-04-15,Santa Clarita Valley Water Agency,"CA1910255,CA1910247,CA1910096,CA1910250,CA1910240,CA1910017",Los Angeles,South Coast,295639.0,,0.0,0.0,79.9379142615713
 Santa Fe Irrigation District,2022-04-15,Santa Fe Irrigation District,CA3710023,San Diego,South Coast,19839.0,1.0,279254307.0,394.129,79.9379142615713
 Suburban Water Systems San Jose Hills,2022-04-15,Suburban Water Systems San Jose Hills,"CA1910205,CA1910046,CA1910200",Los Angeles,South Coast,175529.0,1.0,602130287.37,84.2904,79.9379142615713
 Stockton City of,2022-04-15,City of Stockton,CA3910012,San Joaquin,San Joaquin River,184402.0,1.0,842820000.0,89.9068,103.40500718721229
@@ -4315,7 +4315,7 @@ Santa Fe Springs City of,2022-04-15,City of Santa Fe Springs,CA1910245,Los Angel
 Sierra Madre City of,2022-04-15,City of Sierra Madre,CA1910148,Los Angeles,South Coast,11100.0,0.0,58314294.96,164.648,79.9379142615713
 Lompoc City of,2022-04-15,City of Lompoc,CA4210006,Santa Barbara,Central Coast,40415.0,,0.0,0.0,70.51135595046564
 Dinuba City of,2022-04-15,City of Dinuba,CA5410002,Tulare,Tulare Lake,26731.0,2.0,109940000.0,96.567,116.12475918996688
-Loma Linda City of *,2022-04-15,,CA3610013,San Bernardino,South Coast,24791.0,0.0,132168424.11,128.075,79.9379142615713
+Loma Linda City of *,2022-04-15,City of Loma Linda,CA3610013,San Bernardino,South Coast,24791.0,0.0,132168424.11,128.075,79.9379142615713
 Ceres City of,2022-04-15,City of Ceres,CA5010028,Stanislaus,San Joaquin River,49038.0,2.0,170680000.0,82.1908,103.40500718721229
 Casitas Municipal Water District,2022-04-15,Casitas Municipal Water District,"CA5610024,CA5610014",Ventura,South Coast,17806.0,4.0,104598171.0,111.005,79.9379142615713
 Carpinteria Valley Water District,2022-04-15,Carpinteria Valley Water District,CA4210001,Santa Barbara,Central Coast,15996.0,2.0,53967442.62000001,82.2845,70.51135595046564
@@ -4710,7 +4710,7 @@ Soquel Creek Water District,2022-05-15,Soquel Creek Water District,CA4410017,San
 Sonoma City of,2022-05-15,City of Sonoma,CA4910012,Sonoma,San Francisco Bay,11725.0,0.0,59071018.7373,102.227,66.06661527612398
 "Soledad, City of",2022-05-15,City of Soledad,CA2710011,Monterey,Central Coast,17309.0,0.0,59428000.0,86.3877,75.56630382542879
 Signal Hill City of,2022-05-15,City of Signal Hill,CA1910149,Los Angeles,South Coast,11712.0,2.0,45032608.2,61.5549,83.25377262678857
-Santa Clarita Valley Water Agency,2022-05-15,,"CA1910255,CA1910247,CA1910096,CA1910250,CA1910240,CA1910017",Los Angeles,South Coast,295639.0,,0.0,0.0,83.25377262678857
+Santa Clarita Valley Water Agency,2022-05-15,Santa Clarita Valley Water Agency,"CA1910255,CA1910247,CA1910096,CA1910250,CA1910240,CA1910017",Los Angeles,South Coast,295639.0,,0.0,0.0,83.25377262678857
 Sierra Madre City of,2022-05-15,City of Sierra Madre,CA1910148,Los Angeles,South Coast,11100.0,0.0,62840365.35,171.799,83.25377262678857
 Shafter City of,2022-05-15,City of Shafter,CA1510019,Kern,Tulare Lake,20500.0,2.0,161000000.0,149.473,141.98847407669345
 Seal Beach City of,2022-05-15,City of Seal Beach,CA3010041,Orange,South Coast,25561.0,2.0,0.0,0.0,83.25377262678857
@@ -4878,7 +4878,7 @@ La Habra City of Public Works,2022-05-15,City of La Habra  Public Works,CA301001
 Jurupa Community Service District,2022-05-15,Jurupa Community Service District,CA3310021,Riverside,South Coast,140147.0,2.0,920049422.328,156.737,83.25377262678857
 Joshua Basin Water District,2022-05-15,Joshua Basin Water District,CA3610025,San Bernardino,Colorado River,9665.0,0.0,0.0,0.0,194.82103755886877
 Lakeside Water District,2022-05-15,Lakeside Water District,CA3710013,San Diego,South Coast,35500.0,1.0,103522862.7,84.7421,83.25377262678857
-Loma Linda City of *,2022-05-15,,CA3610013,San Bernardino,South Coast,24791.0,0.0,157395808.53,141.306,83.25377262678857
+Loma Linda City of *,2022-05-15,City of Loma Linda,CA3610013,San Bernardino,South Coast,24791.0,0.0,157395808.53,141.306,83.25377262678857
 Golden State Water Company Simi Valley,2022-05-15,Golden State Water Company Simi Valley,CA5610059,Ventura,South Coast,44950.0,2.0,171430211.1,93.4819,83.25377262678857
 Golden State Water Company S San Gabriel,2022-05-15,Golden State Water Company S San Gabriel,CA1910223,Los Angeles,South Coast,25808.0,2.0,61716179.4,62.352,83.25377262678857
 Fairfield City of,2022-05-15,City of Fairfield,CA4810003,Solano,Sacramento River,108691.0,0.0,622400000.0,109.099,136.9188062827447

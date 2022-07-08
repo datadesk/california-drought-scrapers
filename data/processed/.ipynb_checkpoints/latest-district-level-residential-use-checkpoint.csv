@@ -3,7 +3,7 @@ Fillmore City of,2021-11-15,City of Fillmore,CA5610002,Ventura,South Coast,15200
 Suisun-Solano Water Authority,2022-01-15,Suisun-Solano Water Authority,CA4810005,Solano,San Francisco Bay,29917.0,,75260000.0,60.0856,48.26554025611741
 Lompoc City of,2022-01-15,City of Lompoc,CA4210006,Santa Barbara,Central Coast,40415.0,,101700000.0,58.6176,55.90565650764397
 "Imperial, City of",2022-01-15,City of Imperial,CA1310006,Imperial,Colorado River,19929.0,,63303000.0,89.9134,133.65640470209422
-Santa Clarita Valley Water Agency,2022-02-15,Santa Clarita Valley Water Agency,"CA1910255,CA1910247,CA1910096,CA1910250,CA1910240,CA1910017",Los Angeles,South Coast,295639.0,,1361669417.31,119.049,76.62726134430623
+Santa Clarita Valley Water Agency,2022-02-15,,"CA1910255,CA1910247,CA1910096,CA1910250,CA1910240,CA1910017",Los Angeles,South Coast,295639.0,,1361669417.31,119.049,76.62726134430623
 California City City of,2022-02-15,City of California City,CA1510032,Kern,South Lahontan,38000.0,,102000000.0,79.5677,77.13554084717737
 Sweetwater Springs Water District,2022-03-15,Sweetwater Springs Water District,"CA4910004,CA4910028",Sonoma,North Coast,7992.0,0.0,16683571.2,50.9784,52.84348593689636
 Sanger City of,2022-03-15,City of Sanger,CA1010029,Fresno,Tulare Lake,27185.0,3.0,139659000.0,98.0142,92.87099872211745
@@ -151,7 +151,7 @@ Vallejo City of,2022-05-15,City of Vallejo,"CA4810007,CA4810021",Solano,San Fran
 Valley Center Municipal Water District,2022-05-15,Valley Center Municipal Water District,CA3710026,San Diego,South Coast,29708.0,1.0,207599672.1,69.4184,83.25377262678857
 Valley County Water District,2022-05-15,Valley County Water District,CA1910009,Los Angeles,South Coast,68714.0,1.0,177976557.69,55.1251,83.25377262678857
 Valley Water Company,2022-05-15,Valley Water Company,CA1910166,Los Angeles,South Coast,10070.0,3.0,101013810.0,278.284,83.25377262678857
-Loma Linda City of *,2022-05-15,City of Loma Linda,CA3610013,San Bernardino,South Coast,24791.0,0.0,157395808.53,141.306,83.25377262678857
+Loma Linda City of *,2022-05-15,,CA3610013,San Bernardino,South Coast,24791.0,0.0,157395808.53,141.306,83.25377262678857
 Yorba Linda Water District,2022-05-15,Yorba Linda Water District,CA3010037,Orange,South Coast,80540.0,0.0,564817089.36,133.67,83.25377262678857
 Woodland City of,2022-05-15,City of Woodland,CA5710006,Yolo,Sacramento River,60978.0,2.0,296507323.0,86.4746,136.9188062827447
 "Windsor, Town of",2022-05-15,Town of Windsor,CA4910017,Sonoma,North Coast,28397.0,2.0,89250588.89999999,72.9231,64.37324150565136
@@ -251,7 +251,7 @@ Daly City City of,2022-05-15,City of Daly City,CA4110013,San Mateo,San Francisco
 Cucamonga Valley Water District,2022-05-15,Cucamonga Valley Water District,CA3610018,San Bernardino,South Coast,202222.0,3.0,1350576797.568,141.984,83.25377262678857
 Crestline Village Water District,2022-05-15,Crestline Village Water District,CA3610015,San Bernardino,South Lahontan,10030.0,1.0,18197112.952,51.5018,114.98658002850553
 Crescent City City of,2022-05-15,City of Crescent City,"CA0810001,CA0810003",Del Norte,North Coast,19220.0,1.0,59300000.0,42.58,64.37324150565136
-Covina City of,2022-05-15,City of Covina,CA1910127,Los Angeles,South Coast,33300.0,1.0,144101087.73,64.207,83.25377262678857
+Covina City of ,2022-05-15,,CA1910127,Los Angeles,South Coast,33300.0,1.0,144101087.73,64.207,83.25377262678857
 Corona City of,2022-05-15,City of Corona,CA3310037,Riverside,South Coast,159743.0,2.0,928128897.873,118.214,83.25377262678857
 "Corcoran, City of",2022-05-15,City of Corcoran,CA1610004,Kings,Tulare Lake,13593.0,0.0,185598000.0,335.025,141.98847407669345
 Contra Costa Water District,2022-05-15,Contra Costa Water District,CA0710003,Contra Costa,San Francisco Bay,197996.0,2.0,911731098.0,122.102,66.06661527612398
@@ -345,7 +345,7 @@ Lincoln City of,2022-05-15,City of Lincoln,CA3110004,Placer,Sacramento River,512
 Lincoln Avenue Water Company,2022-05-15,Lincoln Avenue Water Company,CA1910063,Los Angeles,South Coast,16126.0,2.0,54175987.26,94.1366,83.25377262678857
 Lemoore City of,2022-05-15,City of Lemoore,CA1610005,Kings,Tulare Lake,27235.0,3.0,240467360.0,170.663,141.98847407669345
 Lee Lake Water District,2022-05-15,Lee Lake Water District,CA3310074,Riverside,South Coast,22485.0,1.0,100208215.58228,112.567,83.25377262678857
-"Lathrop, City of",2022-05-15,City of Lathrop,CA3910015,San Joaquin,San Joaquin River,31331.0,2.0,105700000.0,52.3855,123.17967443452018
+"Lathrop, City of ",2022-05-15,,CA3910015,San Joaquin,San Joaquin River,31331.0,2.0,105700000.0,52.3855,123.17967443452018
 Las Virgenes Municipal Water District,2022-05-15,Las Virgenes Municipal Water District,CA1910225,Los Angeles,South Coast,75385.0,3.0,472809801.0,151.741,83.25377262678857
 Lamont Public Utility District,2022-05-15,Lamont Public Utility District,CA1510012,Kern,Tulare Lake,20009.0,0.0,102909800.0,110.028,141.98847407669345
 Lakewood City of,2022-05-15,City of Lakewood,CA1910239,Los Angeles,South Coast,59081.0,1.0,191909946.45,85.5097,83.25377262678857
