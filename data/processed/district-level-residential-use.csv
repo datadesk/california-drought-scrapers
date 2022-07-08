@@ -238,7 +238,7 @@ Cucamonga Valley Water District,2021-06-15,Cucamonga Valley Water District,CA361
 Crestline Village Water District,2021-06-15,Crestline Village Water District,CA3610015,San Bernardino,South Lahontan,8992.0,,21535556.8202,57.8787,146.051831212711
 Crescenta Valley Water District,2021-06-15,Crescenta Valley Water District,CA1910028,Los Angeles,South Coast,33369.0,,123530114.1,106.835,99.81000831402069
 Crescent City City of,2021-06-15,City of Crescent City,"CA0810001,CA0810003",Del Norte,North Coast,18999.0,,71530000.0,79.3305,77.30821561232864
-Covina City of ,2021-06-15,,CA1910127,Los Angeles,South Coast,33300.0,,170892556.95,120.838,99.81000831402069
+Covina City of,2021-06-15,City of Covina,CA1910127,Los Angeles,South Coast,33300.0,,170892556.95,120.838,99.81000831402069
 Corona City of,2021-06-15,City of Corona,CA3310037,Riverside,South Coast,168248.0,,1034821313.25,133.335,99.81000831402069
 "Corcoran, City of",2021-06-15,City of Corcoran,CA1610004,Kings,Tulare Lake,13593.0,,207712000.0,94.7397,183.362244016878
 California Water Service Company Palos Verdes,2021-06-15,California Water Service Company Palos Verdes,CA1910104,Los Angeles,South Coast,70413.0,,565938016.8,217.571,99.81000831402069
@@ -343,7 +343,7 @@ Lincoln City of,2021-06-15,City of Lincoln,CA3110004,Placer,Sacramento River,496
 Lincoln Avenue Water Company,2021-06-15,Lincoln Avenue Water Company,CA1910063,Los Angeles,South Coast,16126.0,,72765786.81,130.676,99.81000831402069
 Lemoore City of,2021-06-15,City of Lemoore,CA1610005,Kings,Tulare Lake,27235.0,,257372703.0,242.678,183.362244016878
 Lee Lake Water District,2021-06-15,Lee Lake Water District,CA3310074,Riverside,South Coast,21038.0,,109319870.4488,137.182,99.81000831402069
-"Lathrop, City of ",2021-06-15,,CA3910015,San Joaquin,San Joaquin River,28503.0,,117450000.0,71.1504,155.28994647128818
+"Lathrop, City of",2021-06-15,City of Lathrop,CA3910015,San Joaquin,San Joaquin River,28503.0,,117450000.0,71.1504,155.28994647128818
 Las Virgenes Municipal Water District,2021-06-15,Las Virgenes Municipal Water District,CA1910225,Los Angeles,South Coast,75384.0,,686568057.0,261.085,99.81000831402069
 Irvine Ranch Water District,2021-06-15,Irvine Ranch Water District,CA3010092,Orange,South Coast,427746.0,,1717567138.02,71.1793,99.81000831402069
 Lamont Public Utility District,2021-06-15,Lamont Public Utility District,CA1510012,Kern,Tulare Lake,20009.0,,121989000.0,143.794,183.362244016878
@@ -649,7 +649,7 @@ Cucamonga Valley Water District,2021-07-15,Cucamonga Valley Water District,CA361
 Crestline Village Water District,2021-07-15,Crestline Village Water District,CA3610015,San Bernardino,South Lahontan,9115.0,,24909233.9376,61.5319,159.1423243166333
 Crescenta Valley Water District,2021-07-15,Crescenta Valley Water District,CA1910028,Los Angeles,South Coast,33369.0,,131823022.05,110.481,102.68590580504363
 Crescent City City of,2021-07-15,City of Crescent City,"CA0810001,CA0810003",Del Norte,North Coast,18999.0,,77210000.0,82.1028,83.60651117471187
-Covina City of ,2021-07-15,,CA1910127,Los Angeles,South Coast,33300.0,,179765479.68,129.288,102.68590580504363
+Covina City of,2021-07-15,City of Covina,CA1910127,Los Angeles,South Coast,33300.0,,179765479.68,129.288,102.68590580504363
 Corona City of,2021-07-15,City of Corona,CA3310037,Riverside,South Coast,168248.0,,1120171465.68,144.253,102.68590580504363
 "Corcoran, City of",2021-07-15,City of Corcoran,CA1610004,Kings,Tulare Lake,13593.0,,224445000.0,114.014,196.42022028790197
 California Water Service Company Oroville,2021-07-15,California Water Service Company Oroville,CA0410005,Butte,Sacramento River,11070.0,,125387464.8,168.162,187.3435628651955
@@ -753,7 +753,7 @@ Lincoln City of,2021-07-15,City of Lincoln,CA3110004,Placer,Sacramento River,496
 Lincoln Avenue Water Company,2021-07-15,Lincoln Avenue Water Company,CA1910063,Los Angeles,South Coast,16126.0,,78005470.89,135.534,102.68590580504363
 Lemoore City of,2021-07-15,City of Lemoore,CA1610005,Kings,Tulare Lake,27235.0,,276957769.0,270.599,196.42022028790197
 Lee Lake Water District,2021-07-15,Lee Lake Water District,CA3310074,Riverside,South Coast,21038.0,,116416295.66888,141.732,102.68590580504363
-"Lathrop, City of ",2021-07-15,,CA3910015,San Joaquin,San Joaquin River,28503.0,,209840000.0,128.34,155.750144126329
+"Lathrop, City of",2021-07-15,City of Lathrop,CA3910015,San Joaquin,San Joaquin River,28503.0,,209840000.0,128.34,155.750144126329
 Las Virgenes Municipal Water District,2021-07-15,Las Virgenes Municipal Water District,CA1910225,Los Angeles,South Coast,75384.0,,788233569.0,249.601,102.68590580504363
 Lamont Public Utility District,2021-07-15,Lamont Public Utility District,CA1510012,Kern,Tulare Lake,20009.0,,133142400.0,150.394,196.42022028790197
 Inglewood City of,2021-07-15,City of Inglewood,CA1910051,Los Angeles,South Coast,86584.0,,251535791.685,69.9441,102.68590580504363
@@ -1061,7 +1061,7 @@ Cucamonga Valley Water District,2021-08-15,Cucamonga Valley Water District,CA361
 Crestline Village Water District,2021-08-15,Crestline Village Water District,CA3610015,San Bernardino,South Lahontan,9981.0,,20123496.4624,57.2331,157.98281806003124
 Crescenta Valley Water District,2021-08-15,Crescenta Valley Water District,CA1910028,Los Angeles,South Coast,33369.0,,132197750.7,110.754,103.14328470186834
 Crescent City City of,2021-08-15,City of Crescent City,"CA0810001,CA0810003",Del Norte,North Coast,18999.0,,76530000.0,82.1028,73.74881813865674
-Covina City of ,2021-08-15,,CA1910127,Los Angeles,South Coast,33300.0,,180361787.01,131.155,103.14328470186834
+Covina City of,2021-08-15,City of Covina,CA1910127,Los Angeles,South Coast,33300.0,,180361787.01,131.155,103.14328470186834
 Corona City of,2021-08-15,City of Corona,CA3310037,Riverside,South Coast,168248.0,,1130794208.28,143.168,103.14328470186834
 California Water Service Company Redwood Valley,2021-08-15,California Water Service Company Redwood Valley,"CA1710005,CA4910018,CA2110007,CA4900546,CA4900785,CA4900514","Lake,Marin,Sonoma",North Coast,3315.0,,12773359.2,120.942,73.74881813865674
 "Corcoran, City of",2021-08-15,City of Corcoran,CA1610004,Kings,Tulare Lake,13593.0,,212301000.0,102.633,185.85458032307486
@@ -1166,7 +1166,7 @@ Lincoln City of,2021-08-15,City of Lincoln,CA3110004,Placer,Sacramento River,496
 Lincoln Avenue Water Company,2021-08-15,Lincoln Avenue Water Company,CA1910063,Los Angeles,South Coast,16126.0,,77343993.36,134.4,103.14328470186834
 Lemoore City of,2021-08-15,City of Lemoore,CA1610005,Kings,Tulare Lake,27235.0,,318113753.0,312.694,185.85458032307486
 Lee Lake Water District,2021-08-15,Lee Lake Water District,CA3310074,Riverside,South Coast,21038.0,,148325313.98868,170.8,103.14328470186834
-"Lathrop, City of ",2021-08-15,,CA3910015,San Joaquin,San Joaquin River,28503.0,,195730000.0,110.911,152.75827859346234
+"Lathrop, City of",2021-08-15,City of Lathrop,CA3910015,San Joaquin,San Joaquin River,28503.0,,195730000.0,110.911,152.75827859346234
 Joshua Basin Water District,2021-08-15,Joshua Basin Water District,CA3610025,San Bernardino,Colorado River,9665.0,,46611030.44400001,113.531,214.2292145657745
 Las Virgenes Municipal Water District,2021-08-15,Las Virgenes Municipal Water District,CA1910225,Los Angeles,South Coast,75384.0,,785300910.0,265.475,103.14328470186834
 Lakewood City of,2021-08-15,City of Lakewood,CA1910239,Los Angeles,South Coast,59081.0,,236362539.87,104.867,103.14328470186834
@@ -1471,7 +1471,7 @@ Cucamonga Valley Water District,2021-09-15,Cucamonga Valley Water District,CA361
 Crestline Village Water District,2021-09-15,Crestline Village Water District,CA3610015,San Bernardino,South Lahontan,10030.0,,18400134.2648,53.8114,149.11551012147925
 Crescenta Valley Water District,2021-09-15,Crescenta Valley Water District,CA1910028,Los Angeles,South Coast,33369.0,,123367188.6,106.835,100.8263060461948
 Crescent City City of,2021-09-15,City of Crescent City,"CA0810001,CA0810003",Del Norte,North Coast,18999.0,,72190000.0,79.3305,70.9628784281686
-Covina City of ,2021-09-15,,CA1910127,Los Angeles,South Coast,33300.0,,171267285.6,115.466,100.8263060461948
+Covina City of,2021-09-15,City of Covina,CA1910127,Los Angeles,South Coast,33300.0,,171267285.6,115.466,100.8263060461948
 Corona City of,2021-09-15,City of Corona,CA3310037,Riverside,South Coast,168248.0,,1021858960.47,155.747,100.8263060461948
 "Corcoran, City of",2021-09-15,City of Corcoran,CA1610004,Kings,Tulare Lake,13593.0,,180392000.0,109.027,173.07828040901205
 California Water Service Company Palos Verdes,2021-09-15,California Water Service Company Palos Verdes,CA1910104,Los Angeles,South Coast,70469.0,,554696157.3,211.968,100.8263060461948
@@ -1576,7 +1576,7 @@ Lincoln City of,2021-09-15,City of Lincoln,CA3110004,Placer,Sacramento River,496
 Lincoln Avenue Water Company,2021-09-15,Lincoln Avenue Water Company,CA1910063,Los Angeles,South Coast,16126.0,,68317920.66,123.058,100.8263060461948
 Lemoore City of,2021-09-15,City of Lemoore,CA1610005,Kings,Tulare Lake,27235.0,,292899625.0,300.123,173.07828040901205
 Lee Lake Water District,2021-09-15,Lee Lake Water District,CA3310074,Riverside,South Coast,21038.0,,113257623.65732,136.381,100.8263060461948
-"Lathrop, City of ",2021-09-15,,CA3910015,San Joaquin,San Joaquin River,28503.0,,148920000.0,87.1253,139.4733932221845
+"Lathrop, City of",2021-09-15,City of Lathrop,CA3910015,San Joaquin,San Joaquin River,28503.0,,148920000.0,87.1253,139.4733932221845
 Las Virgenes Municipal Water District,2021-09-15,Las Virgenes Municipal Water District,CA1910225,Los Angeles,South Coast,75384.0,,699602097.0,303.164,100.8263060461948
 Irvine Ranch Water District,2021-09-15,Irvine Ranch Water District,CA3010092,Orange,South Coast,431362.0,,1786647550.02,77.9361,100.8263060461948
 Lamont Public Utility District,2021-09-15,Lamont Public Utility District,CA1510012,Kern,Tulare Lake,20009.0,,107835400.0,123.388,173.07828040901205
@@ -1882,7 +1882,7 @@ Cucamonga Valley Water District,2021-10-15,Cucamonga Valley Water District,CA361
 Crestline Village Water District,2021-10-15,Crestline Village Water District,CA3610015,San Bernardino,South Lahontan,10030.0,,16089401.6368,45.5357,111.43536561345591
 Crescenta Valley Water District,2021-10-15,Crescenta Valley Water District,CA1910028,Los Angeles,South Coast,33369.0,,108215117.1,90.5672,85.727916510198
 Crescent City City of,2021-10-15,City of Crescent City,"CA0810001,CA0810003",Del Norte,North Coast,18999.0,,63350000.0,67.175,69.39726717430128
-Covina City of ,2021-10-15,,CA1910127,Los Angeles,South Coast,33300.0,,149793704.7,104.836,85.727916510198
+Covina City of,2021-10-15,City of Covina,CA1910127,Los Angeles,South Coast,33300.0,,149793704.7,104.836,85.727916510198
 Corona City of,2021-10-15,City of Corona,CA3310037,Riverside,South Coast,168248.0,,883987166.307,131.088,85.727916510198
 "Corcoran, City of",2021-10-15,City of Corcoran,CA1610004,Kings,Tulare Lake,13593.0,,146227000.0,105.329,137.38075044069143
 California Water Service Company Oroville,2021-10-15,California Water Service Company Oroville,CA0410005,Butte,Sacramento River,11063.0,,87588748.8,61.8518,116.07717628643721
@@ -1986,7 +1986,7 @@ Lincoln City of,2021-10-15,City of Lincoln,CA3110004,Placer,Sacramento River,496
 Lincoln Avenue Water Company,2021-10-15,Lincoln Avenue Water Company,CA1910063,Los Angeles,South Coast,16126.0,,56023562.43,97.5392,85.727916510198
 Lemoore City of,2021-10-15,City of Lemoore,CA1610005,Kings,Tulare Lake,27235.0,,196764197.0,190.988,137.38075044069143
 Lee Lake Water District,2021-10-15,Lee Lake Water District,CA3310074,Riverside,South Coast,21038.0,,93055424.644,111.151,85.727916510198
-"Lathrop, City of ",2021-10-15,,CA3910015,San Joaquin,San Joaquin River,28503.0,,143060000.0,84.1564,109.06739583948216
+"Lathrop, City of",2021-10-15,City of Lathrop,CA3910015,San Joaquin,San Joaquin River,28503.0,,143060000.0,84.1564,109.06739583948216
 Las Virgenes Municipal Water District,2021-10-15,Las Virgenes Municipal Water District,CA1910225,Los Angeles,South Coast,75384.0,,545800425.0,217.208,85.727916510198
 Lamont Public Utility District,2021-10-15,Lamont Public Utility District,CA1510012,Kern,Tulare Lake,19057.0,,96674200.0,99.7803,137.38075044069143
 Inglewood City of,2021-10-15,City of Inglewood,CA1910051,Los Angeles,South Coast,86584.0,,239561093.286,61.8984,85.727916510198
@@ -2293,7 +2293,7 @@ Cucamonga Valley Water District,2021-11-15,Cucamonga Valley Water District,CA361
 Crestline Village Water District,2021-11-15,Crestline Village Water District,CA3610015,San Bernardino,South Lahontan,10030.0,,16890490.5236,49.3966,99.26559512368861
 Crescenta Valley Water District,2021-11-15,Crescenta Valley Water District,CA1910028,Los Angeles,South Coast,33369.0,,106976883.3,92.4585,83.27763787154777
 Crescent City City of,2021-11-15,City of Crescent City,"CA0810001,CA0810003",Del Norte,North Coast,18999.0,,60230000.0,66.1087,50.27173836211259
-Covina City of ,2021-11-15,,CA1910127,Los Angeles,South Coast,33300.0,,139327370.58,130.111,83.27763787154777
+Covina City of,2021-11-15,City of Covina,CA1910127,Los Angeles,South Coast,33300.0,,139327370.58,130.111,83.27763787154777
 Corona City of,2021-11-15,City of Corona,CA3310037,Riverside,South Coast,169868.0,,814761098.91,113.833,83.27763787154777
 "Corcoran, City of",2021-11-15,City of Corcoran,CA1610004,Kings,Tulare Lake,13593.0,,103878000.0,58.9127,98.57176068456204
 California Water Service Company Palos Verdes,2021-11-15,California Water Service Company Palos Verdes,CA1910104,Los Angeles,South Coast,70621.0,,450130571.4,176.081,83.27763787154777
@@ -2398,7 +2398,7 @@ Lincoln City of,2021-11-15,City of Lincoln,CA3110004,Placer,Sacramento River,496
 Lincoln Avenue Water Company,2021-11-15,Lincoln Avenue Water Company,CA1910063,Los Angeles,South Coast,16126.0,,53729571.38999999,96.6885,83.27763787154777
 Lemoore City of,2021-11-15,City of Lemoore,CA1610005,Kings,Tulare Lake,27235.0,,145597150.0,90.7209,98.57176068456204
 Lee Lake Water District,2021-11-15,Lee Lake Water District,CA3310074,Riverside,South Coast,21038.0,,84026092.90008,102.78,83.27763787154777
-"Lathrop, City of ",2021-11-15,,CA3910015,San Joaquin,San Joaquin River,28503.0,,102400000.0,60.8357,78.46799180085956
+"Lathrop, City of",2021-11-15,City of Lathrop,CA3910015,San Joaquin,San Joaquin River,28503.0,,102400000.0,60.8357,78.46799180085956
 Las Virgenes Municipal Water District,2021-11-15,Las Virgenes Municipal Water District,CA1910225,Los Angeles,South Coast,75384.0,,469225440.0,147.313,83.27763787154777
 Irvine Ranch Water District,2021-11-15,Irvine Ranch Water District,CA3010092,Orange,South Coast,432631.0,,1510589841.33,60.5007,83.27763787154777
 Lamont Public Utility District,2021-11-15,Lamont Public Utility District,CA1510012,Kern,Tulare Lake,20009.0,,86890900.0,78.3952,98.57176068456204
@@ -2704,7 +2704,7 @@ Cucamonga Valley Water District,2021-12-15,Cucamonga Valley Water District,CA361
 Crestline Village Water District,2021-12-15,Crestline Village Water District,CA3610015,San Bernardino,South Lahontan,10030.0,,14845091.94,42.0149,77.4041941835794
 Crescenta Valley Water District,2021-12-15,Crescenta Valley Water District,CA1910028,Los Angeles,South Coast,33369.0,,84688674.89999999,70.9261,68.24237091968061
 Crescent City City of,2021-12-15,City of Crescent City,"CA0810001,CA0810003",Del Norte,North Coast,18999.0,,62890000.0,67.175,53.43532815652124
-Covina City of ,2021-12-15,,CA1910127,Los Angeles,South Coast,33300.0,,109472901.96,79.0149,68.24237091968061
+Covina City of,2021-12-15,City of Covina,CA1910127,Los Angeles,South Coast,33300.0,,109472901.96,79.0149,68.24237091968061
 Corona City of,2021-12-15,City of Corona,CA3310037,Riverside,South Coast,169868.0,,605623410.0899999,105.06,68.24237091968061
 "Corcoran, City of",2021-12-15,City of Corcoran,CA1610004,Kings,Tulare Lake,13593.0,,99848000.0,44.1404,77.97793360311817
 California Water Service Company Palos Verdes,2021-12-15,California Water Service Company Palos Verdes,CA1910104,Los Angeles,South Coast,70669.0,,306495450.6,117.011,68.24237091968061
@@ -2809,7 +2809,7 @@ Lincoln City of,2021-12-15,City of Lincoln,CA3110004,Placer,Sacramento River,496
 Lincoln Avenue Water Company,2021-12-15,Lincoln Avenue Water Company,CA1910063,Los Angeles,South Coast,16126.0,,42741875.66999999,74.2885,68.24237091968061
 Lemoore City of,2021-12-15,City of Lemoore,CA1610005,Kings,Tulare Lake,27235.0,,129200168.0,111.727,77.97793360311817
 Lee Lake Water District,2021-12-15,Lee Lake Water District,CA3310074,Riverside,South Coast,21038.0,,73674070.57079999,88.9045,68.24237091968061
-"Lathrop, City of ",2021-12-15,,CA3910015,San Joaquin,San Joaquin River,28503.0,,82560000.0,51.6641,69.24352738313506
+"Lathrop, City of",2021-12-15,City of Lathrop,CA3910015,San Joaquin,San Joaquin River,28503.0,,82560000.0,51.6641,69.24352738313506
 Las Virgenes Municipal Water District,2021-12-15,Las Virgenes Municipal Water District,CA1910225,Los Angeles,South Coast,75384.0,,302063877.0,111.162,68.24237091968061
 Irvine Ranch Water District,2021-12-15,Irvine Ranch Water District,CA3010092,Orange,South Coast,432976.0,,1313808422.43,70.291,68.24237091968061
 Lamont Public Utility District,2021-12-15,Lamont Public Utility District,CA1510012,Kern,Tulare Lake,19057.0,,67449100.0,68.7163,77.97793360311817
@@ -3115,7 +3115,7 @@ Cucamonga Valley Water District,2022-01-15,Cucamonga Valley Water District,CA361
 Crestline Village Water District,2022-01-15,Crestline Village Water District,CA3610015,San Bernardino,South Lahontan,10030.0,,17369767.44,49.1602,74.08840825989996
 Crescenta Valley Water District,2022-01-15,Crescenta Valley Water District,CA1910028,Los Angeles,South Coast,33369.0,,0.0,0.0,68.51737023662542
 Crescent City City of,2022-01-15,City of Crescent City,"CA0810001,CA0810003",Del Norte,North Coast,18999.0,,60330000.0,63.9762,51.804221516501194
-Covina City of ,2022-01-15,,CA1910127,Los Angeles,South Coast,33300.0,,108550743.63,76.4279,68.51737023662542
+Covina City of,2022-01-15,City of Covina,CA1910127,Los Angeles,South Coast,33300.0,,108550743.63,76.4279,68.51737023662542
 Corona City of,2022-01-15,City of Corona,CA3310037,Riverside,South Coast,169868.0,,627027258.876,78.2793,68.51737023662542
 "Corcoran, City of",2022-01-15,City of Corcoran,CA1610004,Kings,Tulare Lake,13593.0,,103149000.0,47.9089,72.84513429115324
 California Water Service Company Oroville,2022-01-15,California Water Service Company Oroville,CA0410005,Butte,Sacramento River,11070.0,,39395385.9,60.7787,70.40248513930524
@@ -3219,7 +3219,7 @@ Lincoln City of,2022-01-15,City of Lincoln,CA3110004,Placer,Sacramento River,496
 Lincoln Avenue Water Company,2022-01-15,Lincoln Avenue Water Company,CA1910063,Los Angeles,South Coast,16126.0,,39991693.23,69.7518,68.51737023662542
 Lemoore City of,2022-01-15,City of Lemoore,CA1610005,Kings,Tulare Lake,27235.0,,0.0,0.0,72.84513429115324
 Lee Lake Water District,2022-01-15,Lee Lake Water District,CA3310074,Riverside,South Coast,21038.0,,69363271.3104,85.5103,68.51737023662542
-"Lathrop, City of ",2022-01-15,,CA3910015,San Joaquin,San Joaquin River,28503.0,,91680000.0,56.225,72.15388637659352
+"Lathrop, City of",2022-01-15,City of Lathrop,CA3910015,San Joaquin,San Joaquin River,28503.0,,91680000.0,56.225,72.15388637659352
 Las Virgenes Municipal Water District,2022-01-15,Las Virgenes Municipal Water District,CA1910225,Los Angeles,South Coast,75385.0,,347031315.0,102.464,68.51737023662542
 Lamont Public Utility District,2022-01-15,Lamont Public Utility District,CA1510012,Kern,Tulare Lake,19057.0,,63774800.0,64.8486,72.84513429115324
 Inglewood City of,2022-01-15,City of Inglewood,CA1910051,Los Angeles,South Coast,84054.0,,209862707.295,58.1222,68.51737023662542
@@ -3526,7 +3526,7 @@ Cucamonga Valley Water District,2022-02-15,Cucamonga Valley Water District,CA361
 Crestline Village Water District,2022-02-15,Crestline Village Water District,CA3610015,San Bernardino,South Lahontan,10030.0,,13584624.32,42.5668,77.13554084717737
 Crescenta Valley Water District,2022-02-15,Crescenta Valley Water District,CA1910028,Los Angeles,South Coast,32665.0,,93356311.5,88.548,76.62726134430623
 Crescent City City of,2022-02-15,City of Crescent City,"CA0810001,CA0810003",Del Norte,North Coast,18999.0,,55480000.0,64.9282,53.335455722307984
-Covina City of ,2022-02-15,,CA1910127,Los Angeles,South Coast,33300.0,,114438871.2,97.0534,76.62726134430623
+Covina City of,2022-02-15,City of Covina,CA1910127,Los Angeles,South Coast,33300.0,,114438871.2,97.0534,76.62726134430623
 Corona City of,2022-02-15,City of Corona,CA3310037,Riverside,South Coast,157136.0,,667662181.98,104.48,76.62726134430623
 "Corcoran, City of",2022-02-15,City of Corcoran,CA1610004,Kings,Tulare Lake,13593.0,,103533000.0,45.3595,84.56219911814858
 California Water Service Company Palos Verdes,2022-02-15,California Water Service Company Palos Verdes,CA1910104,Los Angeles,South Coast,70689.0,,402393399.9,175.26,76.62726134430623
@@ -3631,7 +3631,7 @@ Lincoln City of,2022-02-15,City of Lincoln,CA3110004,Placer,Sacramento River,496
 Lincoln Avenue Water Company,2022-02-15,Lincoln Avenue Water Company,CA1910063,Los Angeles,South Coast,16126.0,,44954403.96,86.643,76.62726134430623
 Lemoore City of,2022-02-15,City of Lemoore,CA1610005,Kings,Tulare Lake,27235.0,,141583894.0,102.969,84.56219911814858
 Lee Lake Water District,2022-02-15,Lee Lake Water District,CA3310074,Riverside,South Coast,21038.0,,96747809.316,122.523,76.62726134430623
-"Lathrop, City of ",2022-02-15,,CA3910015,San Joaquin,San Joaquin River,28503.0,,81550000.0,94.5264,85.31031780154441
+"Lathrop, City of",2022-02-15,City of Lathrop,CA3910015,San Joaquin,San Joaquin River,28503.0,,81550000.0,94.5264,85.31031780154441
 Las Virgenes Municipal Water District,2022-02-15,Las Virgenes Municipal Water District,CA1910225,Los Angeles,South Coast,75384.0,,396234816.0,127.651,76.62726134430623
 Irvine Ranch Water District,2022-02-15,Irvine Ranch Water District,CA3010092,Orange,South Coast,434165.0,,1313671565.01,63.1701,76.62726134430623
 Lamont Public Utility District,2022-02-15,Lamont Public Utility District,CA1510012,Kern,Tulare Lake,19057.0,,62426700.0,76.7569,84.56219911814858
@@ -3938,7 +3938,7 @@ Cucamonga Valley Water District,2022-03-15,Cucamonga Valley Water District,CA361
 Crestline Village Water District,2022-03-15,Crestline Village Water District,CA3610015,San Bernardino,South Lahontan,10030.0,1.0,15511606.272,43.9012,90.84066195791955
 Crescenta Valley Water District,2022-03-15,Crescenta Valley Water District,CA1910028,Los Angeles,South Coast,32665.0,3.0,98895778.5,84.7163,76.70038465332274
 Crescent City City of,2022-03-15,City of Crescent City,"CA0810001,CA0810003",Del Norte,North Coast,19220.0,1.0,61700000.0,44.7451,52.84348593689636
-Covina City of ,2022-03-15,,CA1910127,Los Angeles,South Coast,33300.0,1.0,132380227.26,101.372,76.70038465332274
+Covina City of,2022-03-15,City of Covina,CA1910127,Los Angeles,South Coast,33300.0,1.0,132380227.26,101.372,76.70038465332274
 Corona City of,2022-03-15,City of Corona,CA3310037,Riverside,South Coast,157136.0,2.0,795853594.6350001,99.4168,76.70038465332274
 California Water Service Company Redwood Valley,2022-03-15,California Water Service Company Redwood Valley,"CA1710005,CA4910018,CA2110007,CA4900546,CA4900785,CA4900514","Lake,Marin,Sonoma",North Coast,3314.0,2.0,8797977.0,78.1023,52.84348593689636
 "Corcoran, City of",2022-03-15,City of Corcoran,CA1610004,Kings,Tulare Lake,13593.0,3.0,124286000.0,41.4919,92.87099872211745
@@ -4043,7 +4043,7 @@ Lincoln City of,2022-03-15,City of Lincoln,CA3110004,Placer,Sacramento River,496
 Lincoln Avenue Water Company,2022-03-15,Lincoln Avenue Water Company,CA1910063,Los Angeles,South Coast,16126.0,2.0,53188658.73,92.4354,76.70038465332274
 Lemoore City of,2022-03-15,City of Lemoore,CA1610005,Kings,Tulare Lake,27235.0,3.0,163970419.0,103.535,92.87099872211745
 Lee Lake Water District,2022-03-15,Lee Lake Water District,CA3310074,Riverside,South Coast,22485.0,1.0,79677988.28644,92.2481,76.70038465332274
-"Lathrop, City of ",2022-03-15,,CA3910015,San Joaquin,San Joaquin River,28503.0,,0.0,0.0,92.69167174928529
+"Lathrop, City of",2022-03-15,City of Lathrop,CA3910015,San Joaquin,San Joaquin River,28503.0,,0.0,0.0,92.69167174928529
 Joshua Basin Water District,2022-03-15,Joshua Basin Water District,CA3610025,San Bernardino,Colorado River,9665.0,0.0,33635969.475,74.4929,139.80538812381434
 Las Virgenes Municipal Water District,2022-03-15,Las Virgenes Municipal Water District,CA1910225,Los Angeles,South Coast,75384.0,3.0,453584592.0,166.923,76.70038465332274
 Lakewood City of,2022-03-15,City of Lakewood,CA1910239,Los Angeles,South Coast,59081.0,1.0,164900157.06,75.0804,76.70038465332274
@@ -4348,7 +4348,7 @@ Cucamonga Valley Water District,2022-04-15,Cucamonga Valley Water District,CA361
 Crestline Village Water District,2022-04-15,Crestline Village Water District,CA3610015,San Bernardino,South Lahontan,10030.0,1.0,16009060.852,46.8195,106.78195859389368
 Crescenta Valley Water District,2022-04-15,Crescenta Valley Water District,CA1910028,Los Angeles,South Coast,32665.0,3.0,96973257.6,85.8124,79.9379142615713
 Crescent City City of,2022-04-15,City of Crescent City,"CA0810001,CA0810003",Del Norte,North Coast,19220.0,1.0,57600000.0,43.2536,55.49985277957211
-Covina City of ,2022-04-15,,CA1910127,Los Angeles,South Coast,33300.0,1.0,127870449.42,94.7071,79.9379142615713
+Covina City of,2022-04-15,City of Covina,CA1910127,Los Angeles,South Coast,33300.0,1.0,127870449.42,94.7071,79.9379142615713
 Corona City of,2022-04-15,City of Corona,CA3310037,Riverside,South Coast,157136.0,2.0,832891774.401,108.357,79.9379142615713
 "Corcoran, City of",2022-04-15,City of Corcoran,CA1610004,Kings,Tulare Lake,13593.0,3.0,142933000.0,59.2633,116.12475918996688
 Lomita City of,2022-04-15,City of Lomita,CA1910073,Los Angeles,South Coast,20256.0,1.0,0.0,0.0,79.9379142615713
@@ -4453,7 +4453,7 @@ Lincoln City of,2022-04-15,City of Lincoln,CA3110004,Placer,Sacramento River,496
 Lincoln Avenue Water Company,2022-04-15,Lincoln Avenue Water Company,CA1910063,Los Angeles,South Coast,16126.0,2.0,49597780.71,89.0706,79.9379142615713
 Lemoore City of,2022-04-15,City of Lemoore,CA1610005,Kings,Tulare Lake,27235.0,3.0,199770163.0,150.784,116.12475918996688
 Lee Lake Water District,2022-04-15,Lee Lake Water District,CA3310074,Riverside,South Coast,22485.0,1.0,106344590.86556,124.703,79.9379142615713
-"Lathrop, City of ",2022-04-15,,CA3910015,San Joaquin,San Joaquin River,31331.0,2.0,121730000.0,84.368,103.40500718721229
+"Lathrop, City of",2022-04-15,City of Lathrop,CA3910015,San Joaquin,San Joaquin River,31331.0,2.0,121730000.0,84.368,103.40500718721229
 Las Virgenes Municipal Water District,2022-04-15,Las Virgenes Municipal Water District,CA1910225,Los Angeles,South Coast,75384.0,3.0,445438317.0,147.723,79.9379142615713
 Irvine Ranch Water District,2022-04-15,Irvine Ranch Water District,CA3010092,Orange,South Coast,463555.0,2.0,1637020029.33,63.1798,79.9379142615713
 Lamont Public Utility District,2022-04-15,Lamont Public Utility District,CA1510012,Kern,Tulare Lake,20009.0,0.0,82899300.0,90.9409,116.12475918996688
@@ -4757,7 +4757,7 @@ Cucamonga Valley Water District,2022-05-15,Cucamonga Valley Water District,CA361
 Crestline Village Water District,2022-05-15,Crestline Village Water District,CA3610015,San Bernardino,South Lahontan,10030.0,1.0,18197112.952,51.5018,114.98658002850553
 Crescenta Valley Water District,2022-05-15,Crescenta Valley Water District,CA1910028,Los Angeles,South Coast,32665.0,3.0,0.0,0.0,83.25377262678857
 Crescent City City of,2022-05-15,City of Crescent City,"CA0810001,CA0810003",Del Norte,North Coast,19220.0,1.0,59300000.0,42.58,64.37324150565136
-Covina City of ,2022-05-15,,CA1910127,Los Angeles,South Coast,33300.0,1.0,144101087.73,64.207,83.25377262678857
+Covina City of,2022-05-15,City of Covina,CA1910127,Los Angeles,South Coast,33300.0,1.0,144101087.73,64.207,83.25377262678857
 Corona City of,2022-05-15,City of Corona,CA3310037,Riverside,South Coast,159743.0,2.0,928128897.873,118.214,83.25377262678857
 "Corcoran, City of",2022-05-15,City of Corcoran,CA1610004,Kings,Tulare Lake,13593.0,0.0,185598000.0,335.025,141.98847407669345
 Contra Costa Water District,2022-05-15,Contra Costa Water District,CA0710003,Contra Costa,San Francisco Bay,197996.0,2.0,911731098.0,122.102,66.06661527612398
@@ -4862,7 +4862,7 @@ Lincoln City of,2022-05-15,City of Lincoln,CA3110004,Placer,Sacramento River,512
 Lincoln Avenue Water Company,2022-05-15,Lincoln Avenue Water Company,CA1910063,Los Angeles,South Coast,16126.0,2.0,54175987.26,94.1366,83.25377262678857
 Lemoore City of,2022-05-15,City of Lemoore,CA1610005,Kings,Tulare Lake,27235.0,3.0,240467360.0,170.663,141.98847407669345
 Lee Lake Water District,2022-05-15,Lee Lake Water District,CA3310074,Riverside,South Coast,22485.0,1.0,100208215.58228,112.567,83.25377262678857
-"Lathrop, City of ",2022-05-15,,CA3910015,San Joaquin,San Joaquin River,31331.0,2.0,105700000.0,52.3855,123.17967443452018
+"Lathrop, City of",2022-05-15,City of Lathrop,CA3910015,San Joaquin,San Joaquin River,31331.0,2.0,105700000.0,52.3855,123.17967443452018
 Las Virgenes Municipal Water District,2022-05-15,Las Virgenes Municipal Water District,CA1910225,Los Angeles,South Coast,75385.0,3.0,472809801.0,151.741,83.25377262678857
 Lamont Public Utility District,2022-05-15,Lamont Public Utility District,CA1510012,Kern,Tulare Lake,20009.0,0.0,102909800.0,110.028,141.98847407669345
 Inglewood City of,2022-05-15,City of Inglewood,CA1910051,Los Angeles,South Coast,84054.0,1.0,228796605.501,64.6649,83.25377262678857
