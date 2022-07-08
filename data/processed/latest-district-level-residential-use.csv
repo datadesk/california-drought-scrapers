@@ -1,10 +1,10 @@
 supplier_name,reporting_month,display_name,public_water_system_id,county,hydrologic_region,total_population_served,county_under_drought_declaration,water_shortage_contingency_stage_invoked,water_shortage_level_indicator,dwr_state_standard_level_corresponding_to_stage,calculated_total_potable_water_production_gallons_ag_excluded,r_gpcd,regional_r_gpcd
 Adelanto City of,2022-04-15,City of Adelanto,CA3610001,San Bernardino,South Lahontan,31221.0,Yes,2,Yes,2.0,122692496.832,81.216,106.78195859389368
 Alameda County Water District,2022-04-15,Alameda County Water District,CA0110001,Alameda,San Francisco Bay,355877.0,Yes,Stage 2; 15% Mandatory reduction ordered,Yes,2.0,1031500000.0,71.7237,59.59732811907125
-Alco Water Service,2022-04-15,Alco Water Service,CA2710001,Monterey,Central Coast,30175.0,Yes,1,Yes,2.0,0.0,0.0,65.69801582290295
+Alco Water Service,2022-04-15,Alco Water Service,CA2710001,Monterey,Central Coast,30175.0,Yes,1,Yes,2.0,0.0,0.0,72.86894734017369
 Alhambra City of,2022-04-15,City of Alhambra,CA1910001,Los Angeles,South Coast,85168.0,Yes,Voluntary Conservation,Yes,1.0,228431326.53,70.5996,79.00165184695136
 Amador Water Agency,2022-04-15,Amador Water Agency,"CA0310002,CA0310019,CA0310012,CA0310021,CA0310003",Amador,San Joaquin River,23509.0,Yes,0,No,0.0,77960000.0,62.918,103.22048600375238
-"American Canyon, City of",2022-04-15,City of American Canyon,CA2810005,Napa,San Francisco Bay,20990.0,Yes,Stage 2,Yes,2.0,0.0,0.0,58.4335479666135
+"American Canyon, City of",2022-04-15,City of American Canyon,CA2810005,Napa,San Francisco Bay,20990.0,Yes,Stage 2,Yes,2.0,0.0,0.0,59.59732811907125
 Anaheim City of,2022-04-15,City of Anaheim,CA3010001,Orange,South Coast,369033.0,Yes,I,Yes,1.0,1520094915.0,79.6366,79.00165184695136
 "Anderson, City of",2022-04-15,City of Anderson,CA4510001,Shasta,Sacramento River,11147.0,Yes,First,No,0.0,58842000.0,115.562,100.09637335012172
 Antioch City of,2022-04-15,City of Antioch,CA0710001,Contra Costa,San Joaquin River,113061.0,Yes,2,No,2.0,362300000.0,75.424,103.22048600375238
@@ -22,19 +22,19 @@ Banning City of,2022-04-15,City of Banning,CA3310006,Riverside,Colorado River,31
 Beaumont-Cherry Valley Water District,2022-04-15,Beaumont-Cherry Valley Water District,CA3310002,Riverside,South Coast,68302.0,Yes,none,No,0.0,356001993.03,121.67,79.00165184695136
 Bella Vista Water District,2022-04-15,Bella Vista Water District,CA4510014,Shasta,Sacramento River,19150.0,Yes,5,Yes,4.0,125778486.0,98.7401,100.09637335012172
 Bellflower-Somerset Mutual Water Company,2022-04-15,Bellflower-Somerset Mutual Water Company,CA1910013,Los Angeles,South Coast,46300.0,Yes,1,No,2.0,118570661.88,66.606,79.00165184695136
-Benicia City of,2022-04-15,City of Benicia,CA4810001,Solano,San Francisco Bay,28086.0,Yes,Stage 1,No,1.0,0.0,0.0,58.4335479666135
+Benicia City of,2022-04-15,City of Benicia,CA4810001,Solano,San Francisco Bay,28086.0,Yes,Stage 1,No,1.0,0.0,0.0,59.59732811907125
 Beverly Hills City of,2022-04-15,City of Beverly Hills,CA1910156,Los Angeles,South Coast,43910.0,Yes,Stage C,Yes,2.0,246669207.0,136.695,79.00165184695136
 Big Bear City Community Services District,2022-04-15,Big Bear City Community Services District,CA3610008,San Bernardino,South Coast,12738.0,Yes,2,Yes,2.0,22007976.54,56.824,79.00165184695136
 Blythe City of,2022-04-15,City of Blythe,"CA3310003,CA3301428,CA3301630",Riverside,Colorado River,12171.0,Yes,1,Yes,0.0,59531000.0,120.45,198.41697203413875
 Brawley City of,2022-04-15,City of Brawley,CA1310001,Imperial,Colorado River,26708.0,Yes,Second stage,Yes,2.0,182363000.0,112.805,198.41697203413875
 Brea City of,2022-04-15,City of Brea,CA3010002,Orange,South Coast,42568.0,Yes,Level 1,No,1.0,231139148.34,95.882,79.00165184695136
 Brentwood City of,2022-04-15,City of Brentwood,CA0710004,Contra Costa,San Joaquin River,64342.0,Yes,Stage 1,No,1.0,277808000.0,113.201,103.22048600375238
-Buena Park City of,2022-04-15,City of Buena Park,CA3010003,Orange,South Coast,81988.0,Yes,1,Yes,1.0,0.0,0.0,76.63219163069733
-Burbank City of,2022-04-15,City of Burbank,CA1910179,Los Angeles,South Coast,103969.0,Yes,2,Yes,2.0,0.0,0.0,76.63219163069733
+Buena Park City of,2022-04-15,City of Buena Park,CA3010003,Orange,South Coast,81988.0,Yes,1,Yes,1.0,0.0,0.0,79.00165184695136
+Burbank City of,2022-04-15,City of Burbank,CA1910179,Los Angeles,South Coast,103969.0,Yes,2,Yes,2.0,0.0,0.0,79.00165184695136
 Burlingame City of,2022-04-15,City of Burlingame,CA4110003,San Mateo,San Francisco Bay,32407.0,Yes,None,No,1.0,90951788.0,50.1437,59.59732811907125
 Calaveras County Water District,2022-04-15,Calaveras County Water District,"CA0510004,CA0510005,CA0510006,CA0510016,CA0510017,CA0510019",Calaveras,San Joaquin River,27954.0,Yes,Stage 1,No,0.0,115071000.0,130.274,103.22048600375238
-Calexico City of,2022-04-15,City of Calexico,CA1310002,Imperial,Colorado River,38000.0,Yes,CITY WATER CONSERVATION,No,0.0,0.0,0.0,141.123588200867
-California City City of,2022-04-15,City of California City,CA1510032,Kern,South Lahontan,38000.0,No,CITY WATER CONSERVATION,No,,0.0,0.0,75.71835135896633
+Calexico City of,2022-04-15,City of Calexico,CA1310002,Imperial,Colorado River,38000.0,Yes,CITY WATER CONSERVATION,No,0.0,0.0,0.0,198.41697203413875
+California City City of,2022-04-15,City of California City,CA1510032,Kern,South Lahontan,38000.0,No,CITY WATER CONSERVATION,No,,0.0,0.0,106.78195859389368
 California Water Service Company Antelope Valley,2022-04-15,California Water Service Company Antelope Valley,"CA1500333,CA1910242,CA1910010,CA1910243","Kern,Los Angeles",South Lahontan,3465.0,Yes,1,No,1.0,15119486.4,133.525,106.78195859389368
 California Water Service Company Bakersfield,2022-04-15,California Water Service Company Bakersfield,"CA1510003,CA1510055",Kern,Tulare Lake,288734.0,Yes,2,Yes,2.0,1342017343.5,100.718,116.91850700785643
 California Water Service Company Bear Gulch,2022-04-15,California Water Service Company Bear Gulch,CA4110006,San Mateo,San Francisco Bay,60913.0,Yes,2,No,2.0,285869082.3,135.74,59.59732811907125
@@ -65,18 +65,18 @@ California-American Water Company Sacramento District,2022-04-15,California-Amer
 California-American Water Company San Diego District,2022-04-15,California-American Water Company San Diego District,CA3710001,San Diego,South Coast,94043.0,Yes,CPUC Rule 14.1 Stage 2,Yes,2.0,263939310.0,64.3363,79.00165184695136
 California-American Water Ventura District,2022-04-15,California-American Water Ventura District,"CA5610040,CA5610081",Ventura,South Coast,63423.0,Yes,CPUC Rule 14.1 Stage 2,No,2.0,370492587.0,134.766,79.00165184695136
 Camarillo City of,2022-04-15,City of Camarillo,CA5610019,Ventura,South Coast,49573.0,Yes,2,Yes,2.0,210988522.5,74.5681,79.00165184695136
-Cambria Community Services District,2022-04-15,Cambria Community Services District,CA4010014,San Luis Obispo,Central Coast,6032.0,Yes,1,No,1.0,0.0,0.0,65.69801582290295
+Cambria Community Services District,2022-04-15,Cambria Community Services District,CA4010014,San Luis Obispo,Central Coast,6032.0,Yes,1,No,1.0,0.0,0.0,72.86894734017369
 Camrosa Water District,2022-04-15,Camrosa Water District,CA5610063,Ventura,South Coast,32700.0,Yes,0,No,0.0,177588795.0,121.796,79.00165184695136
 Carlsbad Municipal Water District,2022-04-15,Carlsbad Municipal Water District,CA3710005,San Diego,South Coast,92865.0,Yes,Level 1,No,1.0,361046166.51,86.9066,79.00165184695136
 Carmichael Water District,2022-04-15,Carmichael Water District,CA3410004,Sacramento,Sacramento River,41193.0,Yes,Stage 2,Yes,2.0,183760000.0,125.07,100.09637335012172
 Carpinteria Valley Water District,2022-04-15,Carpinteria Valley Water District,CA4210001,Santa Barbara,Central Coast,15996.0,Yes,2,Yes,2.0,53967442.62000001,82.2845,72.86894734017369
 Casitas Municipal Water District,2022-04-15,Casitas Municipal Water District,"CA5610024,CA5610014",Ventura,South Coast,17806.0,Yes,3,Yes,4.0,104598171.0,111.005,79.00165184695136
-Castaic Lake Water Agency Santa Clarita Water Division,2022-04-15,Castaic Lake Water Agency Santa Clarita Water Division,CA1910017,Los Angeles,South Coast,138655.0,Yes,Stage 1,No,1.0,0.0,0.0,76.63219163069733
+Castaic Lake Water Agency Santa Clarita Water Division,2022-04-15,Castaic Lake Water Agency Santa Clarita Water Division,CA1910017,Los Angeles,South Coast,138655.0,Yes,Stage 1,No,1.0,0.0,0.0,79.00165184695136
 Ceres City of,2022-04-15,City of Ceres,CA5010028,Stanislaus,San Joaquin River,49038.0,Yes,2,No,2.0,170680000.0,82.1908,103.22048600375238
 Cerritos City of,2022-04-15,City of Cerritos,CA1910019,Los Angeles,South Coast,49578.0,Yes,Resolution 2016-18 Revised water,No,0.0,192835363.29,112.837,79.00165184695136
 Chino City of,2022-04-15,City of Chino,CA3610012,San Bernardino,South Coast,84560.0,Yes,Permanent Measures,No,0.0,419412597.6300001,65.1341,79.00165184695136
 Chino Hills City of,2022-04-15,City of Chino Hills,CA3610036,San Bernardino,South Coast,83159.0,Yes,1,No,1.0,311266681.356,94.8234,79.00165184695136
-Chowchilla City of,2022-04-15,City of Chowchilla,CA2010001,Madera,San Joaquin River,13375.0,Yes,Two,No,2.0,0.0,0.0,92.14427605898702
+Chowchilla City of,2022-04-15,City of Chowchilla,CA2010001,Madera,San Joaquin River,13375.0,Yes,Two,No,2.0,0.0,0.0,103.22048600375238
 Citrus Heights Water District,2022-04-15,Citrus Heights Water District,CA3410006,"Placer,Sacramento",Sacramento River,69964.0,Yes,1,No,1.0,248950164.0,112.678,100.09637335012172
 "City of Big Bear Lake, Dept of Water & Power",2022-04-15,"City of Big Bear Lake, Dept. of Water & Power","CA3610044,CA3610022,CA3600283,CA3600395",San Bernardino,South Coast,28665.0,Yes,0,No,0.0,41150000.0,36.8211,79.00165184695136
 City of Newman Water Department,2022-04-15,City of  Newman Water Department,CA5010013,Stanislaus,San Joaquin River,11801.0,Yes,2,No,0.0,54529945.0,89.1813,103.22048600375238
@@ -84,13 +84,13 @@ Cloverdale,2022-04-15,Cloverdale,CA4910002,Sonoma,North Coast,9149.0,Yes,4,Yes,3
 Clovis City of,2022-04-15,City of Clovis,CA1010003,Fresno,Tulare Lake,127553.0,Yes,2,Yes,2.0,659295000.0,134.397,116.91850700785643
 Coachella City of,2022-04-15,City of Coachella,CA3310007,Riverside,Colorado River,45635.0,Yes,1,Yes,1.0,194200000.0,109.112,198.41697203413875
 Coachella Valley Water District,2022-04-15,Coachella Valley Water District,"CA3310001,CA1310011,CA3310048","Imperial,Riverside",Colorado River,270000.0,Yes,1,Yes,0.0,2995092051.6,267.352,198.41697203413875
-Coalinga City of,2022-04-15,City of Coalinga,CA1010004,Fresno,Tulare Lake,16748.0,Yes,Modified Stage II,Yes,3.0,0.0,0.0,93.35435262440458
+Coalinga City of,2022-04-15,City of Coalinga,CA1010004,Fresno,Tulare Lake,16748.0,Yes,Modified Stage II,Yes,3.0,0.0,0.0,116.91850700785643
 Coastside County Water District,2022-04-15,Coastside County Water District,CA4110011,San Mateo,San Francisco Bay,18839.0,Yes,Stage 2-Water Shortage Emergency Warning,Yes,2.0,43690000.0,46.7116,59.59732811907125
 "Colton, City of",2022-04-15,City of Colton,CA3610014,San Bernardino,South Coast,54285.0,Yes,3,No,3.0,239004213.927,73.3318,79.00165184695136
 Compton City of,2022-04-15,City of Compton,CA1910026,Los Angeles,South Coast,78426.0,Yes,1,No,0.0,190981271.1,59.246,79.00165184695136
 Contra Costa Water District,2022-04-15,Contra Costa Water District,CA0710003,Contra Costa,San Francisco Bay,204475.0,Yes,2,Yes,2.0,752389959.0,93.7077,59.59732811907125
 "Corcoran, City of",2022-04-15,City of Corcoran,CA1610004,Kings,Tulare Lake,13593.0,Yes,Level 3,Yes,3.0,142933000.0,59.2633,116.91850700785643
-Corona City of,2022-04-15,City of Corona,CA3310037,Riverside,South Coast,169868.0,Yes,2,No,,0.0,0.0,68.31109682537887
+Corona City of,2022-04-15,City of Corona,CA3310037,Riverside,South Coast,169868.0,Yes,2,No,,0.0,0.0,79.00165184695136
 Covina City of ,2022-04-15,,CA1910127,Los Angeles,South Coast,33300.0,Yes,1,No,1.0,127870449.42,94.7071,79.00165184695136
 Crescent City City of,2022-04-15,City of Crescent City,"CA0810001,CA0810003",Del Norte,North Coast,19220.0,Yes,1,No,1.0,57600000.0,43.2536,55.46203083177454
 Crescenta Valley Water District,2022-04-15,Crescenta Valley Water District,CA1910028,Los Angeles,South Coast,32665.0,Yes,Phase 3 Yellow,Yes,3.0,96973257.6,85.8124,79.00165184695136
@@ -108,7 +108,7 @@ Downey City of,2022-04-15,City of Downey,CA1910034,Los Angeles,South Coast,11221
 Dublin San Ramon Services District,2022-04-15,Dublin San Ramon Services District,CA0110009,"Alameda,Contra Costa",San Francisco Bay,94494.0,Yes,2,Yes,2.0,259976000.0,73.4466,59.59732811907125
 East Bay Municipal Utilities District,2022-04-15,East Bay Municipal Utilities District,CA0110005,"Alameda,Contra Costa",San Francisco Bay,1430000.0,Yes,Stage 2,Yes,5.0,4368000000.0,64.1455,59.59732811907125
 East Niles Community Service District,2022-04-15,East Niles Community Service District,CA1510006,Kern,Tulare Lake,32000.0,Yes,0,No,0.0,202679322.0,130.897,116.91850700785643
-East Orange County Water District,2022-04-15,East Orange County Water District,CA3010068,Orange,South Coast,3222.0,Yes,2,No,2.0,0.0,0.0,76.63219163069733
+East Orange County Water District,2022-04-15,East Orange County Water District,CA3010068,Orange,South Coast,3222.0,Yes,2,No,2.0,0.0,0.0,79.00165184695136
 "East Palo Alto, City of",2022-04-15,City of East Palo Alto,CA4110024,San Mateo,San Francisco Bay,29519.0,Yes,0,No,0.0,50852574.96,38.5599,59.59732811907125
 East Valley Water District,2022-04-15,East Valley Water District,CA3610064,San Bernardino,South Coast,103000.0,Yes,Stage 1,No,1.0,478469832.8699999,116.104,79.00165184695136
 Eastern Municipal Water District,2022-04-15,Eastern Municipal Water District,CA3310009,Riverside,South Coast,634862.0,Yes,Stage 3 – Mandatory Waste Reduction,No,3.0,2202426909.0,92.5106,79.00165184695136
@@ -116,7 +116,7 @@ El Centro City of,2022-04-15,City of El Centro,CA1310004,Imperial,Colorado River
 El Dorado Irrigation District,2022-04-15,El Dorado Irrigation District,CA0910001,El Dorado,Sacramento River,131033.0,Yes,1 Water Alert,Yes,2.0,687499990.86,104.89,100.09637335012172
 El Monte City of,2022-04-15,City of El Monte,CA1910038,Los Angeles,South Coast,22968.0,Yes,Fourth,Yes,3.0,51257000.0,45.1498,79.00165184695136
 El Segundo City of,2022-04-15,City of El Segundo,CA1910040,Los Angeles,South Coast,16654.0,Yes,FIRST,No,1.0,197003982.512,73.3412,79.00165184695136
-El Toro Water District,2022-04-15,El Toro Water District,CA3010079,Orange,South Coast,47911.0,Yes,None,No,,0.0,0.0,76.57288192381321
+El Toro Water District,2022-04-15,El Toro Water District,CA3010079,Orange,South Coast,47911.0,Yes,None,No,,0.0,0.0,79.00165184695136
 Elk Grove Water Service,2022-04-15,Elk Grove Water Service,CA3410008,Sacramento,Sacramento River,46991.0,Yes,Normal,No,0.0,166231609.0,93.3905,100.09637335012172
 Elsinore Valley Municipal Water District,2022-04-15,Elsinore Valley Municipal Water District,"CA3310012,CA3310046",Riverside,South Coast,160624.0,Yes,Stage 2,No,1.0,572878643.1,91.5015,79.00165184695136
 Escondido City of,2022-04-15,City of Escondido,CA3710006,San Diego,South Coast,137941.0,Yes,1,No,1.0,420021939.0,61.9138,79.00165184695136
@@ -124,9 +124,9 @@ Estero Municipal Improvement District,2022-04-15,Estero Municipal Improvement Di
 Eureka City of,2022-04-15,City of Eureka,CA1210004,Humboldt,North Coast,26699.0,Yes,0,No,0.0,64543000.00000001,48.691,55.46203083177454
 Exeter City of,2022-04-15,City of Exeter,CA5410003,Tulare,Tulare Lake,11169.0,Yes,3,No,0.0,46368300.0,84.4142,116.91850700785643
 Fair Oaks Water District,2022-04-15,Fair Oaks Water District,CA3410009,Sacramento,Sacramento River,36226.0,Yes,Stage 1,Yes,2.0,198808212.12,137.173,100.09637335012172
-Fairfield City of,2022-04-15,City of Fairfield,CA4810003,Solano,Sacramento River,108615.0,Yes,Stage 1,No,,0.0,0.0,70.40248513930524
+Fairfield City of,2022-04-15,City of Fairfield,CA4810003,Solano,Sacramento River,108615.0,Yes,Stage 1,No,,0.0,0.0,100.09637335012172
 Fallbrook Public Utility District,2022-04-15,Fallbrook Public Utility District,CA3710008,San Diego,South Coast,35237.0,Yes,Stage 1,No,1.0,152433097.8,69.2447,79.00165184695136
-Fillmore City of,2022-04-15,City of Fillmore,CA5610002,Ventura,South Coast,15200.0,No,2,No,,0.0,0.0,83.26417258574983
+Fillmore City of,2022-04-15,City of Fillmore,CA5610002,Ventura,South Coast,15200.0,No,2,No,,0.0,0.0,79.00165184695136
 Folsom City of,2022-04-15,City of Folsom,"CA3410014,CA3410030",Sacramento,Sacramento River,71494.0,Yes,2,Yes,2.0,395257263.0,110.571,100.09637335012172
 Fortuna City of,2022-04-15,City of Fortuna,CA1210006,Humboldt,North Coast,12210.0,Yes,0,No,0.0,26589000.0,60.4423,55.46203083177454
 Fountain Valley City of,2022-04-15,City of Fountain Valley,CA3010069,Orange,South Coast,56747.0,Yes,0,No,0.0,225423721.8,68.0808,79.00165184695136
@@ -138,7 +138,7 @@ Garden Grove City of,2022-04-15,City of Garden Grove,CA3010062,Orange,South Coas
 Georgetown Divide Public Utilities District,2022-04-15,Georgetown Divide Public Utilities District,CA0910013,El Dorado,Sacramento River,9159.0,Yes,0,No,0.0,36870000.0,113.194,100.09637335012172
 Gilroy City of,2022-04-15,City of Gilroy,CA4310004,Santa Clara,Central Coast,58294.0,Yes,2,Yes,3.0,179090000.0,66.5306,72.86894734017369
 Glendale City of,2022-04-15,City of Glendale,CA1910043,Los Angeles,South Coast,190616.0,Yes,3,No,3.0,584710292.9100001,78.4074,79.00165184695136
-Glendora City of,2022-04-15,City of Glendora,CA1910044,Los Angeles,South Coast,51463.0,Yes,Stage 1,Yes,1.0,0.0,0.0,76.63219163069733
+Glendora City of,2022-04-15,City of Glendora,CA1910044,Los Angeles,South Coast,51463.0,Yes,Stage 1,Yes,1.0,0.0,0.0,79.00165184695136
 Golden State Water Company Artesia,2022-04-15,Golden State Water Company Artesia,CA1910004,Los Angeles,South Coast,50260.0,Yes,Stage 1,Yes,2.0,120108678.6,63.0781,79.00165184695136
 Golden State Water Company Barstow,2022-04-15,Golden State Water Company Barstow,CA3610043,San Bernardino,South Lahontan,32869.0,Yes,Stage 1,Yes,2.0,143993556.9,85.1535,106.78195859389368
 Golden State Water Company Bay Point,2022-04-15,Golden State Water Company Bay Point,CA0710002,Contra Costa,San Francisco Bay,23693.0,Yes,Stage 1,Yes,2.0,52233915.3,63.1541,59.59732811907125
@@ -170,13 +170,13 @@ Helix Water District,2022-04-15,Helix Water District,CA3710010,San Diego,South C
 Hemet City of,2022-04-15,City of Hemet,CA3310016,Riverside,South Coast,32600.0,Yes,0,Yes,0.0,108351974.52,58.8032,79.00165184695136
 Hesperia Water District City of,2022-04-15,City of Hesperia Water District,CA3610024,San Bernardino,South Lahontan,99818.0,Yes,2,No,2.0,352896633.0,67.1727,106.78195859389368
 Hi-Desert Water District,2022-04-15,Hi-Desert Water District,CA3610073,San Bernardino,Colorado River,26032.0,Yes,1,No,1.0,76571726.49000001,69.8624,198.41697203413875
-Hillsborough Town of,2022-04-15,Town of Hillsborough,CA4110016,San Mateo,San Francisco Bay,11397.0,Yes,Two,Yes,2.0,0.0,0.0,58.4335479666135
+Hillsborough Town of,2022-04-15,Town of Hillsborough,CA4110016,San Mateo,San Francisco Bay,11397.0,Yes,Two,Yes,2.0,0.0,0.0,59.59732811907125
 Hollister City of,2022-04-15,City of Hollister,CA3510001,San Benito,Central Coast,23583.0,Yes,2,No,2.0,96195934.0,93.9538,72.86894734017369
 Humboldt Bay Municipal Water District,2022-04-15,Humboldt Bay Municipal Water District,CA1210013,Humboldt,North Coast,602.0,Yes,1,No,0.0,3794000.0,54.6844,55.46203083177454
 Humboldt Community Service District,2022-04-15,Humboldt Community Service District,CA1210009,Humboldt,North Coast,19551.0,Yes,None,No,0.0,44715825.65072,48.0296,55.46203083177454
 Huntington Beach City of,2022-04-15,City of Huntington Beach,CA3010053,Orange,South Coast,201281.0,Yes,permanent restrictions,No,0.0,710941711.8000001,89.1346,79.00165184695136
 Huntington Park City of,2022-04-15,City of Huntington Park,CA1910049,Los Angeles,South Coast,54883.0,Yes,Phase 2,No,2.0,108182532.0,42.3666,79.00165184695136
-"Imperial, City of",2022-04-15,City of Imperial,CA1310006,Imperial,Colorado River,19929.0,No,1,Yes,,0.0,0.0,133.65640470209422
+"Imperial, City of",2022-04-15,City of Imperial,CA1310006,Imperial,Colorado River,19929.0,No,1,Yes,,0.0,0.0,198.41697203413875
 Indian Wells Valley Water District,2022-04-15,Indian Wells Valley Water District,CA1510017,"Kern,San Bernardino",South Lahontan,33476.0,Yes,2,Yes,2.0,131573000.0,107.823,106.78195859389368
 Indio City of,2022-04-15,City of Indio,CA3310020,Riverside,Colorado River,85333.0,Yes,State 1,No,1.0,600000000.0,171.094,198.41697203413875
 Inglewood City of,2022-04-15,City of Inglewood,CA1910051,Los Angeles,South Coast,84054.0,Yes,Level 1,Yes,1.0,216559271.196,67.0538,79.00165184695136
@@ -191,11 +191,11 @@ La Verne City of,2022-04-15,City of La Verne,CA1910062,Los Angeles,South Coast,3
 Laguna Beach County Water District,2022-04-15,Laguna Beach County Water District,CA3010017,Orange,South Coast,19117.0,Yes,Water Watch,No,2.0,85793309.79,84.4721,79.00165184695136
 Lake Arrowhead Community Services District,2022-04-15,Lake Arrowhead Community Services District,CA3610005,San Bernardino,South Lahontan,15886.0,Yes,Level 3,No,3.0,21845051.04,40.6333,106.78195859389368
 Lake Hemet Municipal Water District,2022-04-15,Lake Hemet Municipal Water District,CA3310022,Riverside,South Coast,54320.0,Yes,3,No,0.0,217831393.5,99.6446,79.00165184695136
-Lakeside Water District,2022-04-15,Lakeside Water District,CA3710013,San Diego,South Coast,35500.0,Yes,1,Yes,1.0,0.0,0.0,76.63219163069733
+Lakeside Water District,2022-04-15,Lakeside Water District,CA3710013,San Diego,South Coast,35500.0,Yes,1,Yes,1.0,0.0,0.0,79.00165184695136
 Lakewood City of,2022-04-15,City of Lakewood,CA1910239,Los Angeles,South Coast,59081.0,Yes,1,No,1.0,182724206.76,84.5721,79.00165184695136
 Lamont Public Utility District,2022-04-15,Lamont Public Utility District,CA1510012,Kern,Tulare Lake,20009.0,Yes,NONE,No,0.0,82899300.0,90.9409,116.91850700785643
 Las Virgenes Municipal Water District,2022-04-15,Las Virgenes Municipal Water District,CA1910225,Los Angeles,South Coast,75384.0,Yes,3,Yes,3.0,445438317.0,147.723,79.00165184695136
-"Lathrop, City of ",2022-04-15,,CA3910015,San Joaquin,San Joaquin River,28503.0,Yes,1,Yes,,0.0,0.0,85.31031780154441
+"Lathrop, City of ",2022-04-15,,CA3910015,San Joaquin,San Joaquin River,28503.0,Yes,1,Yes,,0.0,0.0,103.22048600375238
 Lee Lake Water District,2022-04-15,Lee Lake Water District,CA3310074,Riverside,South Coast,22485.0,Yes,First,No,1.0,106344590.86556,124.703,79.00165184695136
 Lemoore City of,2022-04-15,City of Lemoore,CA1610005,Kings,Tulare Lake,27235.0,Yes,Level 1 (7-7E-9),Yes,3.0,199770163.0,150.784,116.91850700785643
 Lincoln Avenue Water Company,2022-04-15,Lincoln Avenue Water Company,CA1910063,Los Angeles,South Coast,16126.0,Yes,2,No,2.0,49597780.71,89.0706,79.00165184695136
@@ -205,8 +205,8 @@ Livermore City of Division of Water Resources,2022-04-15,City of Livermore  Divi
 Livingston City of,2022-04-15,City of Livingston,CA2410004,Merced,San Joaquin River,15052.0,Yes,2,No,2.0,163598000.0,103.653,103.22048600375238
 Lodi City of Public Works Department,2022-04-15,City of Lodi  Public Works Department,CA3910004,San Joaquin,San Joaquin River,68272.0,Yes,2,Yes,2.0,345900000.0,109.299,103.22048600375238
 Loma Linda City of *,2022-04-15,,CA3610013,San Bernardino,South Coast,24791.0,Yes,1,No,0.0,132168424.11,128.075,79.00165184695136
-Lomita City of,2022-04-15,City of Lomita,CA1910073,Los Angeles,South Coast,20256.0,Yes,Stage 1,No,1.0,0.0,0.0,76.63219163069733
-Lompoc City of,2022-04-15,City of Lompoc,CA4210006,Santa Barbara,Central Coast,40415.0,Yes,1,No,,0.0,0.0,56.101092196106116
+Lomita City of,2022-04-15,City of Lomita,CA1910073,Los Angeles,South Coast,20256.0,Yes,Stage 1,No,1.0,0.0,0.0,79.00165184695136
+Lompoc City of,2022-04-15,City of Lompoc,CA4210006,Santa Barbara,Central Coast,40415.0,Yes,1,No,,0.0,0.0,72.86894734017369
 Long Beach City of,2022-04-15,City of Long Beach,CA1910065,Los Angeles,South Coast,460682.0,Yes,2,No,2.0,1310572722.0,60.6903,79.00165184695136
 Los Angeles County Public Works Waterworks District 29,2022-04-15,Los Angeles County Public Works Waterworks District 29,CA1910204,Los Angeles,South Coast,22807.0,Yes,Equivalent Mandated Compliance,No,0.0,193816174.8,195.522,79.00165184695136
 Los Angeles County Public Works Waterworks District 40,2022-04-15,Los Angeles County Public Works Waterworks District 40,"CA1910005,CA1910070,CA1910203,CA1910025,CA1910027",Los Angeles,South Lahontan,215292.0,Yes,Equivalent mandated compliance,No,0.0,1095771742.8,118.767,106.78195859389368
@@ -219,7 +219,7 @@ Manhattan Beach City of,2022-04-15,City of Manhattan Beach,CA1910083,Los Angeles
 Manteca City of,2022-04-15,City of Manteca,CA3910005,San Joaquin,San Joaquin River,87598.0,Yes,1,No,0.0,391257000.0,128.848,103.22048600375238
 Marin Municipal Water District,2022-04-15,Marin Municipal Water District,CA2110002,Marin,San Francisco Bay,192961.0,Yes,0,Yes,0.0,518969853.66,54.6984,59.59732811907125
 Marina Coast Water District,2022-04-15,Marina Coast Water District,CA2710017,Monterey,Central Coast,37059.0,Yes,2,No,2.0,98048565.9,54.1764,72.86894734017369
-Martinez City of,2022-04-15,City of Martinez,CA0710006,Contra Costa,San Francisco Bay,28095.0,Yes,1,No,,0.0,0.0,55.41822627300885
+Martinez City of,2022-04-15,City of Martinez,CA0710006,Contra Costa,San Francisco Bay,28095.0,Yes,1,No,,0.0,0.0,59.59732811907125
 McKinleyville Community Service District,2022-04-15,McKinleyville Community Service District,CA1210016,Humboldt,North Coast,16900.0,Yes,0,Yes,0.0,36072000.0,49.7041,55.46203083177454
 Menlo Park City of,2022-04-15,City of Menlo Park,CA4110017,San Mateo,San Francisco Bay,20319.0,Yes,1,No,1.0,30413550.164,22.1028,59.59732811907125
 Merced City of,2022-04-15,City of Merced,CA2410009,Merced,San Joaquin River,90971.0,Yes,Stage 2,No,2.0,483370000.0,127.425,103.22048600375238
@@ -229,20 +229,20 @@ Millbrae City of,2022-04-15,City of Millbrae,CA4110018,San Mateo,San Francisco B
 Milpitas City of,2022-04-15,City of Milpitas,CA4310005,Santa Clara,San Francisco Bay,77961.0,Yes,2,Yes,2.0,223396753.176,44.8927,59.59732811907125
 Mission Springs Water District,2022-04-15,Mission Springs Water District,"CA3310008,CA3310078,CA3310081",Riverside,Colorado River,37600.0,Yes,1,Yes,1.0,203353833.57,117.168,198.41697203413875
 "Modesto, City of",2022-04-15,City of Modesto,"CA5010010,CA5010005",Stanislaus,San Joaquin River,236438.0,Yes,1,No,2.0,1299824411.0,134.946,103.22048600375238
-Monrovia City of,2022-04-15,City of Monrovia,CA1910090,Los Angeles,South Coast,37935.0,Yes,4,No,1.0,0.0,0.0,76.63219163069733
+Monrovia City of,2022-04-15,City of Monrovia,CA1910090,Los Angeles,South Coast,37935.0,Yes,4,No,1.0,0.0,0.0,79.00165184695136
 Monte Vista Water District,2022-04-15,Monte Vista Water District,CA3610029,San Bernardino,South Coast,56839.0,Yes,2- Water Supply Shortage,No,2.0,210623569.38,92.5861,79.00165184695136
 Montebello Land and Water Company,2022-04-15,Montebello Land and Water Company,CA1910091,Los Angeles,South Coast,26554.0,Yes,0,No,0.0,84043489.92,87.5924,79.00165184695136
 Montecito Water District,2022-04-15,Montecito Water District,CA4210007,Santa Barbara,Central Coast,11441.0,Yes,1,No,1.0,102652840.53,214.33,72.86894734017369
-Monterey Park City of,2022-04-15,City of Monterey Park,CA1910092,Los Angeles,South Coast,62183.0,Yes,2,Yes,2.0,0.0,0.0,76.63219163069733
+Monterey Park City of,2022-04-15,City of Monterey Park,CA1910092,Los Angeles,South Coast,62183.0,Yes,2,Yes,2.0,0.0,0.0,79.00165184695136
 Morgan Hill City of,2022-04-15,City of Morgan Hill,CA4310006,Santa Clara,Central Coast,47374.0,Yes,2,Yes,2.0,177048000.0,92.2226,72.86894734017369
 Morro Bay City of,2022-04-15,City of Morro Bay,CA4010011,San Luis Obispo,Central Coast,10578.0,Yes,Stage 3,No,2.0,29539669.0,60.8405,72.86894734017369
 Moulton Niguel Water District,2022-04-15,Moulton Niguel Water District,CA3010073,Orange,South Coast,170236.0,Yes,0,No,0.0,618690035.19,92.0843,79.00165184695136
 Mountain House Community Services District,2022-04-15,Mountain House Community Services District,CA3910027,San Joaquin,San Joaquin River,27478.0,Yes,2,Yes,2.0,124316000.0,100.829,103.22048600375238
-Mountain View City of,2022-04-15,City of Mountain View,CA4310007,San Mateo,San Francisco Bay,80314.0,Yes,1,No,1.0,0.0,0.0,58.4335479666135
+Mountain View City of,2022-04-15,City of Mountain View,CA4310007,San Mateo,San Francisco Bay,80314.0,Yes,1,No,1.0,0.0,0.0,59.59732811907125
 Myoma Dunes Mutual Water Company,2022-04-15,Myoma Dunes Mutual Water Company,CA3310051,Riverside,Colorado River,8948.0,Yes,first,Yes,1.0,96410000.0,312.347,198.41697203413875
 Napa City of,2022-04-15,City of Napa,CA2810003,Napa,San Francisco Bay,87067.0,Yes,Stage 3,Yes,3.0,290984943.0,66.8417,59.59732811907125
 Nevada Irrigation District,2022-04-15,Nevada Irrigation District,"CA2910004,CA2910023,CA2910006,CA2910014,CA3110026,CA5810005","Nevada,Placer",Sacramento River,44761.0,Yes,Stage 1,Yes,1.0,183610000.0,108.249,100.09637335012172
-Newhall County Water District,2022-04-15,Newhall County Water District,"CA1910255,CA1910247,CA1910096,CA1910250",Los Angeles,South Coast,51737.0,Yes,Stage 1,No,1.0,0.0,0.0,76.63219163069733
+Newhall County Water District,2022-04-15,Newhall County Water District,"CA1910255,CA1910247,CA1910096,CA1910250",Los Angeles,South Coast,51737.0,Yes,Stage 1,No,1.0,0.0,0.0,79.00165184695136
 Newport Beach City of,2022-04-15,City of Newport Beach,CA3010023,Orange,South Coast,68230.0,Yes,Level 0,No,0.0,374523363.8699999,109.747,79.00165184695136
 Nipomo Community Services District,2022-04-15,Nipomo Community Services District,CA4010026,San Luis Obispo,Central Coast,13770.0,Yes,4,Yes,3.0,50148468.9,100.824,72.86894734017369
 Norco City of,2022-04-15,City of Norco,CA3310025,Riverside,South Coast,27564.0,Yes,1,Yes,0.0,186126091.2,130.278,79.00165184695136
@@ -253,7 +253,7 @@ Norwalk City of,2022-04-15,City of Norwalk,CA1910191,Los Angeles,South Coast,202
 Oakdale City of,2022-04-15,City of Oakdale,CA5010014,Stanislaus,San Joaquin River,22348.0,Yes,1,No,0.0,124950000.0,140.15,103.22048600375238
 Oceanside City of,2022-04-15,City of Oceanside,CA3710014,San Diego,South Coast,178021.0,Yes,Level 1,No,1.0,607223338.5,73.3957,79.00165184695136
 Oildale Mutual Water Company,2022-04-15,Oildale Mutual Water Company,CA1510015,Kern,Tulare Lake,39756.0,Yes,0,No,0.0,220115609.01,149.488,116.91850700785643
-Olivehurst Public Utility District,2022-04-15,Olivehurst Public Utility District,"CA5810003,CA5805001",Yuba,Sacramento River,26543.0,Yes,0,No,0.0,0.0,0.0,97.86310521611395
+Olivehurst Public Utility District,2022-04-15,Olivehurst Public Utility District,"CA5810003,CA5805001",Yuba,Sacramento River,26543.0,Yes,0,No,0.0,0.0,0.0,100.09637335012172
 Olivenhain Municipal Water District,2022-04-15,Olivenhain Municipal Water District,CA3710029,San Diego,South Coast,87084.0,Yes,1,No,1.0,458993718.6,119.503,79.00165184695136
 Ontario City of,2022-04-15,City of Ontario,CA3610034,San Bernardino,South Coast,182871.0,Yes,2,Yes,2.0,883147448.2800001,94.9675,79.00165184695136
 Orange City of,2022-04-15,City of Orange,CA3010027,Orange,South Coast,140094.0,Yes,No Stage,No,0.0,680963419.8000001,91.6714,79.00165184695136
@@ -270,15 +270,15 @@ Park Water Company,2022-04-15,Park Water Company,"CA1910211,CA1910161,CA1910021"
 Pasadena City of,2022-04-15,City of Pasadena,CA1910124,Los Angeles,South Coast,170950.0,Yes,Level 2,Yes,2.0,684384855.3000001,82.3254,79.00165184695136
 Paso Robles City of,2022-04-15,City of Paso Robles,CA4010007,San Luis Obispo,Central Coast,31221.0,Yes,0,No,0.0,140644000.0,112.905,72.86894734017369
 Patterson City of,2022-04-15,City of Patterson,CA5010017,Stanislaus,San Joaquin River,23304.0,Yes,stage 1,No,1.0,94239154.0,101.098,103.22048600375238
-"Perris, City of",2022-04-15,City of Perris,"CA3310082,CA3310029",Riverside,South Coast,9000.0,Yes,none,No,0.0,0.0,0.0,76.63219163069733
+"Perris, City of",2022-04-15,City of Perris,"CA3310082,CA3310029",Riverside,South Coast,9000.0,Yes,none,No,0.0,0.0,0.0,79.00165184695136
 Petaluma City of,2022-04-15,City of Petaluma,CA4910006,Sonoma,San Francisco Bay,63505.0,Yes,4,Yes,3.0,154561008.136,55.9864,59.59732811907125
 Phelan Pinon Hills Community Services District,2022-04-15,Phelan Pinon Hills Community Services District,CA3610120,San Bernardino,South Lahontan,23585.0,Yes,1,No,0.0,77897940.06,74.8461,106.78195859389368
-Pico Rivera City of,2022-04-15,City of Pico Rivera,CA1910042,Los Angeles,South Coast,40605.0,Yes,1,Yes,0.0,0.0,0.0,76.63219163069733
+Pico Rivera City of,2022-04-15,City of Pico Rivera,CA1910042,Los Angeles,South Coast,40605.0,Yes,1,Yes,0.0,0.0,0.0,79.00165184695136
 Pico Water District,2022-04-15,Pico Water District,CA1910125,Los Angeles,South Coast,22051.0,Yes,0,Yes,0.0,70370781.96000001,51.0699,79.00165184695136
 Pinedale County Water District,2022-04-15,Pinedale County Water District,CA1010026,Fresno,Tulare Lake,16735.0,Yes,I,No,0.0,54730040.0,102.472,116.91850700785643
-Pismo Beach City of,2022-04-15,City of Pismo Beach,CA4010008,San Luis Obispo,Central Coast,8233.0,Yes,3rd of 4,Yes,,0.0,0.0,55.68167433203443
+Pismo Beach City of,2022-04-15,City of Pismo Beach,CA4010008,San Luis Obispo,Central Coast,8233.0,Yes,3rd of 4,Yes,,0.0,0.0,72.86894734017369
 Pittsburg City of,2022-04-15,City of Pittsburg,CA0710008,Contra Costa,San Francisco Bay,74498.0,Yes,2,Yes,2.0,226720000.0,70.9965,59.59732811907125
-Placer County Water Agency,2022-04-15,Placer County Water Agency,"CA3110005,CA3110025,CA3110006,CA3110024,CA3110040,CA3110050,CA3110124",Placer,Sacramento River,111916.0,Yes,2,No,2.0,0.0,0.0,97.86310521611395
+Placer County Water Agency,2022-04-15,Placer County Water Agency,"CA3110005,CA3110025,CA3110006,CA3110024,CA3110040,CA3110050,CA3110124",Placer,Sacramento River,111916.0,Yes,2,No,2.0,0.0,0.0,100.09637335012172
 Pleasanton City of,2022-04-15,City of Pleasanton,CA0110008,Alameda,San Francisco Bay,84317.0,Yes,2,Yes,2.0,309744200.0,75.6154,59.59732811907125
 Pomona City of,2022-04-15,City of Pomona,CA1910126,Los Angeles,South Coast,151713.0,Yes,1,Yes,1.0,471645861.228,72.5174,79.00165184695136
 Port Hueneme City of,2022-04-15,City of Port Hueneme,CA5610009,Ventura,South Coast,21555.0,Yes,2,No,2.0,52233915.3,56.9697,79.00165184695136
@@ -290,14 +290,14 @@ Ramona Municipal Water District,2022-04-15,Ramona Municipal Water District,CA371
 Rancho California Water District,2022-04-15,Rancho California Water District,CA3310038,Riverside,South Coast,152390.0,Yes,3b,Yes,2.0,943012794.0,185.645,79.00165184695136
 Red Bluff City of,2022-04-15,City of Red Bluff,CA5210004,Tehama,Sacramento River,14076.0,Yes,1,Yes,1.0,87843782.0,135.215,100.09637335012172
 Redding City of,2022-04-15,City of Redding,CA4510005,Shasta,Sacramento River,88235.0,Yes,1,No,1.0,509880000.0,122.344,100.09637335012172
-Redlands City of,2022-04-15,City of Redlands,CA3610037,San Bernardino,South Coast,78052.0,Yes,Stage 2,Yes,2.0,0.0,0.0,76.63219163069733
+Redlands City of,2022-04-15,City of Redlands,CA3610037,San Bernardino,South Coast,78052.0,Yes,Stage 2,Yes,2.0,0.0,0.0,79.00165184695136
 Redwood City City of,2022-04-15,City of Redwood City,CA4110022,San Mateo,San Francisco Bay,89037.0,Yes,2,Yes,2.0,223018238.864,55.3557,59.59732811907125
 Reedley City of,2022-04-15,City of Reedley,CA1010027,Fresno,Tulare Lake,25917.0,Yes,1,No,0.0,119630000.0,70.9959,116.91850700785643
 Rialto City of,2022-04-15,City of Rialto,CA3610038,San Bernardino,South Coast,54453.0,Yes,2,No,0.0,215671001.37,95.0752,79.00165184695136
 Rincon Del Diablo Municipal Water District,2022-04-15,Rincon Del Diablo Municipal Water District,"CA3710018,CA3710044",San Diego,South Coast,29955.0,Yes,Level 1,No,2.0,94366449.6,78.5503,79.00165184695136
 Rio Linda - Elverta Community Water District,2022-04-15,Rio Linda - Elverta Community Water District,CA3410018,Sacramento,Sacramento River,15345.0,Yes,2,Yes,2.0,57044990.0,109.542,100.09637335012172
 "Rio Vista, city of",2022-04-15,City of Rio Vista,CA4810004,Solano,Sacramento River,10006.0,Yes,2,No,2.0,57261000.0,133.529,100.09637335012172
-Ripon City of,2022-04-15,City of Ripon,CA3910007,San Joaquin,San Joaquin River,16613.0,Yes,Stage 1,No,0.0,0.0,0.0,92.14427605898702
+Ripon City of,2022-04-15,City of Ripon,CA3910007,San Joaquin,San Joaquin River,16613.0,Yes,Stage 1,No,0.0,0.0,0.0,103.22048600375238
 Riverbank City of,2022-04-15,City of Riverbank,CA5010018,Stanislaus,San Joaquin River,23734.0,Yes,2,No,0.0,116142000.0,146.805,103.22048600375238
 Riverside City of,2022-04-15,City of Riverside,CA3310031,Riverside,South Coast,307291.0,Yes,1,No,0.0,1707133389.0,107.368,79.00165184695136
 Riverside Highland Water Company,2022-04-15,Riverside Highland Water Company,CA3610057,"Riverside,San Bernardino",South Coast,21075.0,Yes,2,No,2.0,80651381.00999999,104.386,79.00165184695136
@@ -330,12 +330,12 @@ San Juan Capistrano City of,2022-04-15,City of San Juan Capistrano,CA3010030,Ora
 San Juan Water District,2022-04-15,San Juan Water District,CA3410021,"Placer,Sacramento",Sacramento River,28800.0,Yes,0,No,0.0,235023292.26,234.992,100.09637335012172
 San Lorenzo Valley Water District,2022-04-15,San Lorenzo Valley Water District,"CA4410014,CA4410002",Santa Cruz,Central Coast,26190.0,Yes,2,Yes,2.0,46616406.0,52.2113,72.86894734017369
 San Luis Obispo City of,2022-04-15,City of San Luis Obispo,CA4010009,San Luis Obispo,Central Coast,47653.0,Yes,Monitor,No,0.0,140767632.0,66.9577,72.86894734017369
-Sanger City of,2022-04-15,City of Sanger,CA1010029,Fresno,Tulare Lake,27185.0,Yes,3,Yes,3.0,0.0,0.0,93.35435262440458
+Sanger City of,2022-04-15,City of Sanger,CA1010029,Fresno,Tulare Lake,27185.0,Yes,3,Yes,3.0,0.0,0.0,116.91850700785643
 Santa Ana City of,2022-04-15,City of Santa Ana,CA3010038,Orange,South Coast,332005.0,Yes,Phase 1,No,0.0,880384231.8000001,59.2262,79.00165184695136
 Santa Barbara City of,2022-04-15,City of Santa Barbara,CA4210010,Santa Barbara,Central Coast,98420.0,Yes,Stage One,Yes,1.0,270469364.04,65.0356,72.86894734017369
 Santa Clara City of,2022-04-15,City of Santa Clara,CA4310012,Santa Clara,San Francisco Bay,130746.0,Yes,2,Yes,2.0,432600000.0,54.7545,59.59732811907125
-Santa Cruz City of,2022-04-15,City of Santa Cruz,CA4410010,Santa Cruz,Central Coast,87957.0,Yes,0,No,0.0,0.0,0.0,65.69801582290295
-Santa Fe Irrigation District,2022-04-15,Santa Fe Irrigation District,CA3710023,San Diego,South Coast,19839.0,Yes,1,No,1.0,0.0,0.0,76.63219163069733
+Santa Cruz City of,2022-04-15,City of Santa Cruz,CA4410010,Santa Cruz,Central Coast,87957.0,Yes,0,No,0.0,0.0,0.0,72.86894734017369
+Santa Fe Irrigation District,2022-04-15,Santa Fe Irrigation District,CA3710023,San Diego,South Coast,19839.0,Yes,1,No,1.0,0.0,0.0,79.00165184695136
 Santa Fe Springs City of,2022-04-15,City of Santa Fe Springs,CA1910245,Los Angeles,South Coast,18199.0,Yes,1,No,1.0,156463874.67,77.3492,79.00165184695136
 Santa Margarita Water District,2022-04-15,Santa Margarita Water District,CA3010101,Orange,South Coast,164170.0,Yes,2,Yes,2.0,640297215.0,95.9453,79.00165184695136
 Santa Maria City of,2022-04-15,City of Santa Maria,CA4210011,Santa Barbara,Central Coast,109910.0,Yes,1,No,1.0,298759747.86,58.2423,72.86894734017369
@@ -343,7 +343,7 @@ Santa Monica City of,2022-04-15,City of Santa Monica,CA1910146,Los Angeles,South
 Santa Paula City of,2022-04-15,City of Santa Paula,CA5610011,Ventura,South Coast,29558.0,Yes,2,No,0.0,108338940.48,96.7098,79.00165184695136
 Santa Rosa City of,2022-04-15,City of Santa Rosa,CA4910009,Sonoma,North Coast,175755.0,Yes,Stage 3- Mandatory 20% communitywide reduction,Yes,2.0,375267151.0,53.3793,55.46203083177454
 Scotts Valley Water District,2022-04-15,Scotts Valley Water District,CA4410013,Santa Cruz,Central Coast,10789.0,Yes,0,No,0.0,26838945.0,52.24,72.86894734017369
-Seal Beach City of,2022-04-15,City of Seal Beach,CA3010041,Orange,South Coast,25561.0,Yes,Phase 1,Yes,2.0,0.0,0.0,76.63219163069733
+Seal Beach City of,2022-04-15,City of Seal Beach,CA3010041,Orange,South Coast,25561.0,Yes,Phase 1,Yes,2.0,0.0,0.0,79.00165184695136
 Shafter City of,2022-04-15,City of Shafter,CA1510019,Kern,Tulare Lake,20500.0,Yes,3,No,3.0,123000000.0,132.0,116.91850700785643
 Shasta Lake City of,2022-04-15,City of Shasta Lake,CA4510006,Shasta,Sacramento River,10657.0,Yes,2,No,2.0,40437693.0,88.5377,100.09637335012172
 Sierra Madre City of,2022-04-15,City of Sierra Madre,CA1910148,Los Angeles,South Coast,11100.0,Yes,0,No,0.0,58314294.96,164.648,79.00165184695136
@@ -351,21 +351,21 @@ Signal Hill City of,2022-04-15,City of Signal Hill,CA1910149,Los Angeles,South C
 "Soledad, City of",2022-04-15,City of Soledad,CA2710011,Monterey,Central Coast,17309.0,Yes,1,No,1.0,55149500.0,86.0267,72.86894734017369
 Sonoma City of,2022-04-15,City of Sonoma,CA4910012,Sonoma,San Francisco Bay,11725.0,Yes,2,No,0.0,42576995.064,88.8317,59.59732811907125
 Soquel Creek Water District,2022-04-15,Soquel Creek Water District,CA4410017,Santa Cruz,Central Coast,40629.0,Yes,3,Yes,3.0,77626000.0,48.8912,72.86894734017369
-South Coast Water District,2022-04-15,South Coast Water District,CA3010042,Orange,South Coast,34462.0,Yes,Level 0 Water Supply Shortage,No,0.0,0.0,0.0,76.63219163069733
+South Coast Water District,2022-04-15,South Coast Water District,CA3010042,Orange,South Coast,34462.0,Yes,Level 0 Water Supply Shortage,No,0.0,0.0,0.0,79.00165184695136
 South Feather Water and Power Agency,2022-04-15,South Feather Water and Power Agency,"CA0410006,CA0410012",Butte,Sacramento River,16770.0,Yes,0,No,0.0,123380000.0,181.334,100.09637335012172
 South Gate City of,2022-04-15,City of South Gate,CA1910152,Los Angeles,South Coast,76443.0,Yes,Permanent ,Yes,0.0,212190912.69,58.275,79.00165184695136
-South Pasadena City of,2022-04-15,City of South Pasadena,CA1910154,Los Angeles,South Coast,25329.0,Yes,1,Yes,1.0,0.0,0.0,76.63219163069733
+South Pasadena City of,2022-04-15,City of South Pasadena,CA1910154,Los Angeles,South Coast,25329.0,Yes,1,Yes,1.0,0.0,0.0,79.00165184695136
 South Tahoe Public Utilities District,2022-04-15,South Tahoe Public Utilities District,CA0910002,El Dorado,North Lahontan,33120.0,Yes,1,Yes,0.0,88876000.0,43.8909,55.1218849344412
 Stockton City of,2022-04-15,City of Stockton,CA3910012,San Joaquin,San Joaquin River,184402.0,Yes,1,No,1.0,842820000.0,89.9068,103.22048600375238
 Suburban Water Systems San Jose Hills,2022-04-15,Suburban Water Systems San Jose Hills,"CA1910205,CA1910046,CA1910200",Los Angeles,South Coast,175529.0,Yes,Level 1,No,1.0,602130287.37,84.2904,79.00165184695136
 Suburban Water Systems Whittier/La Mirada,2022-04-15,Suburban Water Systems Whittier/La Mirada,"CA1910059,CA1910174",Los Angeles,South Coast,122838.0,Yes,Level 1,No,1.0,503680924.74,88.788,79.00165184695136
-Suisun-Solano Water Authority,2022-04-15,Suisun-Solano Water Authority,CA4810005,Solano,San Francisco Bay,29917.0,No,2,No,,0.0,0.0,48.242473446883075
+Suisun-Solano Water Authority,2022-04-15,Suisun-Solano Water Authority,CA4810005,Solano,San Francisco Bay,29917.0,No,2,No,,0.0,0.0,59.59732811907125
 Sunny Slope Water Company,2022-04-15,Sunny Slope Water Company,CA1910157,Los Angeles,South Coast,25252.0,Yes,2,No,2.0,88778063.308,100.431,79.00165184695136
 Sunnyslope County Water District,2022-04-15,Sunnyslope County Water District,CA3510003,San Benito,Central Coast,24416.0,Yes,2,Yes,2.0,58741936.0,68.5675,72.86894734017369
 Sunnyvale City of,2022-04-15,City of Sunnyvale,CA4310014,Santa Clara,San Francisco Bay,156234.0,Yes,Stage 2,Yes,2.0,499637113.83,67.975,59.59732811907125
 Susanville City of,2022-04-15,City of Susanville,CA1810001,Lassen,North Lahontan,7811.0,Yes,None,No,0.0,31470000.0,99.7614,55.1218849344412
 Sweetwater Authority,2022-04-15,Sweetwater Authority,CA3710025,San Diego,South Coast,189719.0,Yes,Level 1,No,1.0,446709135.9,55.9569,79.00165184695136
-Sweetwater Springs Water District,2022-04-15,Sweetwater Springs Water District,"CA4910004,CA4910028",Sonoma,North Coast,7992.0,Yes,Stage I,Yes,0.0,0.0,0.0,52.471316995968195
+Sweetwater Springs Water District,2022-04-15,Sweetwater Springs Water District,"CA4910004,CA4910028",Sonoma,North Coast,7992.0,Yes,Stage I,Yes,0.0,0.0,0.0,55.46203083177454
 Tahoe City Public Utilities District,2022-04-15,Tahoe City Public Utilities District,"CA0910012,CA3110010,CA3110011,CA3110044","El Dorado,Placer",North Lahontan,5883.0,Yes,2,Yes,2.0,11312338.0,39.1628,55.1218849344412
 "Tehachapi, City of",2022-04-15,City of Tehachapi,CA1510020,Kern,Tulare Lake,9094.0,Yes,2,No,0.0,45330110.163,102.932,116.91850700785643
 Thermalito Water and Sewer District,2022-04-15,Thermalito Water and Sewer District,CA0410008,Butte,Sacramento River,10339.0,Yes,First,No,1.0,45844187.28752001,115.524,100.09637335012172
@@ -378,12 +378,12 @@ Truckee-Donner Public Utilities District,2022-04-15,Truckee-Donner Public Utilit
 "Tulare, City of",2022-04-15,City of Tulare,CA5410015,Tulare,Tulare Lake,69162.0,Yes,3,No,2.0,423700000.0,102.176,116.91850700785643
 Tuolumne Utilities District,2022-04-15,Tuolumne Utilities District,"CA5510001,CA5510012,CA5500363,CA5510002,CA5510003,CA5510013,CA5510015,CA5510021,CA5510025,CA5510028,CA5510033",Tuolumne,San Joaquin River,34278.0,Yes,Phase II,No,0.0,96451896.0,52.5246,103.22048600375238
 Turlock City of,2022-04-15,City of Turlock,CA5010019,Stanislaus,San Joaquin River,74820.0,Yes,2,Yes,2.0,491099000.0,112.786,103.22048600375238
-Tustin City of,2022-04-15,City of Tustin,CA3010046,Orange,South Coast,66600.0,Yes,Permanent ,No,1.0,0.0,0.0,76.63219163069733
-Twentynine Palms Water District,2022-04-15,Twentynine Palms Water District,CA3610049,San Bernardino,Colorado River,18795.0,No,0,No,,0.0,0.0,147.694090341042
+Tustin City of,2022-04-15,City of Tustin,CA3010046,Orange,South Coast,66600.0,Yes,Permanent ,No,1.0,0.0,0.0,79.00165184695136
+Twentynine Palms Water District,2022-04-15,Twentynine Palms Water District,CA3610049,San Bernardino,Colorado River,18795.0,No,0,No,,0.0,0.0,198.41697203413875
 Ukiah City of,2022-04-15,City of Ukiah,CA2310003,Mendocino,North Coast,16075.0,Yes,0,No,0.0,59241000.0,69.6133,55.46203083177454
 Upland City of,2022-04-15,City of Upland,CA3610050,San Bernardino,South Coast,78383.0,Yes,HIGH,Yes,5.0,468617923.452,139.5,79.00165184695136
 Vacaville City of,2022-04-15,City of Vacaville,CA4810008,Solano,Sacramento River,97198.0,Yes,none,No,0.0,432078426.0,101.354,100.09637335012172
-Valencia Water Company,2022-04-15,Valencia Water Company,CA1910240,Los Angeles,South Coast,105247.0,Yes,Stage 1,No,1.0,0.0,0.0,76.63219163069733
+Valencia Water Company,2022-04-15,Valencia Water Company,CA1910240,Los Angeles,South Coast,105247.0,Yes,Stage 1,No,1.0,0.0,0.0,79.00165184695136
 Vallecitos Water District,2022-04-15,Vallecitos Water District,CA3710002,San Diego,South Coast,111125.0,Yes,2,Yes,2.0,361662024.9,71.2812,79.00165184695136
 Vallejo City of,2022-04-15,City of Vallejo,"CA4810007,CA4810021",Solano,San Francisco Bay,124000.0,Yes,stage II,No,1.0,400943000.0,61.4435,59.59732811907125
 Valley Center Municipal Water District,2022-04-15,Valley Center Municipal Water District,CA3710026,San Diego,South Coast,29708.0,Yes,first,Yes,1.0,155235416.4,53.4282,79.00165184695136
@@ -397,18 +397,18 @@ Vernon City of,2022-04-15,City of Vernon,CA1910167,Los Angeles,South Coast,112.0
 Victorville Water District,2022-04-15,Victorville Water District,CA3610052,San Bernardino,South Lahontan,129966.0,Yes,2,No,2.0,579363078.0,147.554,106.78195859389368
 Vista Irrigation District,2022-04-15,Vista Irrigation District,CA3710027,San Diego,South Coast,132838.0,Yes,1,No,1.0,449250773.7,75.276,79.00165184695136
 Walnut Valley Water District,2022-04-15,Walnut Valley Water District,CA1910234,Los Angeles,South Coast,100461.0,Yes,Stage 2,Yes,2.0,421307421.195,117.43,79.00165184695136
-Wasco City of,2022-04-15,City of Wasco,CA1510021,Kern,Tulare Lake,22690.0,No,Third ,No,,0.0,0.0,77.97793360311817
+Wasco City of,2022-04-15,City of Wasco,CA1510021,Kern,Tulare Lake,22690.0,No,Third ,No,,0.0,0.0,116.91850700785643
 Watsonville City of,2022-04-15,City of Watsonville,CA4410011,Santa Cruz,Central Coast,65231.0,Yes,Stage 1,No,1.0,171394582.0,58.6809,72.86894734017369
 West Kern Water District,2022-04-15,West Kern Water District,CA1510022,Kern,Tulare Lake,22113.0,Yes,1,Yes,1.0,332514652.95,70.1421,116.91850700785643
 West Sacramento City of,2022-04-15,City of West Sacramento,CA5710003,Yolo,Sacramento River,53335.0,Yes,1,Yes,2.0,257042999.436,83.0557,100.09637335012172
 West Valley Water District,2022-04-15,West Valley Water District,CA3610004,"Riverside,San Bernardino",South Coast,96932.0,Yes,2,Yes,0.0,532440534.0,120.845,79.00165184695136
 Westborough Water District,2022-04-15,Westborough Water District,CA4110027,San Mateo,San Francisco Bay,13486.0,Yes,2,Yes,2.0,20985102.756,42.1694,59.59732811907125
 Western Municipal Water District of Riverside,2022-04-15,Western Municipal Water District of Riverside,"CA3310049,CA3310076,CA3310036",Riverside,South Coast,101585.0,Yes,Stage 2,No,2.0,765081855.4499999,178.248,79.00165184695136
-Westminster City of,2022-04-15,City of Westminster,CA3010064,Orange,South Coast,96179.0,Yes,Level 1 ,Yes,0.0,0.0,0.0,76.63219163069733
+Westminster City of,2022-04-15,City of Westminster,CA3010064,Orange,South Coast,96179.0,Yes,Level 1 ,Yes,0.0,0.0,0.0,79.00165184695136
 Whittier City of,2022-04-15,City of Whittier,CA1910173,Los Angeles,South Coast,49954.0,Yes,na,No,0.0,181547884.65,87.1999,79.00165184695136
 "Windsor, Town of",2022-04-15,Town of Windsor,CA4910017,Sonoma,North Coast,28397.0,Yes,2,Yes,2.0,68168029.2,53.5608,55.46203083177454
 Woodland City of,2022-04-15,City of Woodland,CA5710006,Yolo,Sacramento River,60978.0,Yes,None,No,0.0,228505991.0,79.6687,100.09637335012172
 Yorba Linda Water District,2022-04-15,Yorba Linda Water District,CA3010037,Orange,South Coast,80540.0,Yes,0,No,0.0,516151242.51,130.308,79.00165184695136
-"Yreka, City of",2022-04-15,City of Yreka,CA4710011,Siskiyou,North Coast,7786.0,No,1,No,,0.0,0.0,51.804221516501194
+"Yreka, City of",2022-04-15,City of Yreka,CA4710011,Siskiyou,North Coast,7786.0,No,1,No,,0.0,0.0,55.46203083177454
 Yuba City City of,2022-04-15,City of Yuba City,CA5110002,Sutter,Sacramento River,71922.0,Yes,Stage 3,Yes,3.0,360440000.0,110.119,100.09637335012172
 Yucaipa Valley Water District,2022-04-15,Yucaipa Valley Water District,CA3610055,"Riverside,San Bernardino",South Coast,51801.0,Yes,2,No,2.0,283300000.0,158.433,79.00165184695136
