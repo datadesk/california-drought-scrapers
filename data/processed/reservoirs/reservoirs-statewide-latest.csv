@@ -1,2 +1,2 @@
 reservoir_id,reservoir_name,number_of_dams,date,storage_af,average_storage,capacity,current_level_pct_of_total,average_level_pct_of_total,current_level_pct_of_avg
-SWV,Statewide,154,2023-01-15,20500000,22749071.0,38121900,0.5377486431683626,0.5967454665166216,0.9011356991237137
+SWV,Statewide,154,2023-01-16,20900000,22749071.0,38121900,0.5482412996204281,0.5967454665166216,0.9187188347163715
