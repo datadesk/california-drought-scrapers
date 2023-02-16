@@ -2,7 +2,7 @@ name: Scrape U.S. Drought Monitor
 
 on:
   schedule:
-    - cron: "0 13 * * 4" # set to run every Thursday at 6 a.m. PST (USDM publishes new data Thursdays at 5:30 a.m.)
+    - cron: "30 13 * * 4" # set to run every Thursday at 6:30 a.m. PST (USDM publishes new data Thursdays at 5:30 a.m.)
   workflow_dispatch:
 
 jobs:
