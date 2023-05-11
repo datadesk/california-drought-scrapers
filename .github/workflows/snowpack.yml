@@ -1,4 +1,4 @@
-name: Scrape DWR snowpack data
+name: Download daily snowpack data
 
 on:
   schedule:
