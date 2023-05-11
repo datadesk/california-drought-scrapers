@@ -13,12 +13,12 @@ regex = "*"
 openpyxl = "*"
 requests = "*"
 pytz = "*"
-DateTime = "*"
 install = "*"
 vega-datasets = "*"
 imagecolor = "*"
 python-slugify = "*"
 lxml = "*"
+datetime = "*"
 
 [dev-packages]
 

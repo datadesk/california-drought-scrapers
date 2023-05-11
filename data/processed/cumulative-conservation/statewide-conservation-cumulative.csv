@@ -1,2 +1,2 @@
-state,total_gallons_current,total_gallons_baseline,total_reports,cumulative_pct_change,date,months_since,days_since,gallons_saved_per_month,gallons_saved_per_day
-California,2624540696253.0,2795481737619.0,339,-0.061,2023-01-15,18,549,8.811222491736428,0.2888925407126698
+state,total_gallons_current,total_gallons_baseline,total_reports,cumulative_pct_change,date
+California,2692169087845.0,2881428706590.0,332,-0.066,2023-02-15
