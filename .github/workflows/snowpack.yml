@@ -2,7 +2,7 @@ name: Download daily snowpack data
 
 on:
   schedule:
-    - cron: "0 11 * * *" # set to run every day at 4 a.m. PST
+    - cron: "0 12 * * *" # set to run every day at 5 a.m. PST
   workflow_dispatch:
 
 jobs:
