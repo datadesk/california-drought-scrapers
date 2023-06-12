@@ -19,6 +19,7 @@ imagecolor = "*"
 python-slugify = "*"
 lxml = "*"
 datetime = "*"
+pygsheets = "*"
 
 [dev-packages]
 
