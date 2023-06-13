@@ -1,0 +1,32 @@
+name: Download daily precipitation data
+
+on:
+  schedule:
+    - cron: "0 12 * * *" # set to run every day at 5 a.m. PST
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Install pipenv
+      run: pipx install pipenv
+    - uses: actions/setup-python@v2
+      with:
+        python-version: '3.9'
+        cache: 'pipenv'
+    - run: pipenv install
+    - name: Install requirements
+      run: pipenv install -r requirements.txt    
+    - name: Run total scraper
+      run: pipenv run jupyter execute processors/precipitation/precipitation.ipynb  
+    - name: Add and commit
+      id: add_commit
+      uses: EndBug/add-and-commit@v8
+      with:
+        committer_name: Automated
+        committer_email: actions@users.noreply.github.com
+        message: "Latest precipitation data"
+    - name: Push
+      run: git push
