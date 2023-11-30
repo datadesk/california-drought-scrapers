@@ -1,2 +1,2 @@
 reservoir_id,reservoir_name,date,storage_af,historical_average,total_capacity,current_level_pct_of_total,average_level_pct_of_total,current_level_pct_of_avg,lat,lon
-PWL,Lake Powell,2023-11-27,8642988.23,15250493,24322000.0,0.35535680577255163,0.627024627908889,0.5667350052224541,36.937000°,-111.493000°
+PWL,Lake Powell,2023-11-28,8638422.41,15250493,24322000.0,0.3551690819011595,0.627024627908889,0.5664356168682547,36.937000°,-111.493000°
