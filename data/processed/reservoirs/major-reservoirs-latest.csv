@@ -1,2 +1,2 @@
 reservoir_id,reservoir_name,date,storage_af,historical_average,total_capacity,current_level_pct_of_total,average_level_pct_of_total,current_level_pct_of_avg,lat,lon
-ALM,Lake Almanor,2024-01-09,891597.0,809445,1308000.0,0.6816490825688073,0.6188417431192661,1.1014917628745622,40.218000°,-121.173000°
+ALM,Lake Almanor,2024-01-10,893821.0,809445,1308000.0,0.6833493883792049,0.6188417431192661,1.104239324475412,40.218000°,-121.173000°
