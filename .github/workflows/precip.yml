@@ -2,7 +2,7 @@ name: Download daily precipitation data
 
 on:
   schedule:
-    - cron: "0 14 * * *" # set to run every day at 7 a.m. PST
+    - cron: "15 20 * * *" # set to run every day at 12:15 p.m. PST
   workflow_dispatch:
 
 jobs:
