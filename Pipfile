@@ -19,6 +19,7 @@ lxml = "*"
 datetime = "*"
 install = "*"
 importlib-resources = "*"
+ipython = "*"
 
 [dev-packages]
 
