@@ -9,10 +9,12 @@ jobs:
   scrape:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - name: Install pipenv
-      run: pipx install pipenv
-    - uses: actions/setup-python@v2
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - id: setup-python
+      name: Setup Python
+      uses: actions/setup-python@v2
       with:
         python-version: '3.8'
         cache: 'pipenv'
