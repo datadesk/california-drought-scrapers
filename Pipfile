@@ -13,15 +13,15 @@ regex = "*"
 openpyxl = "*"
 requests = "*"
 pytz = "*"
+install = "*"
+vega-datasets = "*"
 imagecolor = "*"
 python-slugify = "*"
 lxml = "*"
 datetime = "*"
-install = "*"
-importlib-resources = "*"
-ipython = "*"
+pygsheets = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.8"
+python_version = "3.9"
