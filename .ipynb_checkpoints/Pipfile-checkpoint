@@ -13,9 +13,12 @@ regex = "*"
 openpyxl = "*"
 requests = "*"
 pytz = "*"
-DateTime = "*"
+imagecolor = "*"
+python-slugify = "*"
+lxml = "*"
+datetime = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.9"
+python_version = "3.8"
