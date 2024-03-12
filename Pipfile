@@ -17,6 +17,8 @@ imagecolor = "*"
 python-slugify = "*"
 lxml = "*"
 datetime = "*"
+install = "*"
+importlib-resources = "*"
 
 [dev-packages]
 
