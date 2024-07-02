@@ -20,9 +20,9 @@ jobs:
     - name: Install requirements
       run: pipenv install -r requirements.txt    
     - name: Run total scraper
-      run: pipenv run jupyter execute processors/precipitation/precipitation.ipynb  
+      run: pipenv run jupyter execute precipitation/precipitation.ipynb  
     - name: Run daily scraper
-      run: pipenv run jupyter execute processors/precipitation/daily-precipitation.ipynb        
+      run: pipenv run jupyter execute precipitation/daily-precipitation.ipynb        
     - name: Add and commit
       id: add_commit
       uses: EndBug/add-and-commit@v8
