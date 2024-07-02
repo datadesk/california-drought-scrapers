@@ -20,7 +20,7 @@ jobs:
     - name: Install requirements
       run: pipenv install -r requirements.txt    
     - name: Run total scraper
-      run: pipenv run jupyter execute downloaders/drought-monitor/drought-monitor.ipynb  
+      run: pipenv run jupyter execute drought-monitor/drought-monitor.ipynb  
     - name: Add and commit
       id: add_commit
       uses: EndBug/add-and-commit@v8
