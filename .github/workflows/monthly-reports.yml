@@ -16,13 +16,15 @@ jobs:
         cache: 'pipenv'
     - run: pipenv install
     - name: Install requirements
-      run: pipenv install -r requirements.txt    
-    - name: Run scraper
-      run: pipenv run jupyter execute downloaders/use-conservation/uw-monthly-reports.ipynb
-    - name: Parse monthly reports
-      run: pipenv run jupyter execute processors/use-conservation/1-parse-uw-monthly-reports.ipynb      
-    - name: R-GPCD
-      run: pipenv run jupyter execute processors/use-conservation/2-r-gpcd.ipynb
+      run: pipenv install -r requirements.txt  
+    - name: Process data
+      run: make urban-water-use
+    # - name: Run scraper
+    #   run: pipenv run jupyter execute downloaders/use-conservation/uw-monthly-reports.ipynb
+    # - name: Parse monthly reports
+    #   run: pipenv run jupyter execute processors/use-conservation/1-parse-uw-monthly-reports.ipynb      
+    # - name: R-GPCD
+    #   run: pipenv run jupyter execute processors/use-conservation/2-r-gpcd.ipynb
 #     - name: Calculate monthly percent changes
 #       run: pipenv run jupyter execute processors/use-conservation/3-conservation-progress.ipynb
 #     - name: Process drought response actions data
