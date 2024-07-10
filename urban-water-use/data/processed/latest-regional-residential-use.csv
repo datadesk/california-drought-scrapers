@@ -1,4 +1,4 @@
-reporting_month,hydro_region,total_pop,total_gallons,pop_weighted_rgpcd
+reporting_month,hydro_region,total_pop,total_gallons,region_pop_weighted_rgpcd
 2024-04-01,Central Coast,1240354.0,3125410201.65,50.9764849954126
 2024-04-01,Colorado River,708039.0,4843574305.96,133.7394596907797
 2024-04-01,North Coast,396555.0,981926142.45,48.74751272837312

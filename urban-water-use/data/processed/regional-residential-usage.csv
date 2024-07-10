@@ -1,4 +1,4 @@
-reporting_month,hydro_region,total_pop,total_gallons,pop_weighted_rgpcd
+reporting_month,hydro_region,total_pop,total_gallons,region_pop_weighted_rgpcd
 2014-06-01,Central Coast,1142972.0,5291035733.52,99.89424066381328
 2014-06-01,Colorado River,753033.0,7206260587.54,221.8093156475214
 2014-06-01,North Coast,368270.0,1517738112.0,88.28858652619003
