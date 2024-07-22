@@ -4,3 +4,4 @@ datetime
 pandas
 lxml
 altair
+altair_latimes
