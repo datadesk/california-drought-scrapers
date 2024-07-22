@@ -4,36 +4,21 @@ on:
   workflow_dispatch:
 
 jobs:
-  scrape:
+  get:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
-    - uses: actions/setup-python@v4
-      with:
-        python-version: '3.9'
-        cache: 'pipenv'
-    - name: Install pipenv
-      run: curl https://raw.githubusercontent.com/pypa/pipenv/master/get-pipenv.py | python
-    - name: Install dependencies
-      run: pipenv install
-    - name: Process data
-      run: make urban-water-use
-    # - name: Run scraper
-    #   run: pipenv run jupyter execute downloaders/use-conservation/uw-monthly-reports.ipynb
-    # - name: Parse monthly reports
-    #   run: pipenv run jupyter execute processors/use-conservation/1-parse-uw-monthly-reports.ipynb      
-    # - name: R-GPCD
-    #   run: pipenv run jupyter execute processors/use-conservation/2-r-gpcd.ipynb
-#     - name: Calculate monthly percent changes
-#       run: pipenv run jupyter execute processors/use-conservation/3-conservation-progress.ipynb
-#     - name: Process drought response actions data
-#       run: pipenv run jupyter execute processors/use-conservation/4-drought-response.ipynb      
-    - name: Add and commit
-      id: add_commit
-      uses: EndBug/add-and-commit@v8
-      with:
-        committer_name: Automated
-        committer_email: actions@users.noreply.github.com
-        message: "Latest water conservation data"
-    - name: Push
-      run: git push
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+          cache: 'pipenv'
+      - name: Install pipenv
+        run: curl https://raw.githubusercontent.com/pypa/pipenv/master/get-pipenv.py | python
+      - name: Install dependencies
+        run: pipenv install
+      - name: Download and process data
+        run: make urbanwateruse
+      - name: Add and commit 
+        uses: EndBug/add-and-commit@v8
+        with:
+          message: 'New files data added'
