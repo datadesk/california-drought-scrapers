@@ -16,12 +16,12 @@ jobs:
       run: curl https://raw.githubusercontent.com/pypa/pipenv/master/get-pipenv.py | python
     - name: Install dependencies
       run: pipenv install
-    - name: Process data
-      run: make urban-water-use
-    # - name: Run scraper
-    #   run: pipenv run jupyter execute downloaders/use-conservation/uw-monthly-reports.ipynb
-    # - name: Parse monthly reports
-    #   run: pipenv run jupyter execute processors/use-conservation/1-parse-uw-monthly-reports.ipynb      
+    # - name: Process data
+      # run: make urban-water-use
+    - name: Run scraper
+      run: pipenv run jupyter execute downloaders/urban-water-use/scrape.py
+    - name: Process
+      run: pipenv run jupyter execute processors/use-conservation/r-gpcd.ipynb
     # - name: R-GPCD
     #   run: pipenv run jupyter execute processors/use-conservation/2-r-gpcd.ipynb
 #     - name: Calculate monthly percent changes
