@@ -4,28 +4,25 @@ on:
   workflow_dispatch:
 
 jobs:
-  scrape:
+  get:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - name: Install pipenv
-      run: pipx install pipenv
-    - uses: actions/setup-python@v2
-      with:
-        python-version: '3.9'
-        cache: 'pipenv'
-    - run: pipenv install
-    - name: Install requirements
-      run: pipenv install -r requirements.txt
-    # - name: Process data
-      # run: make urban-water-use
-    - name: Run scraper
-      run: python urban-water-use/scrape.py
-    - name: Process
-      run: pipenv run jupyter execute urban-water-use/r-gpcd.ipynb  
-    - name: Add and commit
-      id: add_commit
-      uses: EndBug/add-and-commit@v8
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+          cache: 'pipenv'
+      - name: Install pipenv
+        run: curl https://raw.githubusercontent.com/pypa/pipenv/master/get-pipenv.py | python
+      - name: Install dependencies
+        run: pipenv install
+      - name: Run scraper
+        run: python urban-water-use/scrape.py
+      - name: Process
+        run: pipenv run jupyter execute urban-water-use/r-gpcd.ipynb  
+      - name: Add and commit
+        id: add_commit
+        uses: EndBug/add-and-commit@v8
       with:
         committer_name: Automated
         committer_email: actions@users.noreply.github.com
