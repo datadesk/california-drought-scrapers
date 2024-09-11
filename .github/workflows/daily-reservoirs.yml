@@ -9,16 +9,15 @@ jobs:
   scrape:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - name: Install pipenv
-      run: pipx install pipenv
-    - uses: actions/setup-python@v2
+    - uses: actions/checkout@v3
+    - uses: actions/setup-python@v4
       with:
         python-version: '3.9'
         cache: 'pipenv'
-    - run: pipenv install
-    - name: Install requirements
-      run: pipenv install -r requirements.txt    
+    - name: Install pipenv
+      run: curl https://raw.githubusercontent.com/pypa/pipenv/master/get-pipenv.py | python
+    - name: Install dependencies
+      run: pipenv install --skip-lock
     - name: Get data
       run: make reservoirs
     # - name: Run statewide scraper
@@ -33,12 +32,7 @@ jobs:
     #   run: pipenv run jupyter execute reservoirs/process/02-dwr.ipynb
     # - name: Process BoR data
     #   run: pipenv run jupyter execute reservoirs/process/03-colorado.ipynb      
-    - name: Add and commit
-      id: add_commit
-      uses: EndBug/add-and-commit@v8
+    - name: Add and commit 
+      uses: EndBug/add-and-commit@v9
       with:
-        committer_name: Automated
-        committer_email: actions@users.noreply.github.com
-        message: "Latest reservoir data"
-    - name: Push
-      run: git push
+        message: 'Latest reservoir data'
