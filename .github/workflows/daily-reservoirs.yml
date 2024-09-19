@@ -19,20 +19,18 @@ jobs:
     - run: pipenv install
     - name: Install requirements
       run: pipenv install -r requirements.txt    
-    - name: Get data
-      run: make reservoirs
-    # - name: Run statewide scraper
-    #   run: pipenv run jupyter execute reservoirs/download/01-statewide.ipynb
-    # - name: Run DWR scraper
-    #   run: pipenv run jupyter execute reservoirs/download/02-dwr.ipynb  
-    # - name: Run BoR scraper
-    #   run: pipenv run jupyter execute reservoirs/download/03-colorado-bor.ipynb
-    # - name: Process statewide reservoirs
-    #   run: pipenv run jupyter execute reservoirs/process/01-statewide.ipynb
-    # - name: Process DWR data
-    #   run: pipenv run jupyter execute reservoirs/process/02-dwr.ipynb
-    # - name: Process BoR data
-    #   run: pipenv run jupyter execute reservoirs/process/03-colorado.ipynb      
+    - name: Run statewide scraper
+      run: pipenv run jupyter execute reservoirs/download/01-statewide.ipynb
+    - name: Run DWR scraper
+      run: pipenv run jupyter execute reservoirs/download/02-dwr.ipynb  
+    - name: Run BoR scraper
+      run: pipenv run jupyter execute reservoirs/download/03-colorado-bor.ipynb
+    - name: Process statewide reservoirs
+      run: pipenv run jupyter execute reservoirs/process/01-statewide.ipynb
+    - name: Process DWR data
+      run: pipenv run jupyter execute reservoirs/process/02-dwr.ipynb
+    - name: Process BoR data
+      run: pipenv run jupyter execute reservoirs/process/03-colorado.ipynb      
     - name: Add and commit
       id: add_commit
       uses: EndBug/add-and-commit@v8
