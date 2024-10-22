@@ -5,18 +5,18 @@ name = "pypi"
 
 [packages]
 jupyterlab = "*"
-pandas = "*"
 numpy = "*"
-altair = "*"
-altair-latimes = "*"
 regex = "*"
 openpyxl = "*"
+python-slugify = "*"
+pygsheets = "*"
 requests = "*"
 pytz = "*"
-python-slugify = "*"
-lxml = "*"
 datetime = "*"
-pygsheets = "*"
+pandas = "*"
+lxml = "*"
+altair = "*"
+altair-latimes = "*"
 
 [dev-packages]
 
