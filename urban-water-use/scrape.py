@@ -14,11 +14,10 @@ DATA_DIR = THIS_DIR / "data"
 
 def main():
     """
-    Download and export as CSV
+    Download the Tableau export as a CSV.
     """
-    
-    # Request data from URL
-    url = "https://data.chhs.ca.gov/dataset/e283ee5a-cf18-4f20-a92c-ee94a2866ccd/resource/130d7ba2-b6eb-438d-a412-741bde207e1c/download/covid19vaccinesbycounty.csv"
+    # Download the data
+    url = "https://data.ca.gov/dataset/c69ac02b-adfb-459a-bc58-bf69a8b572d2/resource/f4d50112-5fb5-4066-b45c-44696b10a49e/download/monthly_combined_dataset.csv"
     headers={'User-Agent': 'Mozilla/5.0'}
     response = re.get(url, headers=headers)
     response_str = response.text
@@ -34,7 +33,6 @@ def main():
     
     # Save it to the data folder
     df.to_csv(DATA_DIR / "latest.csv", index=False)
-
 
 if __name__ == '__main__':
     main()
