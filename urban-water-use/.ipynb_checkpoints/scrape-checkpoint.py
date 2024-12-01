@@ -23,7 +23,7 @@ def main():
     data = response.json()
     
     # Make dataframe
-    cols = [item['id'] for item in data['fields']]
+    cols = [item['id'].lower() for item in data['fields']]
     df = pd.DataFrame(data['records'], columns = cols)
     
     # Save it to the data folder
