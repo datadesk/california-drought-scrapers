@@ -37,7 +37,7 @@ def main():
     
     json_object = json.dumps({'last_updated': last_updated}, indent=4)
     
-    with open("data/ping.json", "w") as outfile:
+    with open(DATA_DIR / "ping.json", "w") as outfile:
         outfile.write(json_object)
 
 
