@@ -8,7 +8,6 @@ import json
 import pathlib
 import requests as re
 from bs4 import BeautifulSoup
-from zoneinfo import ZoneInfo
 from datetime import datetime
 
 # Pathing
@@ -37,13 +36,9 @@ def main():
 
     # Format date
     utc_datetime = datetime.strptime(date_string, "%Y-%m-%dT%H:%M:%S%z")
-    local_timezone = ZoneInfo("America/Los_Angeles")
-    local_datetime = utc_datetime.astimezone(local_timezone)
-    formatted_date = local_datetime.strftime("%Y-%m-%d")
     
     # Write date to JSON file
-    
-    json_object = json.dumps({'last_updated': formatted_date}, indent=None)
+    json_object = json.dumps({'last_updated': utc_datetime}, indent=None, default=str)
     
     with open(DATA_DIR / "ping.json", "w") as outfile:
         outfile.write(json_object)
