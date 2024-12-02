@@ -2,7 +2,7 @@ name: Download & process urban water data
 
 on:
   schedule:
-  - cron: 5 4 * * * # every day around 8 p.m. Pacific
+  - cron: 35 7 * * * # every day around 7:35 p.m. Pacific
   workflow_dispatch:
 
 jobs:
