@@ -35,7 +35,7 @@ def main():
     
     # Write date to JSON file
     
-    json_object = json.dumps({'last_updated': last_updated}, indent=0)
+    json_object = json.dumps({'last_updated': last_updated}, indent=None)
     
     with open(DATA_DIR / "ping.json", "w") as outfile:
         outfile.write(json_object)
