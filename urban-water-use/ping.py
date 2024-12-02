@@ -8,6 +8,8 @@ import json
 import pathlib
 import requests as re
 from bs4 import BeautifulSoup
+from zoneinfo import ZoneInfo
+from datetime import datetime
 
 # Pathing
 THIS_DIR = pathlib.Path(__file__).parent.absolute()
@@ -26,16 +28,22 @@ def main():
         attrs={'summary':'metadata about the dataset'}
     )
     
-    last_updated = table.find('th', string='Last Updated')\
+    date_string = table.find('th', string='Last Updated')\
         .find_next_sibling('td')\
         .find(
             'span',
             attrs={'data-datetime': True}
         )['data-datetime']
+
+    # Format date
+    utc_datetime = datetime.strptime(date_string, "%Y-%m-%dT%H:%M:%S%z")
+    local_timezone = ZoneInfo("America/Los_Angeles")
+    local_datetime = utc_datetime.astimezone(local_timezone)
+    formatted_date = local_datetime.strftime("%Y-%m-%d")
     
     # Write date to JSON file
     
-    json_object = json.dumps({'last_updated': last_updated}, indent=None)
+    json_object = json.dumps({'last_updated': formatted_date}, indent=None)
     
     with open(DATA_DIR / "ping.json", "w") as outfile:
         outfile.write(json_object)
