@@ -18,7 +18,7 @@ def main():
     # Get HTML
     url = 'https://data.ca.gov/dataset/urws-conservation-supply-demand'
     r = re.get(url)
-    soup = BeautifulSoup(r.content)
+    soup = BeautifulSoup(r.content, features="lxml")
 
     # Parse table to find "Last Updated" row
     table = soup.find(
@@ -35,7 +35,7 @@ def main():
     
     # Write date to JSON file
     
-    json_object = json.dumps({'last_updated': last_updated}, indent=4)
+    json_object = json.dumps({'last_updated': last_updated}, indent=0)
     
     with open(DATA_DIR / "ping.json", "w") as outfile:
         outfile.write(json_object)
