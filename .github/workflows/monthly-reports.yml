@@ -26,7 +26,7 @@ jobs:
           if [ -n "$(git status --porcelain urban-water-use/data/ping.json)" ]; then
             echo "Update date has changed";
             echo "::set-output name=file_change::true"
-            break
+            # break
           else
           echo "No change"
           echo "::set-output name=file_change::false"
@@ -36,13 +36,13 @@ jobs:
           message: 'New data added'
           add: '*.json'      
       - name: Run scraper
-        if: needs.check_file.outputs.file_change == 'true'
+        if: steps.check_file.outputs.file_change == 'true'
         run: pipenv run python urban-water-use/scrape.py
       - name: Process data
-        if: needs.check_file.outputs.file_change == 'true'
+        if: steps.check_file.outputs.file_change == 'true'
         run: pipenv run jupyter execute urban-water-use/r-gpcd.ipynb
       - name: Add and commit 
-        if: needs.check_file.outputs.file_change == 'true'
+        if: steps.check_file.outputs.file_change == 'true'
         uses: EndBug/add-and-commit@v8
         with:
           message: 'New files data added'
