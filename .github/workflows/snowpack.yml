@@ -19,7 +19,7 @@ jobs:
       - name: Install dependencies
         run: pipenv install    
       - name: Get snowpack data
-        run: make snowpack
+        run: make snowpackdata
       # - name: Run total scraper
       #   run: pipenv run jupyter execute snowpack/download-timeseries.ipynb  
       - name: Add and commit
