@@ -2,7 +2,7 @@ name: Download & process urban water data
 
 on:
   schedule:
-  - cron: 35 7 * * * # every day around 7:35 p.m. Pacific
+  - cron: 35 7 * * 5 # every Friday around 7:35 p.m. Pacific
   workflow_dispatch:
 
 jobs:
@@ -35,12 +35,14 @@ jobs:
       #   with:
       #     message: 'New data added'
       #     add: '*.json'      
-      - name: Run scraper
-        # if: steps.check_file.outputs.file_change == 'true'
-        run: pipenv run python urban-water-use/scrape.py
-      - name: Process data
-        # if: steps.check_file.outputs.file_change == 'true'
-        run: pipenv run jupyter execute urban-water-use/r-gpcd.ipynb
+      # - name: Run scraper
+      #   # if: steps.check_file.outputs.file_change == 'true'
+      #   run: pipenv run python urban-water-use/scrape.py
+      # - name: Process data
+      #   # if: steps.check_file.outputs.file_change == 'true'
+      #   run: pipenv run jupyter execute urban-water-use/r-gpcd.ipynb
+      - name: Get urban water use data
+        run: make urbanwateruse
       - name: Add and commit 
         # if: steps.check_file.outputs.file_change == 'true'
         uses: EndBug/add-and-commit@v8
