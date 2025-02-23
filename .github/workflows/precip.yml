@@ -19,7 +19,7 @@ jobs:
       - name: Install dependencies
         run: pipenv install
       - name: Get precip data
-        run: make precipitation
+        run: make precipitationdata
       # - name: Run total scraper
       #   run: pipenv run jupyter execute precipitation/precipitation.ipynb  
       # - name: Run daily scraper
