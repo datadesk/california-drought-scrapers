@@ -19,7 +19,7 @@ jobs:
       - name: Install dependencies
         run: pipenv install  
       - name: Get US Drought Monitor data
-        run: make droughtmonitor
+        run: make droughtmonitordata
       # - name: Run total scraper
       #   run: pipenv run jupyter execute drought-monitor/drought-monitor.ipynb  
       - name: Add and commit
