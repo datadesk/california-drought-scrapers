@@ -19,7 +19,7 @@ jobs:
       - name: Install dependencies
         run: pipenv install
       - name: Get reservoir data
-        run: make reservoirs        
+        run: make reservoirsdata
     # - run: pipenv install
     # - name: Install requirements
     #   run: pipenv install -r requirements.txt    
