@@ -7,11 +7,11 @@ precipitationdata:
 
 reservoirsdata:
 	pipenv run jupyter execute reservoirs/download/01-statewide.ipynb
-	pipenv run jupyter execute reservoirs/download/01-dwr.ipynb
-	pipenv run jupyter execute reservoirs/download/01-colorado-bor.ipynb
+	pipenv run jupyter execute reservoirs/download/02-dwr.ipynb
+	pipenv run jupyter execute reservoirs/download/03-colorado-bor.ipynb
 	pipenv run jupyter execute reservoirs/process/01-statewide.ipynb
-	pipenv run jupyter execute reservoirs/process/01-dwr.ipynb
-	pipenv run jupyter execute reservoirs/process/01-colorado.ipynb
+	pipenv run jupyter execute reservoirs/process/02-dwr.ipynb
+	pipenv run jupyter execute reservoirs/process/03-colorado.ipynb
 
 snowpackdata:
 	pipenv run jupyter execute snowpack/download-timeseries.ipynb
