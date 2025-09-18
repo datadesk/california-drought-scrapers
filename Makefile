@@ -16,6 +16,7 @@ reservoirsdata:
 snowpackdata:
 	pipenv run jupyter execute snowpack/download-timeseries.ipynb
 
+.PHONY: urbanwaterusedata
 urbanwaterusedata:
-	$(call python,urban-water-use/scrape.py)
+	python urban-water-use/scrape.py
 	pipenv run jupyter execute urban-water-use/r-gpcd.ipynb
