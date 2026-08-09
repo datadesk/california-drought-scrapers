@@ -346,7 +346,7 @@ date,hydrologic_region,water_year,precip_inches,month,day,water_year_start,water
 2026-09-10,Statewide,Average,23.35,9.0,10.0,Average,,
 2026-09-11,Statewide,Average,23.36,9.0,11.0,Average,,
 2026-09-12,Statewide,Average,23.36,9.0,12.0,Average,,
-2026-09-13,Statewide,Average,23.37,9.0,13.0,Average,,
+2026-09-13,Statewide,Average,23.36,9.0,13.0,Average,,
 2026-09-14,Statewide,Average,23.37,9.0,14.0,Average,,
 2026-09-15,Statewide,Average,23.38,9.0,15.0,Average,,
 2026-09-16,Statewide,Average,23.4,9.0,16.0,Average,,
@@ -675,7 +675,7 @@ date,hydrologic_region,water_year,precip_inches,month,day,water_year_start,water
 2026-08-05,Statewide,2025-26,22.16,8.0,5.0,2025,2026,2025-08-05
 2026-08-06,Statewide,2025-26,22.16,8.0,6.0,2025,2026,2025-08-06
 2026-08-07,Statewide,2025-26,22.16,8.0,7.0,2025,2026,2025-08-07
-2026-08-08,Statewide,2025-26,,8.0,8.0,2025,2026,2025-08-08
+2026-08-08,Statewide,2025-26,22.17,8.0,8.0,2025,2026,2025-08-08
 2026-08-09,Statewide,2025-26,,8.0,9.0,2025,2026,2025-08-09
 2026-08-10,Statewide,2025-26,,8.0,10.0,2025,2026,2025-08-10
 2026-08-11,Statewide,2025-26,,8.0,11.0,2025,2026,2025-08-11
@@ -10895,7 +10895,7 @@ date,hydrologic_region,water_year,precip_inches,month,day,water_year_start,water
 2026-08-05,North Coast,2025-26,43.92,8.0,5.0,2025,2026,2025-08-05
 2026-08-06,North Coast,2025-26,43.92,8.0,6.0,2025,2026,2025-08-06
 2026-08-07,North Coast,2025-26,43.92,8.0,7.0,2025,2026,2025-08-07
-2026-08-08,North Coast,2025-26,,8.0,8.0,2025,2026,2025-08-08
+2026-08-08,North Coast,2025-26,43.92,8.0,8.0,2025,2026,2025-08-08
 2026-08-09,North Coast,2025-26,,8.0,9.0,2025,2026,2025-08-09
 2026-08-10,North Coast,2025-26,,8.0,10.0,2025,2026,2025-08-10
 2026-08-11,North Coast,2025-26,,8.0,11.0,2025,2026,2025-08-11
@@ -20762,7 +20762,7 @@ date,hydrologic_region,water_year,precip_inches,month,day,water_year_start,water
 2026-08-17,Sacramento River,Average,35.77,8.0,17.0,Average,,
 2026-08-18,Sacramento River,Average,35.77,8.0,18.0,Average,,
 2026-08-19,Sacramento River,Average,35.78,8.0,19.0,Average,,
-2026-08-20,Sacramento River,Average,35.8,8.0,20.0,Average,,
+2026-08-20,Sacramento River,Average,35.79,8.0,20.0,Average,,
 2026-08-21,Sacramento River,Average,35.8,8.0,21.0,Average,,
 2026-08-22,Sacramento River,Average,35.82,8.0,22.0,Average,,
 2026-08-23,Sacramento River,Average,35.83,8.0,23.0,Average,,
@@ -20795,7 +20795,7 @@ date,hydrologic_region,water_year,precip_inches,month,day,water_year_start,water
 2026-09-19,Sacramento River,Average,36.24,9.0,19.0,Average,,
 2026-09-20,Sacramento River,Average,36.28,9.0,20.0,Average,,
 2026-09-21,Sacramento River,Average,36.29,9.0,21.0,Average,,
-2026-09-22,Sacramento River,Average,36.31,9.0,22.0,Average,,
+2026-09-22,Sacramento River,Average,36.3,9.0,22.0,Average,,
 2026-09-23,Sacramento River,Average,36.33,9.0,23.0,Average,,
 2026-09-24,Sacramento River,Average,36.35,9.0,24.0,Average,,
 2026-09-25,Sacramento River,Average,36.39,9.0,25.0,Average,,
@@ -21115,7 +21115,7 @@ date,hydrologic_region,water_year,precip_inches,month,day,water_year_start,water
 2026-08-05,Sacramento River,2025-26,36.02,8.0,5.0,2025,2026,2025-08-05
 2026-08-06,Sacramento River,2025-26,36.02,8.0,6.0,2025,2026,2025-08-06
 2026-08-07,Sacramento River,2025-26,36.02,8.0,7.0,2025,2026,2025-08-07
-2026-08-08,Sacramento River,2025-26,,8.0,8.0,2025,2026,2025-08-08
+2026-08-08,Sacramento River,2025-26,36.02,8.0,8.0,2025,2026,2025-08-08
 2026-08-09,Sacramento River,2025-26,,8.0,9.0,2025,2026,2025-08-09
 2026-08-10,Sacramento River,2025-26,,8.0,10.0,2025,2026,2025-08-10
 2026-08-11,Sacramento River,2025-26,,8.0,11.0,2025,2026,2025-08-11
@@ -30977,7 +30977,7 @@ date,hydrologic_region,water_year,precip_inches,month,day,water_year_start,water
 2026-08-12,North Lahontan,Average,21.02,8.0,12.0,Average,,
 2026-08-13,North Lahontan,Average,21.03,8.0,13.0,Average,,
 2026-08-14,North Lahontan,Average,21.04,8.0,14.0,Average,,
-2026-08-15,North Lahontan,Average,21.07,8.0,15.0,Average,,
+2026-08-15,North Lahontan,Average,21.06,8.0,15.0,Average,,
 2026-08-16,North Lahontan,Average,21.08,8.0,16.0,Average,,
 2026-08-17,North Lahontan,Average,21.09,8.0,17.0,Average,,
 2026-08-18,North Lahontan,Average,21.1,8.0,18.0,Average,,
@@ -31007,7 +31007,7 @@ date,hydrologic_region,water_year,precip_inches,month,day,water_year_start,water
 2026-09-11,North Lahontan,Average,21.45,9.0,11.0,Average,,
 2026-09-12,North Lahontan,Average,21.46,9.0,12.0,Average,,
 2026-09-13,North Lahontan,Average,21.47,9.0,13.0,Average,,
-2026-09-14,North Lahontan,Average,21.48,9.0,14.0,Average,,
+2026-09-14,North Lahontan,Average,21.47,9.0,14.0,Average,,
 2026-09-15,North Lahontan,Average,21.49,9.0,15.0,Average,,
 2026-09-16,North Lahontan,Average,21.51,9.0,16.0,Average,,
 2026-09-17,North Lahontan,Average,21.55,9.0,17.0,Average,,
@@ -31335,7 +31335,7 @@ date,hydrologic_region,water_year,precip_inches,month,day,water_year_start,water
 2026-08-05,North Lahontan,2025-26,21.23,8.0,5.0,2025,2026,2025-08-05
 2026-08-06,North Lahontan,2025-26,21.23,8.0,6.0,2025,2026,2025-08-06
 2026-08-07,North Lahontan,2025-26,21.23,8.0,7.0,2025,2026,2025-08-07
-2026-08-08,North Lahontan,2025-26,,8.0,8.0,2025,2026,2025-08-08
+2026-08-08,North Lahontan,2025-26,21.23,8.0,8.0,2025,2026,2025-08-08
 2026-08-09,North Lahontan,2025-26,,8.0,9.0,2025,2026,2025-08-09
 2026-08-10,North Lahontan,2025-26,,8.0,10.0,2025,2026,2025-08-10
 2026-08-11,North Lahontan,2025-26,,8.0,11.0,2025,2026,2025-08-11
@@ -41555,7 +41555,7 @@ date,hydrologic_region,water_year,precip_inches,month,day,water_year_start,water
 2026-08-05,San Francisco Bay,2025-26,23.34,8.0,5.0,2025,2026,2025-08-05
 2026-08-06,San Francisco Bay,2025-26,23.34,8.0,6.0,2025,2026,2025-08-06
 2026-08-07,San Francisco Bay,2025-26,23.34,8.0,7.0,2025,2026,2025-08-07
-2026-08-08,San Francisco Bay,2025-26,,8.0,8.0,2025,2026,2025-08-08
+2026-08-08,San Francisco Bay,2025-26,23.34,8.0,8.0,2025,2026,2025-08-08
 2026-08-09,San Francisco Bay,2025-26,,8.0,9.0,2025,2026,2025-08-09
 2026-08-10,San Francisco Bay,2025-26,,8.0,10.0,2025,2026,2025-08-10
 2026-08-11,San Francisco Bay,2025-26,,8.0,11.0,2025,2026,2025-08-11
@@ -51775,7 +51775,7 @@ date,hydrologic_region,water_year,precip_inches,month,day,water_year_start,water
 2026-08-05,San Joaquin River,2025-26,25.09,8.0,5.0,2025,2026,2025-08-05
 2026-08-06,San Joaquin River,2025-26,25.09,8.0,6.0,2025,2026,2025-08-06
 2026-08-07,San Joaquin River,2025-26,25.09,8.0,7.0,2025,2026,2025-08-07
-2026-08-08,San Joaquin River,2025-26,,8.0,8.0,2025,2026,2025-08-08
+2026-08-08,San Joaquin River,2025-26,25.09,8.0,8.0,2025,2026,2025-08-08
 2026-08-09,San Joaquin River,2025-26,,8.0,9.0,2025,2026,2025-08-09
 2026-08-10,San Joaquin River,2025-26,,8.0,10.0,2025,2026,2025-08-10
 2026-08-11,San Joaquin River,2025-26,,8.0,11.0,2025,2026,2025-08-11
@@ -61995,7 +61995,7 @@ date,hydrologic_region,water_year,precip_inches,month,day,water_year_start,water
 2026-08-05,Central Coast,2025-26,23.2,8.0,5.0,2025,2026,2025-08-05
 2026-08-06,Central Coast,2025-26,23.2,8.0,6.0,2025,2026,2025-08-06
 2026-08-07,Central Coast,2025-26,23.2,8.0,7.0,2025,2026,2025-08-07
-2026-08-08,Central Coast,2025-26,,8.0,8.0,2025,2026,2025-08-08
+2026-08-08,Central Coast,2025-26,23.2,8.0,8.0,2025,2026,2025-08-08
 2026-08-09,Central Coast,2025-26,,8.0,9.0,2025,2026,2025-08-09
 2026-08-10,Central Coast,2025-26,,8.0,10.0,2025,2026,2025-08-10
 2026-08-11,Central Coast,2025-26,,8.0,11.0,2025,2026,2025-08-11
@@ -72215,7 +72215,7 @@ date,hydrologic_region,water_year,precip_inches,month,day,water_year_start,water
 2026-08-05,Tulare Lake,2025-26,16.79,8.0,5.0,2025,2026,2025-08-05
 2026-08-06,Tulare Lake,2025-26,16.79,8.0,6.0,2025,2026,2025-08-06
 2026-08-07,Tulare Lake,2025-26,16.79,8.0,7.0,2025,2026,2025-08-07
-2026-08-08,Tulare Lake,2025-26,,8.0,8.0,2025,2026,2025-08-08
+2026-08-08,Tulare Lake,2025-26,16.79,8.0,8.0,2025,2026,2025-08-08
 2026-08-09,Tulare Lake,2025-26,,8.0,9.0,2025,2026,2025-08-09
 2026-08-10,Tulare Lake,2025-26,,8.0,10.0,2025,2026,2025-08-10
 2026-08-11,Tulare Lake,2025-26,,8.0,11.0,2025,2026,2025-08-11
@@ -82435,7 +82435,7 @@ date,hydrologic_region,water_year,precip_inches,month,day,water_year_start,water
 2026-08-05,South Lahontan,2025-26,6.92,8.0,5.0,2025,2026,2025-08-05
 2026-08-06,South Lahontan,2025-26,6.92,8.0,6.0,2025,2026,2025-08-06
 2026-08-07,South Lahontan,2025-26,6.92,8.0,7.0,2025,2026,2025-08-07
-2026-08-08,South Lahontan,2025-26,,8.0,8.0,2025,2026,2025-08-08
+2026-08-08,South Lahontan,2025-26,6.92,8.0,8.0,2025,2026,2025-08-08
 2026-08-09,South Lahontan,2025-26,,8.0,9.0,2025,2026,2025-08-09
 2026-08-10,South Lahontan,2025-26,,8.0,10.0,2025,2026,2025-08-10
 2026-08-11,South Lahontan,2025-26,,8.0,11.0,2025,2026,2025-08-11
@@ -92655,7 +92655,7 @@ date,hydrologic_region,water_year,precip_inches,month,day,water_year_start,water
 2026-08-05,South Coast,2025-26,17.71,8.0,5.0,2025,2026,2025-08-05
 2026-08-06,South Coast,2025-26,17.71,8.0,6.0,2025,2026,2025-08-06
 2026-08-07,South Coast,2025-26,17.72,8.0,7.0,2025,2026,2025-08-07
-2026-08-08,South Coast,2025-26,,8.0,8.0,2025,2026,2025-08-08
+2026-08-08,South Coast,2025-26,17.72,8.0,8.0,2025,2026,2025-08-08
 2026-08-09,South Coast,2025-26,,8.0,9.0,2025,2026,2025-08-09
 2026-08-10,South Coast,2025-26,,8.0,10.0,2025,2026,2025-08-10
 2026-08-11,South Coast,2025-26,,8.0,11.0,2025,2026,2025-08-11
@@ -102535,7 +102535,7 @@ date,hydrologic_region,water_year,precip_inches,month,day,water_year_start,water
 2026-08-30,Colorado River,Average,4.97,8.0,30.0,Average,,
 2026-08-31,Colorado River,Average,4.99,8.0,31.0,Average,,
 2026-09-01,Colorado River,Average,5.0,9.0,1.0,Average,,
-2026-09-02,Colorado River,Average,5.02,9.0,2.0,Average,,
+2026-09-02,Colorado River,Average,5.01,9.0,2.0,Average,,
 2026-09-03,Colorado River,Average,5.03,9.0,3.0,Average,,
 2026-09-04,Colorado River,Average,5.04,9.0,4.0,Average,,
 2026-09-05,Colorado River,Average,5.06,9.0,5.0,Average,,
@@ -102554,7 +102554,7 @@ date,hydrologic_region,water_year,precip_inches,month,day,water_year_start,water
 2026-09-18,Colorado River,Average,5.19,9.0,18.0,Average,,
 2026-09-19,Colorado River,Average,5.21,9.0,19.0,Average,,
 2026-09-20,Colorado River,Average,5.23,9.0,20.0,Average,,
-2026-09-21,Colorado River,Average,5.25,9.0,21.0,Average,,
+2026-09-21,Colorado River,Average,5.24,9.0,21.0,Average,,
 2026-09-22,Colorado River,Average,5.26,9.0,22.0,Average,,
 2026-09-23,Colorado River,Average,5.27,9.0,23.0,Average,,
 2026-09-24,Colorado River,Average,5.28,9.0,24.0,Average,,
@@ -102875,7 +102875,7 @@ date,hydrologic_region,water_year,precip_inches,month,day,water_year_start,water
 2026-08-05,Colorado River,2025-26,3.64,8.0,5.0,2025,2026,2025-08-05
 2026-08-06,Colorado River,2025-26,3.64,8.0,6.0,2025,2026,2025-08-06
 2026-08-07,Colorado River,2025-26,3.64,8.0,7.0,2025,2026,2025-08-07
-2026-08-08,Colorado River,2025-26,,8.0,8.0,2025,2026,2025-08-08
+2026-08-08,Colorado River,2025-26,3.64,8.0,8.0,2025,2026,2025-08-08
 2026-08-09,Colorado River,2025-26,,8.0,9.0,2025,2026,2025-08-09
 2026-08-10,Colorado River,2025-26,,8.0,10.0,2025,2026,2025-08-10
 2026-08-11,Colorado River,2025-26,,8.0,11.0,2025,2026,2025-08-11
