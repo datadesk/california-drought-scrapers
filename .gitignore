@@ -5,3 +5,7 @@ feb23_out.xlsx
 Baseline_2020.xlsx
 downloaders/water-board-docs-portal.ipynb
 processors/conservation-analysis.ipynb
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+.env
