@@ -5,19 +5,25 @@ on:
     - cron: "0 10 * * *" # run every day at 3 a.m. PST
   workflow_dispatch:
 
+concurrency:
+  # Every scraper commits and pushes to the same branch, so run them one at a
+  # time. Queue rather than cancel so no scheduled run is dropped.
+  group: scraper-commit-${{ github.ref }}
+  cancel-in-progress: false
+
 jobs:
   scrape:
     runs-on: ubuntu-24.04
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: '3.13'
           cache: 'pipenv'
       - name: Install pipenv
-        run: curl https://raw.githubusercontent.com/pypa/pipenv/master/get-pipenv.py | python
+        run: python -m pip install --no-cache-dir pipenv
       - name: Install dependencies
-        run: pipenv install
+        run: pipenv sync
       - name: Get reservoir data
         run: make reservoirsdata
     # - run: pipenv install
