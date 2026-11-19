@@ -27,8 +27,6 @@ jobs:
       - name: Get reservoir data
         run: make reservoirsdata
     # - run: pipenv install
-    # - name: Install requirements
-    #   run: pipenv install -r requirements.txt    
     # - name: Run statewide scraper
     #   run: pipenv run jupyter execute reservoirs/download/01-statewide.ipynb
     # - name: Run DWR scraper

@@ -12,7 +12,7 @@ pipenv sync
 
 `pipenv sync` installs exactly the versions pinned in `Pipfile.lock`, which is what the GitHub Actions workflows run. Avoid `pipenv install` with no arguments for setup, since it can re-lock and quietly upgrade packages.
 
-To add or upgrade a package, use `pipenv install <package>` (or edit the `Pipfile` and run `pipenv lock`), then commit both `Pipfile` and `Pipfile.lock`. The workflows only ever install from the lock file, so a change to the `Pipfile` without a matching lock won't reach them. `requirements.txt` is not used by the workflows.
+To add or upgrade a package, use `pipenv install <package>` (or edit the `Pipfile` and run `pipenv lock`), then commit both `Pipfile` and `Pipfile.lock`. The workflows only ever install from the lock file, so a change to the `Pipfile` without a matching lock won't reach them.
 
 ## Running the scrapers
 
